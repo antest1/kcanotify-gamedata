@@ -12,7 +12,7 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/akashi_day.json"
 }, {
 	"name": "edges.json",
-	"version": 2018070501,
+	"version": 2018081901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/edges.json"
 }, {
 	"name": "expedition.json",
@@ -20,19 +20,19 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/expedition.json"
 }, {
 	"name": "items-en.json",
-	"version": 2018080201,
+	"version": 2018081901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-en.json"
 }, {
 	"name": "items-ko.json",
-	"version": 2018080201,
+	"version": 2018081901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-ko.json"
 }, {
 	"name": "items-scn.json",
-	"version": 2018080201,
+	"version": 2018081901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-scn.json"
 }, {
 	"name": "items-tcn.json",
-	"version": 2018080201,
+	"version": 2018081901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-tcn.json"
 }, {
 	"name": "quest_track.json",
