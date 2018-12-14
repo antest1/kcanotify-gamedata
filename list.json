@@ -56,7 +56,7 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/quests-scn.json"
 }, {
 	"name": "quests-tcn.json",
-	"version": 2018121501,
+	"version": 2018121502,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/quests-tcn.json"
 }, {
 	"name": "ships-en.json",
