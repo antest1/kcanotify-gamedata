@@ -15,6 +15,10 @@
 	"version": 2018122702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/edges.json"
 }, {
+	"name": "map_sub.json",
+	"version": 2019020802,
+	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/map_sub.json"
+}, {
 	"name": "expedition.json",
 	"version": 2018111701,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/expedition.json"
