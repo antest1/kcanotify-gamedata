@@ -417,7 +417,7 @@
 	"flag-lv": 50,
 	"total-num": 6,
 	"total-lv": 340,
-	"total-cond": "5-1|3-1|2-3",
+	"total-cond": "5-1|3-1|2-2|13,14-1",
 	"total-firepower": 450
 }, {
 	"no": "17",
