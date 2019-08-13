@@ -477,6 +477,7 @@
 	"reward": [[3, 3], [4, 1]],
 	"exp": [150, 180],
 	"flag-lv": 55,
+	"flag-cond": "7",
 	"total-lv": 300,
 	"total-num": 6,
 	"total-firepower": 500,
