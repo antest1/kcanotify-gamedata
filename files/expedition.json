@@ -515,15 +515,15 @@
 		"tcn": "鋁土船団護衛"
 	},
 	"time": 200,
-	"resource": [0, 0, 0, 0],
+	"resource": [40, 0, 0, 220],
 	"reward": [[11, 1], [0, 0]],
 	"exp": [60, 70],
 	"flag-lv": 40,
 	"flag-cond": "27",
 	"total-lv": 290,
-	"total-num": 6,
+	"total-num": 5,
 	"total-cond": "27-1|2-1",
-	"total-asw": 200,
+	"total-asw": 430,
 	"drum-ship": 3,
 	"drum-num": 6
 }, {
@@ -818,9 +818,9 @@
 		"tcn": "西方海域偵察作戰"
 	},
 	"time": 120,
-	"resource": [0, 0, 0, 0],
+	"resource": [0, 20, 20, 100],
 	"reward": [[1, 1], [0, 0]],
-	"exp": [0, 0],
+	"exp": [35, 90],
 	"flag-lv": 30,
 	"flag-cond": "16",
 	"total-num": 5,
