@@ -20,7 +20,7 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/map_sub.json"
 }, {
 	"name": "expedition.json",
-	"version": 2020020801,
+	"version": 2020020901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/expedition.json"
 }, {
 	"name": "items-en.json",
