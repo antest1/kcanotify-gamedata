@@ -207,6 +207,50 @@
 	"total-firepower": 300,
 	"total-asw": 200
 }, {
+	"no": "104",
+	"area": 1,
+	"name": {
+		"ko": "오가사와라초계선",
+		"en": "Ogasawara Offshore Patrol Line",
+		"jp": "小笠原沖哨戒線",
+		"scn": "小笠原近海警戒线远征",
+		"tcn": "小笠原近海警戒線遠征"
+	},
+	"time": 180,
+	"resource": [0, 300, 0, 100],
+	"reward": [[3, 4], [1, 2]],	
+	"exp": [100, 110],
+	"flag-lv": 60,
+	"total-num": 5,
+	"total-lv": 250,
+	"total-cond": "3-1|2-3",
+	"total-firepower": 300,
+	"total-fp": 200,
+	"total-asw": 380,
+	"total-los": 250
+}, {
+	"no": "105",
+	"area": 1,
+	"name": {
+		"ko": "오가사와라전투초계",
+		"en": "Ogasawara Offshore Battle Patrol",
+		"jp": "小笠原沖戦闘哨戒",
+		"scn": "小笠原近海战斗警戒",
+		"tcn": "小笠原近海戰鬥警戒"
+	},
+	"time": 210,
+	"resource": [100, 500, 100, 200],
+	"reward": [[3, 5], [4, 1]],
+	"exp": [120, 180],
+	"flag-lv": 60,
+	"total-num": 6,
+	"total-lv": 300,
+	"total-cond": "3-1|2-3",
+	"total-firepower": 330,
+	"total-asw": 410,
+	"total-fp": 370,
+	"total-los": 260
+}, {
 	"no": "9",
 	"area": 2,
 	"name": {
