@@ -12,7 +12,7 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/akashi_day.json"
 }, {
 	"name": "edges.json",
-	"version": 2020071102,
+	"version": 2020091901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/edges.json"
 }, {
 	"name": "map_sub.json",
@@ -20,7 +20,7 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/map_sub.json"
 }, {
 	"name": "expedition.json",
-	"version": 2020061401,
+	"version": 2020091901,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/expedition.json"
 }, {
 	"name": "items-en.json",
