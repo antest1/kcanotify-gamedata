@@ -1,3 +1,4 @@
 *.py
 test/
 old_resource/
+res/
