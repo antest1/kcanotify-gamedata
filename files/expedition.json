@@ -742,10 +742,10 @@
 	"reward": [[11, 1], [0, 0]],
 	"exp": [35, 40],
 	"flag-lv": 50,
-	"flag-cond": "7",
+	"flag-cond": "27/7",
 	"total-lv": 240,
 	"total-num": 5,
-	"total-cond": "7-1|1,2-4",
+	"total-cond": "7-1|1,2-4/27-1|1,2-4",
 	"total-los": 180,
 	"total-fp": 240,
 	"total-asw": 300
