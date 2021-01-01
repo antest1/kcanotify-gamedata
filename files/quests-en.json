@@ -3206,7 +3206,7 @@
 	"801": {
 		"code": "2101LQ1",
 		"name": "Happy New Year! Reiwa 3 Torpedo Squadron, begin Sortie!",
-		"desc": "Sortie a CL/CT/CLT as flagship and up to 5 DD to [W1-2], [W1-3], [W1-5], [W1-6] and [W7-1]. [W1-6] node N once and A-Rank+ the boss nodes of each.",
+		"desc": "Sortie a CL/CT/CLT and up to 5 DD/DE to [W1-2], [W1-3], [W1-5], [W1-6] and [W7-1]. [W1-6] node N once and A-Rank+ the boss nodes of each.",
 		"memo": "\u27a3 Rewards a Repair Goddess and either two Type 2 Depth Charges OR two Furniture Fairies OR an Action Report."
 	},
 	"802": {
@@ -3224,7 +3224,7 @@
 	"804": {
 		"code": "2101LQ4",
 		"name": "New Year Mission [Extra Operation] 1st Fleet, Sortie!",
-		"desc": "Sorite to [W3-5], [W4-5], [W7-2-2], and [W7-3-2]. S-Rank each boss node once.",
+		"desc": "Sorite to [W3-5], [W4-5], [W7-2-2], and [W7-3-2] with 1st fleet. S-Rank each boss node once.",
 		"memo": "\u27a3 Rewards: Furnitue (New Year's scrolls toward the 8th anniversary), Either two Blueprints OR a Prototype Flight Deck Catapult OR Type 4 Heavy Bomber Hiryuu"
 	}
 }
