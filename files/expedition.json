@@ -507,17 +507,18 @@
 		"tcn": "精銳水雷戰隊夜襲"
 	},
 	"time": 350,
-	"resource": [500, 750, 500, 500],
+	"resource": [600, 1000, 600, 600],
 	"reward": [[3, 5], [4, 1]],
 	"exp": [120, 150],
-	"flag-lv": 1,
-	"total-lv": 1,
+	"flag-lv": 75,
+	"total-lv": 550,
 	"total-num": 6,
+	"flag-cond": "3",
 	"total-cond": "3-1|2-5",
-	"total-firepower": 0,
-	"total-fp": 0,
-	"total-asw": 0,
-	"total-los": 0
+	"total-firepower": 410,
+	"total-fp": 390,
+	"total-asw": 410,
+	"total-los": 340
 }, {
 	"no": "17",
 	"area": 3,
@@ -986,17 +987,18 @@
 		"tcn": "和歐洲方面友軍的接觸"
 	},
 	"time": 720,
-	"resource": [0, 750, 500, 250],
+	"resource": [0, 800, 500, 400],
 	"reward": [[1, 3], [4, 1]],
 	"exp": [100, 125],
-	"flag-lv": 1,
-	"total-lv": 1,
-	"total-num": 6,
-	"total-cond": "20-1|3-1|13,14-4",
-	"total-firepower": 0,
-	"total-fp": 0,
-	"total-asw": 0,
-	"total-los": 0
+	"flag-lv": 65,
+	"total-lv": 365,
+	"flag-cond": "20",
+	"total-num": 5,
+	"total-cond": "20-1|13,14-3",
+	"total-firepower": 120,
+	"total-fp": 120,
+	"total-asw": 70,
+	"total-los": 140
 }, {
 	"no": "33",
 	"area": 5,
