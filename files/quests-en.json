@@ -3268,65 +3268,54 @@
         "code": "2103B1",
         "name": "[Hinamatsuri] Weekly W1",
         "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
-        "memo": "Hinamatsuri: A Springtime of Safeguarding the Naval Base's Coastal Waters \u27a3Rewards Hishimochi and either two 25mm Single Autocannon Mounts OR five Development Materials OR a Type 2 12cm Mortar Kai",
-        "unlock": [ 907 ],
-        "hash": 528960607
+        "memo": "Hinamatsuri: A Springtime of Safeguarding the Naval Base's Coastal Waters \u27a3Rewards Hishimochi and either two 25mm Single Autocannon Mounts OR five Development Materials OR a Type 2 12cm Mortar Kai"
     },
     "907": {
         "code": "2103B2",
         "name": "[Hinamatsuri] Weekly W2",
         "desc": "Sortie 4 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. S-Rank each boss node twice.",
-        "memo": "Hinamatsuri: A Springtime of Nansei Region Combat Patrols! \u27a3Rewards two Hishimochi and either five Buckets OR a Mamiya OR two Type 3 Depth Charge Projectors",
-        "unlock": [ 908, 909 ],
-        "hash": 533211674
+        "memo": "Hinamatsuri: A Springtime of Nansei Region Combat Patrols! \u27a3Rewards two Hishimochi and either five Buckets OR a Mamiya OR two Type 3 Depth Charge Projectors"
     },
     "908": {
         "code": "2103B3",
         "name": "[Hinamatsuri] A Springtime of Decisive Battles! Strike Down the Enemy Task Force!",
         "desc": "Sortie a CV(L/B), a CA(V), a CL and up to 3 additional ships to [W2-4], [W2-5] and [W7-2-M]. S-Rank each boss node twice.",
-        "memo": "\u27a3Rewards four Hishimochi and either ten Development Materials OR a Reinforcement Expansion OR a Medal",
-        "hash": 1586202713
+        "memo": "\u27a3Rewards four Hishimochi and either ten Development Materials OR a Reinforcement Expansion OR a Medal"
     },
     "909": {
         "code": "2103B4",
         "name": "[Hinamatsuri] Weekly EOs",
         "desc": "Sortie to [W3-5], [W4-5] and [W6-4]. S-Rank the boss nodes of each.",
-        "memo": "Hinamatsuri: A Springtime of Offensive Operations! \u27a3Rewards four Hishimochi and one of DE Matsuwa, Sado, Tsushima, Fukae or Hirato",
-        "hash": -2052429074
+        "memo": "Hinamatsuri: A Springtime of Offensive Operations! \u27a3Rewards four Hishimochi and one of DE Matsuwa, Sado, Tsushima, Fukae or Hirato"
     },
     "710": {
         "code": "2103G1",
         "name": "[Hinamatsuri] Hishimochi Modernization: 2021 Beginnings",
         "desc": "Have 2 Hishimochi. Modernize a DD using at least 4 Mutsuki-class DD.",
-        "memo": "\u2718Consumes the Hishimochi. \u27a3Rewards either six Buckets OR three Screws OR three Irako.",
-        "unlock": [ 711, 712 ],
-        "hash": -1310448526
+        "memo": "\u2718Consumes the Hishimochi. \u27a3Rewards either six Buckets OR three Screws OR three Irako."
     },
     "711": {
         "code": "2103G2",
-        "name": "[Hinamatsuri] Hishimochi Modernization: 2021 Destruction",
+        "name": "[Hinamatsuri] Hishimochi Modernization: 2021 Intermission",
         "desc": "Have 5 Hishimochi. Modernize an Ayanami-class DD using 5 Fubuki-class DD twice.",
-        "memo": "Shikinami is not a Fubuki-class DD. \u2718Consumes the Hishimochi. \u27a3Rewards either a Blueprint OR two Action Reports OR three New Model Armament Materials",
-        "hash": -1310441961
+        "memo": "\u2718Consumes the Hishimochi. \u27a3Rewards either a Blueprint OR two Action Reports OR three New Model Armament Materials"
     },
     "712": {
         "code": "2103G3",
         "name": "[Hinamatsuri] Weekly Cruiser Modernization",
         "desc": "Have 3 Hishimochi, 20 Development Materials, 2400 Steel and 2400 Ammo. Modernize a CA using at least 4 CL twice.",
-        "memo": "\u2718Consumes the resources and items. \u27a3Rewards: \u00B6First choice: Either seven Development Materials OR three Screws OR two Anti-Torpedo Bulges (Medium) \u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a New Model Rocket Development Materials",
-        "hash": -1310435820
+        "memo": "\u2718Consumes the resources and items. \u27a3Rewards: \u00B6First choice: Either seven Development Materials OR three Screws OR two Anti-Torpedo Bulges (Medium) \u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR a New Model Rocket Development Materials"
     },
     "713": {
         "code": "2103G4",
-        "name": "[Hinamatsuri] Hishimochi Modernization: The End of 2021",
+        "name": "[Hinamatsuri] Hishimochi Modernization: 2021 Sky",
         "desc": "Have 7 Hishimochi, 90 Development Materials, 9000 Fuel and 9000 Bauxite. Modernize a CV using 5 CVL twice.",
-        "memo": "\u2718Consumes the Hishimochi. \u27a3Rewards unconfirmed",
-        "hash": -1310441379
+        "memo": "\u2718Consumes the Hishimochi. \u27a3 Rewards either a Prototype Flight Deck Catapult OR two Ne-Type Engines OR 4 New Technology Aircraft Blueprints"
     },
 	"932": {
         "code": "2103LQ1",
         "name": "[Spring-Limited] The Springtime of Amatsukaze!",
         "desc": "Sortie Amatsukaze as flagship, one of Tokitsukaze, Yukikaze or Hatsukaze as second ship, and up to 4 additional ships to [W2-2], [W2-3] and [W7-3-P]. A-Rank+ each boss node twice.",
-        "memo": "\u27a3 Rewards a Furniture Fairy and either six Buckets OR three Type 3 Depth Charge Projectors OR three Underway Replenishments"
+        "memo": "\u27a3Rewards a Furniture Fairy and either six Buckets OR three Type 3 Depth Charge Projectors OR three Underway Replenishments"
     }
 }
