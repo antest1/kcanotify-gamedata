@@ -1832,6 +1832,14 @@
 			}
 		]
 	},
+	"372": {
+		"improvement": [{
+				"upgrade": false,
+				"req": [[[true, false, false, false, true, true, true], [883, 888]]],
+				"resource": [[320, 400, 0, 490], [6, 7, 2, 3, 17, 1], [7, 9, 3, 6, 17, 2], [0, 0, 0, 0, 0, 0]]
+			}
+		]
+	},
 	"382": {
 		"improvement": [{
 				"upgrade": false,
