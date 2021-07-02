@@ -1898,6 +1898,36 @@
         "desc": "Sortie any 2 of Haguro, Ashigara, Myoukou, Takao or Kamikaze, and up to 4 additional ships to [W7-3-P], [W7-2-M] and [W4-2]. S-Rank each boss node twice.",
         "memo": "Resets on the first quest reset of September. / \u203bVeteran 10th Area Fleet, Sortie at Full Force! / \u27a3Rewards: \u00B6First choice: Either a New Model Artillery Armament Materials OR a New Model Aviation Armament Materials OR ten Development Materials \u00B6Second choice: two Zuiuns Model 12 OR two New Model Armament Materials OR eight Screws"
     },
+	"944": {
+        "code": "By6",
+        "name": "Annual Naval Base Sea Patrol - June",
+        "desc": "Sortie a CA/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-2], [W1-3] and [W1-4]. A-Rank+ each boss node twice.",
+        "memo": "This quest resets on the first quest reset of June. \u203bPatrol the Sea Near the Naval Base! \u27a3Rewards: \u00B6First choice: Either two Type 2 Depth Charges OR two Irako OR a Mamiya \u00B6Second choice: Either a \u2605+2 Type 3 Active Sonar OR a \u2605+2 Type 3 Depth Charge Projector OR five Development Materials"
+    },
+    "945": {
+        "code": "By7",
+        "name": "Annual Nansei Islands Supply Route - June",
+        "desc": "Sortie a CL/CT/DD as flagship, 3 DD/DE and up to 2 additional ships to [W1-5], [W2-1] and [W1-6-N] twice. A-Rank+ all relevant boss nodes twice.",
+        "memo": "This quest resets on the first quest reset of June. \u203bSecure a Supply Route in the Nansei Islands! \u27a3Rewards: \u00B6First choice: Either two Type 2 12cm Mortars Kai OR a Shipborne Model Type 4 20cm Anti-ground Rocket Launcher OR four Combat Rations \u00B6Second choice: Either two Daihatsu Landing Craft OR a New Model Artillery Armament Materials OR three Screws"
+    },
+    "946": {
+        "code": "By8",
+        "name": "Annual Carrier Task Force Sortie - June",
+        "desc": "Sortie a CV(L/B) as flagship, 2 CA(V) and up to 3 additional ships to [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes of each.",
+        "memo": "This quest resets on the first quest reset of June. \u203bCarrier Task Force, Sortie! Intercept the Enemy Fleet! \u27a3Rewards: \u00B6First choice: Either two Type 0 Fighters Model 32 OR two F4F-3 OR five Buckets \u00B6Second choice: Either two Type 99 Dive Bombers Model 22 OR two SBD OR an Action Report"
+    },
+    "947": {
+        "code": "By9",
+        "name": "Annual Operation AL - June",
+        "desc": "Sortie 2 CVL and up to 4 additional ships to [W3-1], [W3-3], [W3-4] and [W3-5]. S-Rank the boss nodes of each.",
+        "memo": "This quest resets on the first quest reset of June. \u203bOperation AL Rewards 480 Ranking Points and either two Type 13 Air Radars Kai OR a Medal OR a Reinforcement Expansion"
+    },
+    "948": {
+        "code": "By10",
+        "name": "Annual Naval Task Force Decisive Battle - June",
+        "desc": "Sortie a CV(L/B) as flagship and up to 5 additional ships to [W5-2], [W5-5], [W6-4] and [W6-5]. A-Rank+ [W6-4] twice. S-Rank all other relevant boss nodes twice.",
+        "memo": "This quest resets on the first quest reset of June. \u203bNaval Task Force Decisive Battle Rewards 600 Ranking Points and either five Skilled Crew Members OR a Prototype Flight Deck Catapult OR a Kikka Kai"
+    },
 
 	"301": {
         "code": "C1",
@@ -2164,6 +2194,12 @@
         "name": "The Remodeled Yahagi's Elite Torpedo Squadron Flagship Exercises!",
         "desc": "Secure 4 S-Rank victories in Exercises within the same day using Yahagi Kai Ni+ as flagship, 4 DD and up to 1 additional ship.",
         "memo": "\u27a3Rewards a 15.2cm Twin Gun Mount Kai Ni and either two 25mm Triple Autocannon Mounts OR a New Model Armament Materials OR furniture"
+    },
+	"353": {
+        "code": "C58",
+        "name": "Cruiser Squadron Exercises!",
+        "desc": "Secure 5 B-Rank+ victories in Exercises within the same day using a CA(V) as flagship, 3 additional CA(V) and 2 DD.",
+        "memo": "\u27a3Rewards a Mamiya and either two Type 22 Surface Radars Kai 4 OR two 20.3cm (No.3) Twin Gun Mounts OR a \u2605+2 Skilled Lookouts"
     },
 
 	"313": {
@@ -3124,7 +3160,30 @@
         "desc": "Have 1600 Bauxite and 20 Development Materials. Scrap 4 Dive Bombers and 4 Torpedo Bombers.",
         "memo": "\u2718Consumes the resources. \u203bAir Force Modernization and Reorganization Allocation / \u27a3Rewards: \u00B6First choice: Either three Type 96 Land-based Attack Aircraft OR a Type 1 Land-based Attack Aircraft Model 22A OR two New Model Aviation Armament Materials \u00B6Second choice: Either a Skilled Crew Member OR four Screws"
     },
-
+	"1101": {
+        "code": "F96",
+        "name": "Another Naval Arsenal Maintenance",
+        "desc": "Have 4 14cm Single Gun Mounts, 4 20.3cm Twin Gun Mounts and 4000 Furniture Coins. Scrap 8 12.7cm Twin Gun Mounts.",
+        "memo": "\u27a3Rewards: \u00B6First choice: Either eight Flamethrowers OR eight Development Materials OR a Furniture Fairy \u00B6Second choice: Either a New Model Artillery Armament Materials OR a New Model Rocket Development Materials OR four Screws"
+    },
+    "1102": {
+        "code": "F97",
+        "name": "Preparations for Equipment Improvement in the Arsenal",
+        "desc": "Have 2400 Fuel, 5 20.3cm Twin Gun Mounts and 5 35.6cm Twin Gun Mounts. Scrap 7 12cm Single Gun Mounts.",
+        "memo": "\u27a3Rewards: \u00B6First choice: Either two New Model Artillery Armament Materials OR two New Model Aviation Armament Materials OR four screws \u00B6Second choice: Either two New Model Armament Materials OR two 25mm Triple Machine Gun Mounts OR ten Development Materials"
+    },
+    "1103": {
+        "code": "F98",
+        "name": "Annual Sub Torpedo - June",
+        "desc": "Have 60 Development Materials, 2 Type 93 Sonars and 2 Type 13 Air Radars Kai. Scrap 3 61cm Triple (Oxygen) Torpedo Mounts.",
+        "memo": "This quest resets on the first quest reset of June. \u203bMass Production of Improved Submarine Armaments \u27a3Rewards a Late Model Bow Torpedo Mount (6 tubes) and either five Development Materials OR two Screws"
+    },
+    "1104": {
+        "code": "F99",
+        "name": "Annual Submarine Radar - June",
+        "desc": "Have 100 Development Materials, 2 Type 93 Sonars and 2 Type 22 Surface Radars. Scrap 3 Type 13 Air Radars Kai.",
+        "memo": "This quest resets on the first quest reset of June. \u203bMass Production of Electronic Submarine Armaments \u27a3Rewards a Submarine Radar & Waterproof Telescope and either five Development Materials OR two Screws"
+    },
 
 	"701": {
 		"code": "G1",
