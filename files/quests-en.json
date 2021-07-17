@@ -1551,6 +1551,12 @@
         "desc": "Sortie Ryuuhou Kai Ni (E) as Fleet 1 flagship, Shigure Kai Ni and up to 4 additional ships to [W2-2], [W2-3], [W2-4], [W2-5] and [W7-2-M]. S-Rank all relevant boss nodes.",
         "memo": "\u27a3Rewards: \u00B6First choice: Either eight Buckets OR a Tenzan Model 12A OR a Repair Goddess \u00B6Second choice: Either a +2 8cm High-angle Gun Kai + Extra Machine Guns OR a Type 0 Fighter Model 63 (Fighter-bomber) OR a Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
 	},
+	"949": {
+        "code": "B170",
+        "name": "Remodeled Carrier Gambier Mk.II, Weigh Anchor!",
+        "desc": "Sortie Gambier Bay Mk. II as Fleet 1 flagship, at least 1 Fletcher-class DD and up to 4 additional ships to [W2-4] and [W3-5] and S-Rank the boss nodes twice. Sortie to [W6-4] and A-rank+ the boss node twice.",
+        "memo": "\u27a3Rewards: \u00B6First choice: Either two TBF\u2605+4 OR seven Screws OR an Action Report \u00B6Second choice: Either a FR-1 Fireball OR 800 Ranking Points"
+    },
 
 	"201": {
 		"code": "Bd1",
@@ -2201,6 +2207,12 @@
         "desc": "Secure 5 B-Rank+ victories in Exercises within the same day using a CA(V) as flagship, 3 additional CA(V) and 2 DD.",
         "memo": "\u27a3Rewards a Mamiya and either two Type 22 Surface Radars Kai 4 OR two 20.3cm (No.3) Twin Gun Mounts OR a \u2605+2 Skilled Lookouts"
     },
+	"354": {
+        "code": "C60",
+        "name": "Annual Gambier Bay Task Force Exercises - July",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Gambier Bay MK. II as flagship, any two of Fletcher, Johnston and Samuel B. Roberts and up to three additional ships.",
+        "memo": "This quest resets on the first quest reset of July. \u203bRemodeled Carrier Task Force Exercise! \u27a3Rewards a Construction Battalion and either two FM-2 OR two TBF OR a \u2605+5 SK Radar"
+    },
 
 	"313": {
         "code": "C47",
@@ -2221,7 +2233,7 @@
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
     },
     "326": {
-        "code": "C36",
+        "code": "C59",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -2500,6 +2512,12 @@
         "name": "Annual Expeditions 2 - March",
         "desc": "Complete Expeditions 5, 12, 9, B1 and 11.",
         "memo": "This quest resets on the first quest reset of March. \u203bA Naval Convoy Transport of New Armament Development Materials! \u27a3Rewards:\u00B6First choice: Either six Development Materials OR five Buckets \u00B6Second choice: Either a New Model Armament Materials OR a New Model Aviation Armament Materials OR four Screws"
+    },
+	"445": {
+        "code": "D41",
+        "name": "Land Base Development and Expansion",
+        "desc": "Complete Expeditions 5, A1, 9, 18, 36, 40 and 45.",
+        "memo": "\u27a3Rewards: \u00B6First choice: Either a Construction Battalion OR two Type 1 Land-based Attack Aircraft \u00B6Second choice: Either a Construction Battalion OR two New Model Aviation Armament Materials"
     },
 
 	"501": {
@@ -3184,6 +3202,18 @@
         "desc": "Have 100 Development Materials, 2 Type 93 Sonars and 2 Type 22 Surface Radars. Scrap 3 Type 13 Air Radars Kai.",
         "memo": "This quest resets on the first quest reset of June. \u203bMass Production of Electronic Submarine Armaments \u27a3Rewards a Submarine Radar & Waterproof Telescope and either five Development Materials OR two Screws"
     },
+	"1105": {
+        "code": "F100",
+        "name": "Annual Construction Battalion - July",
+        "desc": "Have 2800 Ammo, 4 Type 97 Torpedo Bombers and 4 Tenzan. Scrap 3 Land-Based Attack Aircraft such as Type 96 and Type 1 Land-Based Attack Aircraft.",
+        "memo": "This quest resets on the first quest reset of July. \u203bSummer Hangar & Land Base Maintenance \u27a3Rewards: \u00B6First choice: Either two New Model Aviation Armament Materials OR a New Model Armament Material OR ten Development Materials \u00B6Second choice: Either two Skilled Crew Members OR a Construction Battalion OR eight Screws"
+    },
+    "1106": {
+        "code": "F101",
+        "name": "Frontline utilization of elite three-seated seaplane recon aircraft",
+        "desc": "Have 1300 Fuel, 1700 Baux, an Action Report, an Aerial Arm. Material and 2 Sk. Crew Members. Set Yura Kai Ni as secretary with a \u2605max Type 0 Reconnaissance Seaplane Model 11B in her 1st slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun.",
+        "memo": "\u2718Consumes the resources and items. \u27a3Rewards a Type 0 Reconnaissance Seaplane Model 11B (Skilled)"
+    },
 
 	"701": {
 		"code": "G1",
@@ -3377,22 +3407,16 @@
         "memo": "DesDiv 31 members include Asashimo, Kishinami, Okinami and Takanami. \u27a3 Rewards: \u00B6First choice: Either a Present Box OR three Furniture Boxes (Large) \u00B6Second choice: Either two New Model Artillery Armament Materials OR a Medal OR an Action Report"
 	},
 
-	"932": {
-        "code": "2103LQ1",
-        "name": "[Spring-Limited] The Springtime of Amatsukaze!",
-        "desc": "Sortie Amatsukaze as flagship, one of Tokitsukaze, Yukikaze or Hatsukaze as second ship, and up to 4 additional ships to [W2-2], [W2-3] and [W7-3-P]. A-Rank+ each boss node twice.",
-        "memo": "\u27a3Rewards a Furniture Fairy and either six Buckets OR three Type 3 Depth Charge Projectors OR three Underway Replenishments"
+	"950": {
+        "code": "2107LQ1",
+        "name": "[Summer Limited] Operation Mermaid's Shore!",
+        "desc": "Sortie either Sazanami, Oboro, Ushio and Akebono OR Shiratsuyu Kai Ni, Shigure Kai Ni, Murasame Kai Ni and Yuudachi Kai Ni AND up to two additional ships to [W1-4], [W2-3] and [W3-2]. S-Rank the boss nodes twice.",
+        "memo": "\u2718 Your fleet must contain all four members of the same group. \u27a3Rewards: \u00B6First choice: Either ten Development Material OR eight buckets \u00B6Second choice: Either a Medal OR a Mamiya OR a Reinforcement Expansion"
     },
-	"941": {
-        "code": "2103LQ2",
-        "name": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
-        "desc": "Sortie a CL/CT/AS as flagship and up to 4 DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2]. S-Rank the boss nodes twice each.",
-        "memo": "\u27a3Rewards: \u00B6First choice: Either a Type 3 Active Sonar OR a Type 3 Depth Charge Projector OR five Development Materials \u00B6Second choice: Either two Type 95 Depth Charges OR two Irako OR a Furniture Fairy"
-    },
-	"942": {
-		"code": "2104LQ1",
-        "name": "[8th Anniversary-Limited] Catalina Festival",
-        "desc": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ each boss node twice.",
-        "memo": "\u27a3Rewards: \u00B6First choice: Either a PBY-5A Catalina OR twenty-eight Development Materials OR eight Tenzans \u00B6Second choice: Either a PBY-5A Catalina OR a Prototype Flight Deck Catapult OR eight Screws"
-	}
+    "951": {
+        "code": "2107LQ2",
+        "name": "[Summer Limited] European Operation Siren's Shore!",
+        "desc": "Sortie a fleet with at least five of Italian DDs, German DDs, American DDs, French ships, Littorio/Italia, U-511/Ro-500, Houston and Gotland to [W4-1], [W4-3] and [W4-4]. S-Rank the boss nodes twice.",
+        "memo": "\u2718 Known acceptable ships: Maestrale, Grecale, Libeccio, Scirocco, Z1, Z3, Fletcher, Johnston, Samuel B.Roberts, Richelieu, Commandant Teste, Littorio/Italia, U-511/Ro-500, Houston, Gotland \u27a3Rewards: \u00B6First choice: Either a Furniture Fairy or five Screws or a Medal \u00B6Second choice: Either a Remodal Blueprint OR a Prototype Flight Deck Catapult"
+    }
 }
