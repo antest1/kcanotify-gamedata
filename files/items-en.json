@@ -423,6 +423,13 @@
   "Fulmar(戦闘偵察/熟練)": "Fulmar (Combat Reconnaissance/Skilled)‎‎",
   "Barracuda Mk.II": "Barracuda Mk.II",
   "Barracuda Mk.III": "Barracuda Mk.III",
+  "305mm/46 連装砲": "305mm/46 Twin Gun Mount",
+  "305mm/46 三連装砲": "305mm/46 Triple Gun Mount",
+  "320mm/44 連装砲": "320mm/46 Twin Gun Mount",
+  "320mm/44 三連装砲": "320mm/46 Triple Gun Mount",
+  "65mm/64 単装速射砲改": "65mm/64 Single Rapid Fire Gun Mount Kai",
+  "SM.79": "SM.79",
+  "SM.79 bis": "SM.79 bis",
   
   "プレゼント箱": "Present Box",
   "秋刀魚": "Saury",
@@ -542,5 +549,9 @@
   "深海16inch三連装砲 Mk6": "Abyssal 16inch Triple Gun Mount Mk.6",
 	"深海カモメ水偵" : "Abyssal Seagull Reconnaissance Seaplane",
 	"深海海猫水偵" : "Abyssal Seamew Reconnaissance Seaplane",
-	"深海6inch三連装主砲 Mk.16" : "Abyssal 6inch Triple Main Gun Mount Mk.16"
+	"深海6inch三連装主砲 Mk.16" : "Abyssal 6inch Triple Main Gun Mount Mk.16",
+  "地中海12inch/46 連装砲": "Mediterranean 12inch/46 Twin Gun Mount",
+  "地中海12inch/46 三連装砲": "Mediterranean 12inch/46 Triple Gun Mount",
+  "地中海12.6inch/44 連装砲": "Mediterranean 12.6inch/46 Twin Gun Mount",
+  "地中海12.6inch/44 三連装砲": "Mediterranean 12.6inch/46 Triple Gun Mount"
 }
