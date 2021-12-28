@@ -2,3 +2,4 @@
 test/
 old_resource/
 res/
+*.bak
