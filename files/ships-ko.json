@@ -22,6 +22,7 @@
     " Mod.2": " Mod.2",
     " Mk.II": " Mk.II",
   	"II": "II",
+    "III": "III",
     " elite": " elite",
     " flagship": " flagship",
     "II elite": "II elite",
@@ -491,6 +492,9 @@
   "ヒ船団棲姫":"히선단서희",
   "深海梅棲姫":"심해매서희",
   "横浜岸壁棲姫":"요코하마안벽서희",
+  "深海玉棲姫": "심해옥서희",
+  "超重爆飛行場姫": "초중폭비행장희",
+  "防空埋護冬姫": "방공매호동희",
   
   "elite": " elite",
   "flagship": " flagship"
