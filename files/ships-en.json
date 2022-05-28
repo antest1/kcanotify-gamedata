@@ -29,6 +29,7 @@
 		" バカンスmode-壊" :" V.M. - Damaged",
 		" 夏季上陸mode" :" Summer Landing Mode",
 		" 夏季上陸mode-壊" :" S.L.M - Damaged",
+		"(哨戒機配備)"  : " (w/ Patrol Aircraft)",
 		"改-壊":" Kai - Damaged",
 		"-壊":" - Damaged",
 		"甲":" A",
@@ -156,6 +157,7 @@
 	"伊14":"I-14",
 	"伊47":"I-47",
 	"伊203":"I-203",
+	"伊201":"I-201",
 	"まるゆ":"Maruyu",
 	"潮":"Ushio",
 	"響":"Hibiki",
@@ -517,6 +519,7 @@
 	"深海玉棲姫":"Abyssal Jade Princess",
 	"超重爆飛行場姫":"Super Heavy Bomber Airfield Princess",
 	"防空埋護冬姫":"Entombed Anti-Air Guardian Winter Princess",
+	"外南洋駆逐棲姫":"Outer Southern Sea Destroyer Princess",
 
 	"elite":" elite",
 	"flagship":" flagship"

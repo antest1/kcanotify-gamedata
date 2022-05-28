@@ -451,6 +451,10 @@
   "キ102乙": "Ki-102 B",
   "キ102乙改+イ号一型乙 誘導弾" : "Ki-102 B Kai + No.1 Model 1B Guided Missile",
   "試製 長12.7cm連装砲A型改四" : "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4",
+  "SG レーダー(後期型)": "SG Radar (Late Model)",
+  "後期型艦首魚雷(4門)" : "Late Model Bow Torpedo Mount (4 tubes)",
+  "後期型電探&逆探+シュノーケル装備" : "Late Model Radar & Passive Radiolocator + Snorkel Equipment",
+  "B-25" : "B-25",
   
   "プレゼント箱": "Present Box",
   "秋刀魚": "Saury",
@@ -580,5 +584,7 @@
   "夜復讐深海艦攻II": "Abyssal Night Revenge Torpedo Bomber II",
   "深海戦爆複座鷹": "Abyssal Two-seat Fighter-bomber Hawk",
   "深海戦爆複座鷹改": "Abyssal Two-seat Fighter-bomber Hawk Kai",
-  "深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
+  "深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model",
+  "深海双発陸爆" : "Abyssal Twin-engine Land-based Dive Bomber",
+  "深海双発陸爆Ace" : "Abyssal Twin-engine Land-based Dive Bomber Ace"
 }
