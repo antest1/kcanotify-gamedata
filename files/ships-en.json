@@ -335,6 +335,7 @@
 	"大東":"Daitou",
 	"昭南":"Shounan",
 	"御蔵":"Mikura",
+	"倉橋":"Kurahashi",
 	"第四号海防艦":"Kaiboukan No.4",
 	"第三〇号海防艦":"Kaiboukan No.30",
 	"屋代":"Yashiro",
@@ -382,6 +383,7 @@
 	"G.Garibaldi":"G. Garibaldi",
 	"Fletcher":"Fletcher",
 	"Colorado":"Colorado",
+	"Maryland":"Maryland",
 	"Grecale" :"Grecale",
 	"L.d.S.D.d.Abruzzi":"L.d.S.D.d.Abruzzi",
 	"Janus":"Janus",
@@ -520,6 +522,7 @@
 	"超重爆飛行場姫":"Super Heavy Bomber Airfield Princess",
 	"防空埋護冬姫":"Entombed Anti-Air Guardian Winter Princess",
 	"外南洋駆逐棲姫":"Outer Southern Sea Destroyer Princess",
+	"近代化戦艦棲姫":"Modernized Battleship Princess",
 
 	"elite":" elite",
 	"flagship":" flagship"
