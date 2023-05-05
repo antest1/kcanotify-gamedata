@@ -1671,6 +1671,12 @@
 		"desc": "Assemble a fleet containing Miyuki Kai Ni, 1 Fubuki-class, and up to 4 additional ships, then S rank the boss nodes of [W3-2], [W7-3-P], [W5-3], and [W6-4].",
 		"memo": "\u27a3Rewards: \u00B6First choice: Either two Reinforcement Expansion OR two Emergency Repair Goddess OR an Action Report \u00B6Second choice: Either a 12.7cm Twin Gun Mount Model A Kai 2 \u2605+10 OR three Smoke Generator (Smoke Screen) OR two 61cm Triple (Oxygen) Torpedo Mount \u2605+3"
 	},
+	"996": {
+        "code": "B190",
+        "name": "Improved Kongou-class Fast Battleship Haruna Kai Ni B/C, Sortie!",
+        "desc": "Sortie Haruna Kai Ni B/C, Kongou Kai Ni C, 2 DD and up to 2 additional ships to [W2-2], [W2-4], [W4-3], [W5-3], [W5-4] and [W7-5-T]. S-Rank each boss node.",
+        "memo": "\u27a3Rewards: \u00B6First choice: Either four 35.6cm Twin Gun Mount Kai OR two 35.6cm Twin Gun Mount Kai Ni OR two Action Reports \u00B6Second choice: Either a \u26052 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) OR a \u26056 Type 42 Air Radar Kai Ni OR two Blueprints"
+    },
 
 	"201": {
 		"code": "Bd1",
@@ -2375,6 +2381,12 @@
         "desc": "Assemble a fleet containing Fubuki, Shirayuki, Hatsuyuki, and Miyuki, and up to 2 additional ships, then score 4 A+ ranks in PVP within the same day.",
         "memo": "This quest resets on the first quest reset of April. \u27a3Rewards: \u00B6First choice: Either three 12.7cm Twin Gun Mount Model A OR three 61cm Triple Torpedo Mount OR six Development Material \u00B6Second choice: Either two Skilled Lookouts OR three Irako OR four Improvement Materials"
     },
+	"364": {
+        "code": "C73",
+        "name": "Elite 3rd Fleet, Start Exercises!",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using Haruna Kai Ni B/C, Kongou Kai Ni C, 2 DD and up to 2 additional ships.",
+        "memo": "\u27a3Rewards a 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) and either four 61cm Triple Torpedo Mount OR a Reinforcement Expansion OR two \u26055 53cm Twin Torpedo Mount"
+    },
 
 	"313": {
         "code": "C69",
@@ -2389,7 +2401,7 @@
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
     },
     "315": {
-        "code": "C64",
+        "code": "C74",
         "name": "Mass Exercises for Spring",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "memo": "\u27a3Rewards a Mamiya and a Present Box"
@@ -3472,6 +3484,19 @@
         "desc": "Set Miyuki Kai Ni as Secretary, equipped with a Smoke Generator (Smoke Screen) in her 1st slot. Prepare 2 Smoke Generator (Smoke Screen), 12 Development Materials, 1 New Model Armament Material, 480 fuel, and 350 bauxite.",
         "memo": "\u2718Consumes the items and resources. \u27a3Rewards a Smoke Generator Kai (Smoke Screen)"
     },
+	"1128": {
+        "code": "F116",
+        "name": "Development of Improved 35.6cm Gun Mount for Surface Combat",
+        "desc": "Have 48 Development Materials, 2 New Model Artillery Armament Materials, 5 35.6cm Twin Gun Mount, 960 Ammo and 800 Bauxite. Set Haruna Kai Ni B/C as secretary with a \u26053+ 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) in her first slot.",
+        "memo": "\u2718Consumes the items and resources. \u27a3Rewards a 35.6cm Twin Gun Mount Kai 4"
+    },
+    "1129": {
+        "code": "F117",
+        "name": "Accuracy Improvement of Submarine Torpedo Attacks",
+        "desc": "Have 36 Development Materials, 2 New Model Armament Materials, 4 61cm Triple (Oxygen) Torpedo Mount, 3 Skilled Lookouts and 800 Ammo. Set a SS(V) as secretary with a \u2605max Late Model Bow Torpedo Mount (6 Tubes) in her first slot.",
+        "memo": "\u2718Consumes the items and resources. \u27a3Rewards a Skilled Sonar Personnel + Late Model Bow Torpedo Mount (6 tubes)"
+    },
+
 
 	"701": {
 		"code": "G1",
