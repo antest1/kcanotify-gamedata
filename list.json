@@ -60,11 +60,11 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/quests-ko.json"
 }, {
 	"name": "quests-scn.json",
-	"version": 2023061802,
+	"version": 2023061803,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/quests-scn.json"
 }, {
 	"name": "quests-tcn.json",
-	"version": 2023061802,
+	"version": 2023061803,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/quests-tcn.json"
 }, {
 	"name": "ships-en.json",
