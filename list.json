@@ -1,6 +1,6 @@
 [{
 	"name": "icon_info.json",
-	"version": 2022123102,
+	"version": 2023072402,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/icon_info.json"
 }, {
 	"name": "akashi_data.json",
@@ -88,23 +88,23 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/ships_init_equip_count.json"
 }, {
 	"name": "stype-en.json",
-	"version": 2019072801,
+	"version": 2023072401,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/stype-en.json"
 }, {
 	"name": "stype-jp.json",
-	"version": 2019072801,
+	"version": 2023072401,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/stype-jp.json"
 }, {
 	"name": "stype-ko.json",
-	"version": 2019072801,
+	"version": 2023072401,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/stype-ko.json"
 }, {
 	"name": "stype-scn.json",
-	"version": 2019072801,
+	"version": 2023072401,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/stype-scn.json"
 }, {
 	"name": "stype-tcn.json",
-	"version": 2019072801,
+	"version": 2023072401,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/stype-tcn.json"
 }, {
 	"name": "world_list.json",
