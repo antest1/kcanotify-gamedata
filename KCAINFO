@@ -1,1 +1,12 @@
-{"version":"2.10","data_version":"5.6.5.3","kcadata_version":2023073102,"kc_maintenance":["", ""]}
+{
+    "version": "2.10",
+    "data_version": "5.6.5.3",
+    "kcadata_version": 2023073101,
+    "kcadata_langpacks": {
+        "ko": 2023073102,
+        "jp": 2023073102,
+        "en": 2023073102,
+        "scn": 2023073102,
+        "tcn": 2023073102
+    }
+}
