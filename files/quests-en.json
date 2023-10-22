@@ -2016,6 +2016,13 @@
         "rewards": "¶First choice: Either two Medals OR a 25mm Anti-aircraft Autocannon Expansion ★2 OR three Repair Godnesses ¶Second choice: Either a 12.7cm Twin Gun Mount Model C Kai 2 ★max OR a Torpedo Squadron Skilled Lookouts",
         "resources": [[1945, 410, 2023, 707], [0, 0, 0, 0]]
     },
+    "1001": {
+        "code": "B194",
+        "name": "Mainstay of Mainstays [Kiyoshimo Kai Ni], Sortie!",
+        "desc": "Sortie Kiyoshimo Kai Ni (D) as flagship, any 2 of Kasumi, Asashimo, Ooyodo and Ashigara and up to 3 additional ships to [W2-2], [W2-3], [W2-4] and [W7-4]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either three New Model Gun Mount Improvement Materials OR a 12.7cm Twin Gun Mount Model D Kai 2 OR a 61cm Quadruple (Oxygen) Torpedo Mount Late Model ¶Second choice: Either 7 Screws OR 30 Development Materials OR a Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
+        "resources": [[1000, 1000, 0, 0], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -3842,6 +3849,27 @@
         "rewards": "¶First choice: Either three 12.7cm Twin Gun Mount Model B Kai 2 OR two 12.7cm Twin High-angle Gun Mount (Late Model) OR a New Model Gun Mount Improvement Material ¶Second choice: Either a 14cm Twin Gun Mount Kai ★3 OR a 15.2cm Twin Gun Mount Kai ★2 OR two 20.3cm (No.2) Twin Gun Mounts",
         "resources": [[250, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1132": {
+        "code": "F120",
+        "name": "Deployment of the Improved Model D Gun!",
+        "desc": "Have 22 Development Materials, a New Model Artillery Armament Material, 10 12.7cm Twin Gun Mounts, 350 Ammo and 8 Screws. Set Kiyoshimo Kai Ni (D) as secretary with a \\u26058+ 12.7cm Twin Gun Mount Model D Kai 2 in her first slot.",
+        "rewards": "a 12.7cm Twin Gun Mount Model D Kai 3",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1133": {
+        "code": "F121",
+        "name": "Definitive Release of an Improved Combat Radar!",
+        "desc": "Have 40 Development Materials, a \\u26054+ Type 13 Air Radar Kai (Late Model) and 6 Screws. Set Kiyoshimo Kai Ni (D) or Asashimo Kai Ni as secretary with a Type 22 Surface Radar Kai 4 (Calibrated Late Model) in her first slot.",
+        "rewards": "a Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1134": {
+        "code": "F122",
+        "name": "Improvement of the Type 22 Surface Radar!",
+        "desc": "Have 22 Development Materials, 2 New Model Armament Materials, 4 Type 22 Surface Radars and 6 Screws. Set Shigure Kai Ni/San or Michishio Kai Ni as secretary with a \\u2605max Type 22 Surface Radar Kai 4 in her first slot.",
+        "rewards": "a Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4249,17 +4277,52 @@
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
     },
-    "992": {
-        "code": "L2307B1",
-        "name": "DesDiv 16, Sortie! Ensure the Safety of Naval Base Waters!",
-        "desc": "Sortie any 2 of Amatsukaze, Yukikaze, Tokitsukaze and Hatsukaze and up to 4 additional ships to [W1-3], [W1-4] and [W1-5]. A-Rank+ each boss node 3 times.",
-        "rewards": "¶First choice: Either two Irako OR a Reinforcement Expansion OR a Repair Godness ¶Second choice: Either a Remodel Blueprint OR a Dock Opening Key",
-        "resources": [[900, 0, 0, 0], [0, 0, 0, 0]]
+    "359": {
+        "code": "L2310C1",
+        "name": "Halloween Small Ship Exercises!",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201 and Johnston and up to 2 additional ships.",
+        "rewards": "¶First choice: Either a Mamiya OR 5 Flamethrowers OR three Screws ¶Second choice: Either a Pumpkin OR 4000 Fuels OR 2500 Bauxites",
+        "resources": [[440, 440, 0, 0], [0, 0, 0, 0]]
     },
-    "994": {
-        "code": "L2307B2",
-        "name": "Mainstay of Mainstays, Weigh Anchor! Destroy the Enemy Fleet!",
-        "desc": "Sortie 1 (F)BB(V) as flagship, 2 Yuugumo-class DD and up to 3 additional ships to [W1-2], [W1-4], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node.",
-        "rewards": "a White Tasuki and either an AO Kamoi OR an AR Akashi OR a CL Ooyodo",
-        "resources": [[1000, 1000, 1000, 0], [0, 0, 0, 0]]}
+    "984": {
+        "code": "L2310B1",
+        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Begin!",
+        "desc": "Sortie any of Ukuru, Inagi, Yuudachi, Asashio or Kiyoshimo as flagship and up to 5 additional ships to [W1-3], [W1-4] and [W1-5]. S-Rank each boss node.",
+        "rewards": "a Pumpkin and either two Irako OR 4 Buckets OR 6 Development Materials",
+        "resources": [[330, 330, 0, 0], [0, 0, 0, 0]]
+    },
+    "985": {
+        "code": "L2310B2",
+        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Northward!",
+        "desc": "Sortie any 2 of Kasumi, Ashigara, Ooyodo, Asashimo and Kiyoshimo and up to 4 additional ships to [W3-1], [W3-3] and [W3-5]. S-Rank each boss node.",
+        "rewards": "two Pumpkins and either two Daihatsu Landing Craft OR a Reinforcement Expansion OR two Mamiyas",
+        "resources": [[550, 550, 0, 0], [0, 0, 0, 0]]
+    },
+    "986": {
+        "code": "L2310B3",
+        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Westward!",
+        "desc": "Sortie any 2 of Roma, Maestrale, Grecale, Libeccio, Scirocco, Hamanami and Hayanami and up to 4 additional ships to [W4-2], [W4-3] and [W4-5]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either three Spitfire Mk.Is OR three Type 1 Fighter Hayabusa Model IIS OR 5 Screws ¶Second choice: Either an Action Report OR two Medals OR a Pumpkin",
+        "resources": [[0, 0, 770, 770], [0, 0, 0, 0]]
+    },
+    "987": {
+        "code": "L2310B4",
+        "name": "Weekly [Extended Repeatable Quest] 10th Anniversary Autumn Pumpkin Festival, Seconds!",
+        "desc": "Sortie either Abukuma and I-201 OR Ukuru and Inagi OR Mizuho, Brooklyn and Johnston, and up to 4 or 3 additional ships to [W6-1], [W6-2] and [W6-3]. A-Rank+ each boss node.",
+        "rewards": "a Pumpkin and either two 12cm 30-tube Rocket Launchers OR a Mamiya OR a Medal",
+        "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
+    },
+    "1002": {
+        "code": "L2310B5",
+        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival Extra Operation!",
+        "desc": "Sortie any 2 of Ukuru, Inagi, Asashio, Yuudachi, Nowaki, Hamanami, Hayanami and Abukuma and up to 4 additional ships to [W1-5], [W2-3], [W4-4] and [W6-4]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either 4 Daihatsu Landing Craft OR an Armored Boat (AB-tei) ★4 OR a Type 1 Land-based Attack Aircraft Model 34 ★4 ¶Second choice: Either a Prototype Toukai ★2 OR an Action Report OR three Pumpkins",
+        "resources": [[2023, 1031, 0, 0], [0, 0, 0, 0]]
+    },
+    "1119": {
+        "code": "L2310F1",
+        "name": "Weekly [Limited Time] Cleaning up for Halloween, huh?",
+        "desc": "Have three 35.6cm Twin Gun Mounts, three 25mm Twin Autocannon Mounts and 1031 Furniture coins. Scrap 6 Small Caliber Main Guns, 6 Medium Caliber Main Guns and 6 Recon Seaplanes.",
+        "rewards": "¶First choice: Either a Medal OR 8 Flamethrowers OR 10 Development Materials ¶Second choice: Either 2023 Bauxites OR two Irako OR a Pumpkin",
+        "resources": [[0, 0, 880, 0], [0, 0, 0, 0]]}
 }
