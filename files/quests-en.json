@@ -4277,52 +4277,52 @@
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
     },
-    "359": {
-        "code": "L2310C1",
-        "name": "Halloween Small Ship Exercises!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201 and Johnston and up to 2 additional ships.",
-        "rewards": "¶First choice: Either a Mamiya OR 5 Flamethrowers OR three Screws ¶Second choice: Either a Pumpkin OR 4000 Fuels OR 2500 Bauxites",
-        "resources": [[440, 440, 0, 0], [0, 0, 0, 0]]
+    "369": {
+        "code": "L2311C1",
+        "name": "[Naval Base Saury Festival] Saury Fishing Exercises!",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Oboro, Akebono, Sazanami, Ushio, Yuugumo, Okinami, Kishinami, Asashimo, Isokaze, Taigei (not Ryuuhou), Michishio, Shigure Kai Ni/San, Shirayuki, Shouhou and Ranger and up to 2 additional ships.",
+        "rewards": "¶First choice: Either two Mamiyas OR 4 Screws OR a Type 2 Two-seat Fighter Toryuu Model C ¶Second choice: Either an AO Yamashio Maru OR an LHA Kumano Maru OR a Medal",
+        "resources": [[800, 800, 0, 0], [0, 0, 0, 0]]
     },
-    "984": {
-        "code": "L2310B1",
-        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Begin!",
-        "desc": "Sortie any of Ukuru, Inagi, Yuudachi, Asashio or Kiyoshimo as flagship and up to 5 additional ships to [W1-3], [W1-4] and [W1-5]. S-Rank each boss node.",
-        "rewards": "a Pumpkin and either two Irako OR 4 Buckets OR 6 Development Materials",
-        "resources": [[330, 330, 0, 0], [0, 0, 0, 0]]
+    "866": {
+        "code": "L2311B1",
+        "name": "Saury Fishing: Saury Festival, Mainstay of Mainstays, here we go!",
+        "desc": "Have 8 Sauries in your inventory.",
+        "rewards": "¶First choice: Either an AS Jingei OR an AS Chougei OR three Irako ¶Second choice: Either a Type 96 150cm Searchlight OR an AR Akashi OR a Furniture Fairy",
+        "resources": [[1200, 1200, 0, 0], [0, 0, 0, 0]]
     },
-    "985": {
-        "code": "L2310B2",
-        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Northward!",
-        "desc": "Sortie any 2 of Kasumi, Ashigara, Ooyodo, Asashimo and Kiyoshimo and up to 4 additional ships to [W3-1], [W3-3] and [W3-5]. S-Rank each boss node.",
-        "rewards": "two Pumpkins and either two Daihatsu Landing Craft OR a Reinforcement Expansion OR two Mamiyas",
-        "resources": [[550, 550, 0, 0], [0, 0, 0, 0]]
+    "867": {
+        "code": "L2311B2",
+        "name": "Saury Fishing: Let's Draw the Big Catch Flag!",
+        "desc": "Have 16 Sauries in your inventory.",
+        "rewards": "¶First choice: Either three New Model Armament Materials OR 4 New Model Aerial Armament Materials OR an Action Report ¶Second choice: Either two Type 22 Surface Radar Kai 4 OR two Type 33 Surface Radars OR a Remodel Blueprint",
+        "resources": [[0, 0, 2300, 2300], [0, 0, 0, 0]]
     },
-    "986": {
-        "code": "L2310B3",
-        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Westward!",
-        "desc": "Sortie any 2 of Roma, Maestrale, Grecale, Libeccio, Scirocco, Hamanami and Hayanami and up to 4 additional ships to [W4-2], [W4-3] and [W4-5]. S-Rank each boss node.",
-        "rewards": "¶First choice: Either three Spitfire Mk.Is OR three Type 1 Fighter Hayabusa Model IIS OR 5 Screws ¶Second choice: Either an Action Report OR two Medals OR a Pumpkin",
-        "resources": [[0, 0, 770, 770], [0, 0, 0, 0]]
+    "868": {
+        "code": "L2311B3",
+        "name": "Saury Fishing: Oh, is it a big catch again this year? Nice to meet you.",
+        "desc": "Have 46 Sauries in your inventory.",
+        "rewards": "¶First choice: Either a Ki-96 ★4 OR two Remodel Blueprints OR a Prototype Flight Deck Catapult ¶Second choice: Either a Furniture: Type 22 Big Catch Banner OR a Furniture: Type 23 Big Catch Banner",
+        "resources": [[800, 800, 0, 0], [0, 0, 0, 0]]
     },
-    "987": {
-        "code": "L2310B4",
-        "name": "Weekly [Extended Repeatable Quest] 10th Anniversary Autumn Pumpkin Festival, Seconds!",
-        "desc": "Sortie either Abukuma and I-201 OR Ukuru and Inagi OR Mizuho, Brooklyn and Johnston, and up to 4 or 3 additional ships to [W6-1], [W6-2] and [W6-3]. A-Rank+ each boss node.",
-        "rewards": "a Pumpkin and either two 12cm 30-tube Rocket Launchers OR a Mamiya OR a Medal",
-        "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
+    "959": {
+        "code": "L2311B4",
+        "name": "[Naval Base Saury Festival] Full-Scale Operation Preparations!",
+        "desc": "Sortie a CL/CT/AR or Souya as flagship and up to 5 additional ships to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
+        "rewards": "¶First choice: Either three Searchlights OR two Type 3 Active Sonars OR two Screws ¶Second choice: Either three Ka Type Observation Autogyros OR three Type 2 Two-seat Fighter Toryuus OR three Screws",
+        "resources": [[800, 800, 0, 600], [0, 0, 0, 0]]
     },
-    "1002": {
-        "code": "L2310B5",
-        "name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival Extra Operation!",
-        "desc": "Sortie any 2 of Ukuru, Inagi, Asashio, Yuudachi, Nowaki, Hamanami, Hayanami and Abukuma and up to 4 additional ships to [W1-5], [W2-3], [W4-4] and [W6-4]. S-Rank each boss node.",
-        "rewards": "¶First choice: Either 4 Daihatsu Landing Craft OR an Armored Boat (AB-tei) ★4 OR a Type 1 Land-based Attack Aircraft Model 34 ★4 ¶Second choice: Either a Prototype Toukai ★2 OR an Action Report OR three Pumpkins",
-        "resources": [[2023, 1031, 0, 0], [0, 0, 0, 0]]
+    "960": {
+        "code": "L2311B5",
+        "name": "[Naval Base Saury Festival] Northern Fishing Grounds Defense Strategy!",
+        "desc": "Sortie a CL/CT/AR or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
+        "rewards": "¶First choice: Either a Type 22 Surface Radar Kai 4 OR three Skilled Lookoutss OR 5 Screws ¶Second choice: Either 4 Do 17 Z-2 OR a Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile OR two Type 2 Large-sized Flying Boat ★3",
+        "resources": [[600, 600, 0, 600], [0, 0, 0, 0]]
     },
-    "1119": {
-        "code": "L2310F1",
-        "name": "Weekly [Limited Time] Cleaning up for Halloween, huh?",
-        "desc": "Have three 35.6cm Twin Gun Mounts, three 25mm Twin Autocannon Mounts and 1031 Furniture coins. Scrap 6 Small Caliber Main Guns, 6 Medium Caliber Main Guns and 6 Recon Seaplanes.",
-        "rewards": "¶First choice: Either a Medal OR 8 Flamethrowers OR 10 Development Materials ¶Second choice: Either 2023 Bauxites OR two Irako OR a Pumpkin",
-        "resources": [[0, 0, 880, 0], [0, 0, 0, 0]]}
+    "1110": {
+        "code": "L2311F1",
+        "name": "Saury Festival [Extra Operation] The Most Elite Hiryuu Squadron!",
+        "desc": "",
+        "rewards": "a Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]}
 }
