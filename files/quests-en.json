@@ -4277,52 +4277,38 @@
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
     },
-    "369": {
-        "code": "L2311C1",
-        "name": "[Naval Base Saury Festival] Saury Fishing Exercises!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Oboro, Akebono, Sazanami, Ushio, Yuugumo, Okinami, Kishinami, Asashimo, Isokaze, Taigei (not Ryuuhou), Michishio, Shigure Kai Ni/San, Shirayuki, Shouhou and Ranger and up to 2 additional ships.",
-        "rewards": "¶First choice: Either two Mamiyas OR 4 Screws OR a Type 2 Two-seat Fighter Toryuu Model C ¶Second choice: Either an AO Yamashio Maru OR an LHA Kumano Maru OR a Medal",
-        "resources": [[800, 800, 0, 0], [0, 0, 0, 0]]
+    "370": {
+        "code": "L2311C2",
+        "name": "Weekly [Xmas Limited] Holy Night Maritime Escort Exercise",
+        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using any 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 and up to 2 additional ships.",
+        "rewards": "¶First choice: Either an Irako OR three Development Materials ¶Second choice: Either two Screws OR three Buckets",
+        "resources": [[250, 250, 250, 250], [0, 0, 0, 0]]
     },
-    "866": {
-        "code": "L2311B1",
-        "name": "Saury Fishing: Saury Festival, Mainstay of Mainstays, here we go!",
-        "desc": "Have 8 Sauries in your inventory.",
-        "rewards": "¶First choice: Either an AS Jingei OR an AS Chougei OR three Irako ¶Second choice: Either a Type 96 150cm Searchlight OR an AR Akashi OR a Furniture Fairy",
-        "resources": [[1200, 1200, 0, 0], [0, 0, 0, 0]]
+    "962": {
+        "code": "L2311B6",
+        "name": "[Xmas Limited] Merry Xmas Destroyer Squadron, Sortie!",
+        "desc": "Sortie any 4 of Yuugumo, Hayanami, Hamanami, Makinami, Oboro, Sazanami, Ushio and Akebono and up to 2 additional ships to [W1-1], [W1-3], [W1-4] and [W1-5]. S-Rank each boss node twice.",
+        "rewards": "a Present Box and either 10 Development Materials OR 4 Screws OR a Furniture Fairy",
+        "resources": [[0, 1224, 0, 0], [0, 0, 0, 0]]
     },
-    "867": {
-        "code": "L2311B2",
-        "name": "Saury Fishing: Let's Draw the Big Catch Flag!",
-        "desc": "Have 16 Sauries in your inventory.",
-        "rewards": "¶First choice: Either three New Model Armament Materials OR 4 New Model Aerial Armament Materials OR an Action Report ¶Second choice: Either two Type 22 Surface Radar Kai 4 OR two Type 33 Surface Radars OR a Remodel Blueprint",
-        "resources": [[0, 0, 2300, 2300], [0, 0, 0, 0]]
+    "963": {
+        "code": "L2311B7",
+        "name": "[Xmas Limited] Holy Night Light Cruiser, Weigh Anchor!",
+        "desc": "Sortie any 2 of Ooyodo, Naka, Sakawa, Yahagi Kai Ni+, Sheffield, De Ruyter and Gotland, one of them as flagship and up to 4 additional ships to [W2-3] and [W2-4]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either a New Model High Temperature High Pressure Boiler ★2 OR two New Model Gun Mount Improvement Materials OR 6 Buckets ¶Second choice: Either a 15.2cm Twin Gun Mount Kai ★4 OR a 8cm High-angle Gun ★8 OR a Medal",
+        "resources": [[1224, 0, 0, 0], [0, 0, 0, 0]]
     },
-    "868": {
-        "code": "L2311B3",
-        "name": "Saury Fishing: Oh, is it a big catch again this year? Nice to meet you.",
-        "desc": "Have 46 Sauries in your inventory.",
-        "rewards": "¶First choice: Either a Ki-96 ★4 OR two Remodel Blueprints OR a Prototype Flight Deck Catapult ¶Second choice: Either a Furniture: Type 22 Big Catch Banner OR a Furniture: Type 23 Big Catch Banner",
-        "resources": [[800, 800, 0, 0], [0, 0, 0, 0]]
+    "964": {
+        "code": "L2311B8",
+        "name": "[Xmas Extra Operation I] Xmas Special Mission Ship, Operation Start!",
+        "desc": "Sortie any 2 of Kamoi, Mizuho, Hayasui, Jingei, Chougei, Akashi, Asahi, Commandant Teste, Nevada, Kashima and Souya, one of them as flagship and up to 4 additional ships to [W4-1], [W6-2] and [W6-3]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either two Skilled Crew Members OR a 14cm Twin Gun Mount Kai OR 6 Screws ¶Second choice: Either three New Model Gun Mount Improvement Materials OR three New Model Armament Materials OR a Barracuda Mk.II",
+        "resources": [[0, 0, 1224, 1224], [0, 0, 0, 0]]
     },
-    "959": {
-        "code": "L2311B4",
-        "name": "[Naval Base Saury Festival] Full-Scale Operation Preparations!",
-        "desc": "Sortie a CL/CT/AR or Souya as flagship and up to 5 additional ships to [W1-1], [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank all relevant boss nodes.",
-        "rewards": "¶First choice: Either three Searchlights OR two Type 3 Active Sonars OR two Screws ¶Second choice: Either three Ka Type Observation Autogyros OR three Type 2 Two-seat Fighter Toryuus OR three Screws",
-        "resources": [[800, 800, 0, 600], [0, 0, 0, 0]]
-    },
-    "960": {
-        "code": "L2311B5",
-        "name": "[Naval Base Saury Festival] Northern Fishing Grounds Defense Strategy!",
-        "desc": "Sortie a CL/CT/AR or Souya as flagship and up to 5 additional ships to [W3-1], [W3-2], [W3-3], [W3-4] and [W3-5]. S-Rank all relevant boss nodes.",
-        "rewards": "¶First choice: Either a Type 22 Surface Radar Kai 4 OR three Skilled Lookoutss OR 5 Screws ¶Second choice: Either 4 Do 17 Z-2 OR a Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile OR two Type 2 Large-sized Flying Boat ★3",
-        "resources": [[600, 600, 0, 600], [0, 0, 0, 0]]
-    },
-    "1110": {
-        "code": "L2311F1",
-        "name": "Saury Festival [Extra Operation] The Most Elite Hiryuu Squadron!",
-        "desc": "",
-        "rewards": "a Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile",
-        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]}
+    "965": {
+        "code": "L2311B9",
+        "name": "[Xmas Extra Operation II] Xmas Final Battle, Begin!",
+        "desc": "Sortie any 3 of Warspite, Sheffield, Houston, Suzuya, Kumano and Kinugasa and up to 3 additional ships to [W4-5], [W5-3] and [W6-4]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either two Type 1 Land-based Attack Aircraft Model 22AS OR a Ginga OR two Barracuda Mk.IIs ¶Second choice: Either three New Model Aerial Armament Materials OR two Medals OR a Ne Type Engine",
+        "resources": [[2023, 1225, 0, 0], [0, 0, 0, 0]]}
 }
