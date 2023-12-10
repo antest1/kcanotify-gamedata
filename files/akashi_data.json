@@ -2456,6 +2456,15 @@
             }
         ]
     },
+    "485": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, true, false, false, false, true, true], [501]], [[true, true, false, false, false, false, false], [506]]],
+                "resource": [[150, 130, 0, 340], [12, 14, 7, 8, 201, 1], [15, 18, 9, 12, 202, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "convert_exception": true
+    },
     "488": {
         "improvement": [{
                 "upgrade": false,
