@@ -402,7 +402,7 @@
     "49": {
         "improvement": [{
                 "upgrade": [39, 5],
-                "req": [[[true, false, false, false, false, true, true], [28, 256, 418]], [[false, false, false, true, true, true, true], [29, 257, 548]], [[false, false, false, false, true, false, false], [113, 289, 487]]],
+                "req": [[[true, false, false, false, false, true, true], [28, 256, 418]], [[false, false, false, true, true, true, true], [29, 257, 548]], [[false, false, false, false, true, false, false], [113, 289, 487]], [[false, false, true, true, true, false, false], [10, 202]], [[true, false, false, false, true, true, true], [407]], [[false, true, true, true, false, false, false], [699]]],
                 "resource": [[0, 10, 10, 10], [0, 1, 1, 1, 0, 0], [1, 2, 1, 1, 49, 1], [2, 3, 1, 2, 49, 1]]
             }
         ],
@@ -2266,6 +2266,14 @@
             }
         ]
     },
+    "395": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[false, false, true, true, true, false, false], [321]], [[false, true, false, true, false, false, false], [356, 465]], [[true, false, false, false, false, true, true], [16, 233, 407]]],
+                "resource": [[640, 600, 0, 780], [7, 9, 3, 4, 16, 2], [10, 18, 5, 6, 17, 2], [0, 0, 0, 0, 0, 0]]
+            }
+        ]
+    },
     "401": {
         "improvement": [{
                 "upgrade": [405, 0],
@@ -2366,7 +2374,7 @@
         "improvement": [{
                 "upgrade": [443, 0],
                 "req": [[[false, false, true, true, true, false, false], [299, 715]]],
-                "resource": [[60, 120, 60, 50], [3, 4, 2, 3, 14, 1], [5, 8, 3, 4, 442, 1], [-1, -1, -1, -1, 0, 0]]
+                "resource": [[60, 120, 60, 50], [3, 4, 2, 3, 14, 1], [5, 8, 3, 4, 442, 1], [9, 13, 5, 7, 442, 2]]
             }
         ]
     },
@@ -2490,6 +2498,24 @@
             }
         ],
         "convert_exception": true
+    },
+    "507": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[false, true, true, true, true, false, false], [924, 929, 936]]],
+                "resource": [[20, 240, 320, 0], [2, 3, 2, 2, 0, 0], [3, 4, 2, 4, 7, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [936, 929, 924]
+    },
+    "508": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[false, true, true, true, true, false, false], [924, 929, 936]]],
+                "resource": [[30, 320, 480, 0], [3, 4, 2, 2, 7, 1], [4, 6, 2, 4, 507, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [936, 929, 924]
     },
     "511": {
         "improvement": [{

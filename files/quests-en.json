@@ -4324,5 +4324,33 @@
         "name": "[Time-Limited Quest] Wings Connected To The \"Renzan\"",
         "desc": "Prepare a Shinzan (★Max), a Type 1 Land-based Attack Aircraft Model 22A, 3 Skilled Crew Member, and 2 New Model Aerial Armament Material.",
         "rewards": "a Sinzan Kai",
-        "resources": [[0, 0, 0, 200], [0, 0, 0, 0]]}
+        "resources": [[0, 0, 0, 200], [0, 0, 0, 0]]
+    },
+    "801": {
+        "code": "L2401B1",
+        "name": "Happy New Year! Fleet, Weigh Anchor In 2024!",
+        "desc": "Assemble a fleet containing 1 CL(T)/CT as flagship, 2 DD, and up to 3 XX, then A+ rank the boss nodes of 1-2, 1-3, and 1-4.",
+        "rewards": "¶First choice: Either an Emergency Repair Material OR a Submarine Supply Material OR two Irako ¶Second choice: Either two Mamiyas OR 4 Screws OR 10 Development Materials",
+        "resources": [[2024, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "802": {
+        "code": "L2401B2",
+        "name": "Reiwa 6th Year, Dispatch The Fleet! Defense Battle For Nansei Islands Area",
+        "desc": "Assemble a fleet containing any 2 of: \"Akatsuki, Hibiki, Ikazuchi, or Inazuma\"; and up to 4 XX, then S rank the boss nodes of 2-1, 2-2, 2-3, and 2-4.",
+        "rewards": "¶First choice: Either two New Model Gun Mount Improvement Materials OR two New Model Aerial Armament Materials OR a Furniture Fairy ¶Second choice: Either two 12.7cm Twin Gun Mount Models A ★max OR a 12.7cm Twin Gun Mount Model A Kai 2 ★2 OR two Medals",
+        "resources": [[0, 2024, 0, 0], [0, 0, 0, 0]]
+    },
+    "803": {
+        "code": "L2401B3",
+        "name": "2024 Spring Festival! Maritine Escort Fleet Heading To The Sea In New Year!",
+        "desc": "Assemble a fleet containing any 2 of: \"Shinyou, Ryuuhou, Zuihou, Yamashio Maru, Sendai, Ooi, Hiei, Souya, the Type D DE (No.30, No.4, No. 22), or any AS\"; and up to 4 XX, then S rank the boss nodes of 1-5 and 7-4, twice each, and reach node N on 1-6 twice.",
+        "rewards": "¶First choice: Either 4 New Model Armament Materials OR two Reinforcement Expansions OR two Medals ¶Second choice: Either two Type 97 Torpedo Bomber (931 Air Group) ★8 OR a Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai) OR two Prototype 15cm Nonuple ASW Rocket Launchers",
+        "resources": [[0, 0, 2024, 0], [0, 0, 0, 0]]
+    },
+    "804": {
+        "code": "L2401B4",
+        "name": "New Year [Extra Operation] New Year Joint Operation Of CarDiv1 And CarDiv5!",
+        "desc": "Assemble a fleet containing any 2 of: \"Akagi, Kaga, Zuikaku, or Shokaku\"; and up to 4 XX, then S rank the boss nodes of 7-2-M, 4-5, 5-2, 5-5, and 6-4.",
+        "rewards": "a Furnitue: Happy New Year! No.101 Scroll and either a Ryuusei Kai (Skilled) ★2 OR a Prototype Flight Deck Catapult OR a Shinden Kai",
+        "resources": [[0, 0, 0, 2024], [0, 0, 0, 0]]}
 }
