@@ -4306,59 +4306,30 @@
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
     },
-    "992": {
-        "code": "L2307B1",
-        "name": "DesDiv 16, Sortie! Ensure the Safety of Naval Base Waters!",
-        "desc": "Sortie any 2 of Amatsukaze, Yukikaze, Tokitsukaze and Hatsukaze and up to 4 additional ships to [W1-3], [W1-4] and [W1-5]. A-Rank+ each boss node 3 times.",
-        "rewards": "¶First choice: Either two Irako OR a Reinforcement Expansion OR a Repair Godness ¶Second choice: Either a Remodel Blueprint OR a Dock Opening Key",
-        "resources": [[900, 0, 0, 0], [0, 0, 0, 0]]
-    },
-    "994": {
-        "code": "L2307B2",
-        "name": "Mainstay of Mainstays, Weigh Anchor! Destroy the Enemy Fleet!",
-        "desc": "Sortie 1 (F)BB(V) as flagship, 2 Yuugumo-class DD and up to 3 additional ships to [W1-2], [W1-4], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node.",
-        "rewards": "a White Tasuki and either an AO Kamoi OR an AR Akashi OR a CL Ooyodo",
-        "resources": [[1000, 1000, 1000, 0], [0, 0, 0, 0]]
-    },
     "1135": {
         "code": "L2312F3",
         "name": "[Time-Limited Quest] Wings Connected To The \"Renzan\"",
         "desc": "Prepare a Shinzan (★Max), a Type 1 Land-based Attack Aircraft Model 22A, 3 Skilled Crew Member, and 2 New Model Aerial Armament Material.",
-        "rewards": "a Sinzan Kai",
-        "resources": [[0, 0, 0, 200], [0, 0, 0, 0]]
+        "rewards": "¶First choice: Either 6 Development Materials OR 4 Buckets OR a Furniture Fairy ¶Second choice: Either a Mamiya OR an Extra Equipment Slots +3",
+        "resources": [[2024, 0, 0, 214], [0, 0, 0, 0]]
     },
-    "329": {
-        "code": "L2401C1",
-        "name": "[Setsubun Mission] Setsubun Exercises 2024",
-        "desc": "Secure 4 B-Rank+ victories in Exercises within the same day using 2 CA(V), 3 DD/DE and up to 1 additional ships.",
-        "rewards": "a Setsubun Beans",
-        "resources": [[230, 230, 0, 0], [0, 0, 0, 0]]
+    "234": {
+        "code": "L2402B1",
+        "name": "Time-Limited 2024 Valentine's Day Quest: First Operation",
+        "desc": "Sortie any 2 of Kinugasa, Furutaka, Kuma, Kamikaze, Murakumo, Akebono, Ushio, Oboro, Jingei, I-201 and I-203, and up to 4 additional ships to [W1-3], [W1-4], [W2-2] and [W2-3]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either three Irako OR an Extra Equipment Slots +4 ¶Second choice: Either a Medal OR a Reinforcement Expansion OR an Action Report",
+        "resources": [[0, 2024, 214, 214], [0, 0, 0, 0]]
     },
-    "441": {
-        "code": "L2401D1",
-        "name": "[Setsubun Mission] Reiwa's 6th Year Setsubun Expedition Mission",
-        "desc": "Complete Expeditions 09, 04, 05, 19, A3, and 15.",
-        "rewards": "¶First choice: Either two New Model Gun Mount Improvement Materials OR three Setsubun Beanss OR 2024 Fuels ¶Second choice: Either 5 Screws OR a Medal OR a 20.3cm (No.3) Twin Gun Mount ★8",
-        "resources": [[850, 650, 1000, 450], [0, 0, 0, 0]]
+    "238": {
+        "code": "L2402B2",
+        "name": "Time-Limited 2024 Valentine's Day Quest: Second Operation",
+        "desc": "Sortie any 2 of Hamakaze, Fujinami, Hamanami, Hayanami, Akishimo, Takanami, Suzunami, Sagiri, Akashi, Perth, South Dakota and Kashima, and up to 4 additional ships to [W2-1], [W3-1], [W3-2] and [W4-2]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either three Zuiuns OR two Type 2 Depth Charges OR two New Model Aerial Armament Materials ¶Second choice: Either a Furniture Fairy OR two Irako OR three Screws",
+        "resources": [[0, 0, 214, 2024], [0, 0, 0, 0]]
     },
-    "840": {
-        "code": "L2401B5",
-        "name": "[Setsubun Mission] Setsubun Operation 2024",
-        "desc": "Sortie 2 of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei and Chougei as flagship and 2nd ship\\u203b, and up to 4 additional ships to [W1-1], [W1-3] and [W1-4]. A-Rank+ each boss node twice.",
-        "rewards": "three Setsubun Beanss and either 4 Buckets OR an Underway Replenishment OR 6 Development Materials",
-        "resources": [[230, 0, 230, 230], [0, 0, 0, 0]]
-    },
-    "841": {
-        "code": "L2401B6",
-        "name": "[Setsubun Mission] Southwestern Sea Setsubun Operation 2024",
-        "desc": "Sortie 2 of Ranger, Johnston, Hayashimo, Shinyou, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and 2nd ship\\u203b, and up to 4 additional ships to [W2-1], [W2-2] and [W7-4]. A-Rank+ each boss node twice.",
-        "rewards": "three Setsubun Beanss and either a Mamiya OR two Irako OR 4 Screws",
-        "resources": [[0, 2024, 0, 0], [0, 0, 0, 0]]
-    },
-    "843": {
-        "code": "L2401B7",
-        "name": "[Setsubun Mission] Setsubun Extra Operation 2024, Decisive and Quick Response!",
-        "desc": "Sortie any 2 Mogami-class ships, 1 additional CVL\\u203b and up to 3 additional ships to [W2-3], [W4-5], [W5-5] and [W6-5]. S-Rank each boss node.",
-        "rewards": "4 Setsubun Beanss",
-        "resources": [[2024, 0, 0, 2024], [0, 0, 0, 0]]}
+    "349": {
+        "code": "L2402C1",
+        "name": "Time-Limited 2024 Valentine's Day Quest: Special Exercises",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD and up to 1 additional ship.",
+        "rewards": NaN, "resources": NaN}
 }
