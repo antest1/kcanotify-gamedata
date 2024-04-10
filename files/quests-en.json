@@ -4304,32 +4304,5 @@
         "name": "Preparation for the Ceremony! (Part 1)",
         "desc": "Scrap 2 pieces of equipment to show your love!",
         "rewards": "a Development Material",
-        "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
-    },
-    "1135": {
-        "code": "L2312F3",
-        "name": "[Time-Limited Quest] Wings Connected To The \"Renzan\"",
-        "desc": "Prepare a Shinzan (★Max), a Type 1 Land-based Attack Aircraft Model 22A, 3 Skilled Crew Member, and 2 New Model Aerial Armament Material.",
-        "rewards": "¶First choice: Either 6 Development Materials OR 4 Buckets OR a Furniture Fairy ¶Second choice: Either a Mamiya OR an Extra Equipment Slots +3",
-        "resources": [[2024, 0, 0, 214], [0, 0, 0, 0]]
-    },
-    "234": {
-        "code": "L2402B1",
-        "name": "Time-Limited 2024 Valentine's Day Quest: First Operation",
-        "desc": "Sortie any 2 of Kinugasa, Furutaka, Kuma, Kamikaze, Murakumo, Akebono, Ushio, Oboro, Jingei, I-201 and I-203, and up to 4 additional ships to [W1-3], [W1-4], [W2-2] and [W2-3]. A-Rank+ each boss node.",
-        "rewards": "¶First choice: Either three Irako OR an Extra Equipment Slots +4 ¶Second choice: Either a Medal OR a Reinforcement Expansion OR an Action Report",
-        "resources": [[0, 2024, 214, 214], [0, 0, 0, 0]]
-    },
-    "238": {
-        "code": "L2402B2",
-        "name": "Time-Limited 2024 Valentine's Day Quest: Second Operation",
-        "desc": "Sortie any 2 of Hamakaze, Fujinami, Hamanami, Hayanami, Akishimo, Takanami, Suzunami, Sagiri, Akashi, Perth, South Dakota and Kashima, and up to 4 additional ships to [W2-1], [W3-1], [W3-2] and [W4-2]. A-Rank+ each boss node.",
-        "rewards": "¶First choice: Either three Zuiuns OR two Type 2 Depth Charges OR two New Model Aerial Armament Materials ¶Second choice: Either a Furniture Fairy OR two Irako OR three Screws",
-        "resources": [[0, 0, 214, 2024], [0, 0, 0, 0]]
-    },
-    "349": {
-        "code": "L2402C1",
-        "name": "Time-Limited 2024 Valentine's Day Quest: Special Exercises",
-        "desc": "Secure 4 S-Rank victories in Exercises within the same day using 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD and up to 1 additional ship.",
-        "rewards": NaN, "resources": NaN}
+        "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]}
 }
