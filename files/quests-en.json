@@ -4334,5 +4334,87 @@
         "desc": "Scrap 2 pieces of equipment to show your love!",
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
+    },
+    "363": {
+        "code": "L2404C1",
+        "name": "11th Anniversary Weekly Exercise",
+        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using any 3 of Yamato, Shoukaku, Fubuki, Oboro, Tuscaloosa, Houston, Northampton, Yamashio Maru, or Kumano Maru and up to 3 additional ships.",
+        "memo": "※[Fleet 11th Anniversary Quest] Commemorative Fleet Exercise!        ",
+        "rewards": "¶First choice: Either 4 Development Materials OR three 25mm Single Autocannon Mounts OR three Buckets ¶Second choice: Either three Screws OR two Irako OR 2024 Fuels",
+        "resources": [[423, 423, 0, 423], [0, 0, 0, 0]]
+    },
+    "448": {
+        "code": "L2404D1",
+        "name": "[Fleet 11th Anniversary Quest] Maritime Escort Expedition",
+        "desc": "Complete Expeditions 5, A1 and A3 twice each.",
+        "rewards": "¶First choice: Either 2024 Steels OR 2024 Ammos OR 2024 Bauxites ¶Second choice: Either 11 Development Materials OR three Screws OR a Type 2 Depth Charge ★2",
+        "resources": [[2024, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "449": {
+        "code": "L2404D2",
+        "name": "[Fleet 11th Anniversary Quest] Weekly Resource Export",
+        "desc": "Complete Expeditions 5, 9 and 11 twice each. Have 7500 Ammo and 9500 Steel.",
+        "rewards": "¶First choice: Either 5500 Fuels OR 3500 Bauxites ¶Second choice: Either 11 Buckets OR a Mamiya OR three Screws",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "971": {
+        "code": "L2404B1",
+        "name": "[Fleet 11th Anniversary Quest] DesDiv11, Weigh Anchor!",
+        "desc": "Sortie any four of Fubuki, Shirayuki, Hatsuyuki, Miyuki, or Murakumo, and up to 2 additional ships to [W1-1], [W1-1], [W1-1], [W1-1], and [W1-5]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either 11 Development Materials OR 11 Buckets ¶Second choice: Either three Irako OR 4 Screws OR three 25mm Triple Autocannon Mounts",
+        "resources": [[550, 550, 110, 110], [0, 0, 0, 0]]
+    },
+    "972": {
+        "code": "L2404B2",
+        "name": "[Fleet 11th Anniversary Quest] 11th Anniversary Fleet, Sortie!",
+        "desc": "Sortie a CA (not CAV) as flagship, 1 CA, 1 CL, 2 DD and up to 1 additional ship to [W2-2], [W2-3], [W2-4], and [W5-1]. S-Rank the boss nodes of each.",
+        "rewards": "¶First choice: Either 11 Irako OR 11 Screws OR an Action Report ¶Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR two Type 13 Air Radar Kais OR a Medal",
+        "resources": [[0, 2024, 423, 0], [0, 0, 0, 0]]
+    },
+    "979": {
+        "code": "L2404B3",
+        "name": "[Fleet 11th Anniversary Quest] Resource Securing Maritime Escort Operation",
+        "desc": "Sortie to [W1-2], [W1-3], [W1-5], [W1-6] and [W7-4]. S-Rank all relevant boss nodes. Reach [W1-6-N] once.",
+        "rewards": "¶First choice: Either a Mamiya OR 3300 Bauxites OR a Medal ¶Second choice: Either 11 Development Materials OR 8800 Fuels OR a Furniture Fairy",
+        "resources": [[500, 500, 500, 500], [0, 0, 0, 0]]
+    },
+    "1009": {
+        "code": "L2404B4",
+        "name": "[Commemorative Quest: Expansion Operation] Fleet To The Southern Front",
+        "desc": "Sortie any two of Fubuki, Jintsuu, Yura, Northampton, or Helena, 1 Akizuki-class and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4], and [W5-5]. S-Rank the boss node of each.",
+        "rewards": "a Furniture: \"11th Anniversary\" Hanging Scroll and either 4 Medals OR a GFCS Mk.37 ★3 OR two Action Reports",
+        "resources": [[1700, 1700, 1700, 1700], [0, 0, 0, 0]]
+    },
+    "1126": {
+        "code": "L2404F2",
+        "name": "[Fleet 11th Anniversary Quest] Special Arsenal",
+        "desc": "Have 2 Type 0 Reconnaissance Seaplanes(★3+), 36 Development Materials and 3600 Bauxite. Scrap 11 Seaplane Recons, 11 Fighters and 2 Seaplane Bombers.",
+        "memo": "※Consumes the item and resources. ",
+        "rewards": "either two Type 2 Seaplane Fighter Kais OR two Type 0 Reconnaissance Seaplane Model 11BS OR a Prototype Keiun (Carrier-based Reconnaissance Model) ★2",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1136": {
+        "code": "L2404F1",
+        "name": "[Fleet 11th Anniversary Quest] Heavy Cruiser Main Gun Maintenance Mission",
+        "desc": "Have 10 20.3cm Twin Gun Mount, 6 Development Materials and 2000 Steel. Scrap 6 Small Caliber Main Guns, 8 Medium Caliber Main Guns and 3 Depth Charges.",
+        "memo": "※Consumes the item and resources. ",
+        "rewards": "¶First choice: Either two 20.3cm (No.2) Twin Gun Mounts OR two SKC34 20.3cm Twin Gun Mounts ¶Second choice: Either 4 Flamethrowers OR two New Model Gun Mount Improvement Materials OR 4 Screws",
+        "resources": [[0, 400, 0, 200], [0, 0, 0, 0]]
+    },
+    "1010": {
+        "code": "L2405B1",
+        "name": "Time-Limited Weekly Anti-submarine Operation",
+        "desc": "Sortie 3 DD/DE and up to 3 additional ship to [W1-5] and [W1-6]. S-Rank [W1-5] 3 times. Reach [W1-6-N] once.",
+        "memo": "※[Limited Time Quest] Anti-submarine Sweep Operation",
+        "rewards": "¶First choice: Either three Buckets OR 850 Fuels ¶Second choice: Either 6 Development Materials OR two Screws",
+        "resources": [[350, 0, 0, 400], [0, 0, 0, 0]]
+    },
+    "1011": {
+        "code": "L2405B2",
+        "name": "Time-Limited Weekly Coastal Defense",
+        "desc": "Sortie a DE as flagship, 2 DE and up to 3 additional ship to [W1-1], [W1-2], [W1-3], [W1-5] and [W2-1]. A-Rank+ each boss node.",
+        "memo": "※[Limited Time Quest] Powerful Coastal Defense Ship, Urgent Coastal Defense!",
+        "rewards": "¶First choice: Either a Mamiya OR two Irako OR 7 Development Materials ¶Second choice: Either 8 Buckets OR two New Model Armament Materials OR a Medal",
+        "resources": [[250, 150, 0, 300], [0, 0, 0, 0]]
     }
 }
