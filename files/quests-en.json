@@ -2065,6 +2065,13 @@
         "rewards": "a 12.7cm Twin Gun Mount Model C Kai 3H ★2 and either 20 Development Materials OR 7 Screws OR an Action Report",
         "resources": [[880, 880, 880, 880], [0, 0, 0, 0]]
     },
+    "1013": {
+        "code": "B200",
+        "name": "Shield Of Hachinohe \"Inagi Kai Ni\", Set Sail!",
+        "desc": "Sortie Inagi Kai Ni as flagship and up to 5 additional ship to [W1-3], [W1-4], [W2-2], [W2-3] and [W7-4]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either 8 Buckets OR 8000 Ammos OR a Reinforcement Expansion ¶Second choice: Either a 12cm Single High-angle Gun Mount Model E Kai ★8 OR 8 Screws OR an Action Report",
+        "resources": [[800, 0, 800, 800], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -2476,6 +2483,13 @@
         "memo": "※ This quest resets on the first quest reset of January.\\n\\u203bElite DesDiv 7, Emergency Sortie!",
         "rewards": "¶First choice: Either 700 Fuels OR 4 Buckets OR two Screws ¶Second choice: Either 7 Development Materials OR a Medal OR a Furniture Fairy",
         "resources": [[280, 280, 280, 280], [0, 0, 0, 0]]
+    },
+    "1012": {
+        "code": "By14",
+        "name": "Ukuru-class Kaiboukan, Defend The Calm Seas!",
+        "desc": "Sortie an Ukuru-class as flagship, 1 DE and up to 2 DE (4 ships) to [W1-1]. S-rank the boss node three times. Sortie to [W1-2] and [W1-5]. A+ rank each boss nodes twice.",
+        "rewards": "¶First choice: Either 880 Fuels OR 6 Buckets OR a Furniture Fairy ¶Second choice: Either 16 Development Materials OR three 12cm Single High-angle Gun Mount Model ES OR three Screws",
+        "resources": [[320, 320, 320, 0], [0, 0, 0, 0]]
     },
     "301": {
         "code": "C1",
@@ -3928,6 +3942,14 @@
         "rewards": "a Type 22 Surface Radar Kai 4 (Late Adjustment Model)",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1137": {
+        "code": "F123",
+        "name": "Development Of Armament For The Ukuru-class Kaiboukan",
+        "desc": "Set an Ukuru-class as Secretary, equipped with a Type 3 Depth Charge Projector in her 1st slot, then, scrap 4 Type 93 Passive Sonars, 4 Type 94 Depth Charge Projector and 4 Type 95 Depth Charges, and prepare 1 Type 3 Depth Charge Projector, and 32 Development Materials.",
+        "memo": "※Consumes the items and resources. ※Any ★ on the Type 3 Depth Charge Projector are lost during conversion.",
+        "rewards": "a Type 3 Depth Charge Projector (Concentrated Deployment)",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4335,49 +4357,6 @@
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
     },
-    "363": {
-        "code": "L2404C1",
-        "name": "11th Anniversary Weekly Exercise",
-        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using any 3 of Yamato, Shoukaku, Fubuki, Oboro, Tuscaloosa, Houston, Northampton, Yamashio Maru, or Kumano Maru and up to 3 additional ships.",
-        "memo": "※[Fleet 11th Anniversary Quest] Commemorative Fleet Exercise!        ",
-        "rewards": "¶First choice: Either 4 Development Materials OR three 25mm Single Autocannon Mounts OR three Buckets ¶Second choice: Either three Screws OR two Irako OR 2024 Fuels",
-        "resources": [[423, 423, 0, 423], [0, 0, 0, 0]]
-    },
-    "448": {
-        "code": "L2404D1",
-        "name": "[Fleet 11th Anniversary Quest] Maritime Escort Expedition",
-        "desc": "Complete Expeditions 5, A1 and A3 twice each.",
-        "rewards": "¶First choice: Either 2024 Steels OR 2024 Ammos OR 2024 Bauxites ¶Second choice: Either 11 Development Materials OR three Screws OR a Type 2 Depth Charge ★2",
-        "resources": [[2024, 0, 0, 0], [0, 0, 0, 0]]
-    },
-    "449": {
-        "code": "L2404D2",
-        "name": "[Fleet 11th Anniversary Quest] Weekly Resource Export",
-        "desc": "Complete Expeditions 5, 9 and 11 twice each. Have 7500 Ammo and 9500 Steel.",
-        "rewards": "¶First choice: Either 5500 Fuels OR 3500 Bauxites ¶Second choice: Either 11 Buckets OR a Mamiya OR three Screws",
-        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
-    },
-    "971": {
-        "code": "L2404B1",
-        "name": "[Fleet 11th Anniversary Quest] DesDiv11, Weigh Anchor!",
-        "desc": "Sortie any four of Fubuki, Shirayuki, Hatsuyuki, Miyuki, or Murakumo, and up to 2 additional ships to [W1-1], [W1-1], [W1-1], [W1-1], and [W1-5]. A-Rank+ each boss node.",
-        "rewards": "¶First choice: Either 11 Development Materials OR 11 Buckets ¶Second choice: Either three Irako OR 4 Screws OR three 25mm Triple Autocannon Mounts",
-        "resources": [[550, 550, 110, 110], [0, 0, 0, 0]]
-    },
-    "972": {
-        "code": "L2404B2",
-        "name": "[Fleet 11th Anniversary Quest] 11th Anniversary Fleet, Sortie!",
-        "desc": "Sortie a CA (not CAV) as flagship, 1 CA, 1 CL, 2 DD and up to 1 additional ship to [W2-2], [W2-3], [W2-4], and [W5-1]. S-Rank the boss nodes of each.",
-        "rewards": "¶First choice: Either 11 Irako OR 11 Screws OR an Action Report ¶Second choice: Either two 20.3cm (No.2) Twin Gun Mounts OR two Type 13 Air Radar Kais OR a Medal",
-        "resources": [[0, 2024, 423, 0], [0, 0, 0, 0]]
-    },
-    "979": {
-        "code": "L2404B3",
-        "name": "[Fleet 11th Anniversary Quest] Resource Securing Maritime Escort Operation",
-        "desc": "Sortie to [W1-2], [W1-3], [W1-5], [W1-6] and [W7-4]. S-Rank all relevant boss nodes. Reach [W1-6-N] once.",
-        "rewards": "¶First choice: Either a Mamiya OR 3300 Bauxites OR a Medal ¶Second choice: Either 11 Development Materials OR 8800 Fuels OR a Furniture Fairy",
-        "resources": [[500, 500, 500, 500], [0, 0, 0, 0]]
-    },
     "1009": {
         "code": "L2404B4",
         "name": "[Commemorative Quest: Expansion Operation] Fleet To The Southern Front",
@@ -4393,13 +4372,33 @@
         "rewards": "either two Type 2 Seaplane Fighter Kais OR two Type 0 Reconnaissance Seaplane Model 11BS OR a Prototype Keiun (Carrier-based Reconnaissance Model) ★2",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
-    "1136": {
-        "code": "L2404F1",
-        "name": "[Fleet 11th Anniversary Quest] Heavy Cruiser Main Gun Maintenance Mission",
-        "desc": "Have 10 20.3cm Twin Gun Mount, 6 Development Materials and 2000 Steel. Scrap 6 Small Caliber Main Guns, 8 Medium Caliber Main Guns and 3 Depth Charges.",
-        "memo": "※Consumes the item and resources. ",
-        "rewards": "¶First choice: Either two 20.3cm (No.2) Twin Gun Mounts OR two SKC34 20.3cm Twin Gun Mounts ¶Second choice: Either 4 Flamethrowers OR two New Model Gun Mount Improvement Materials OR 4 Screws",
-        "resources": [[0, 400, 0, 200], [0, 0, 0, 0]]
+    "367": {
+        "code": "L2405C1",
+        "name": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
+        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship and 5 DD.",
+        "rewards": "a Development Material and a Development Material and a Teru Teru Bouzu",
+        "resources": [[75, 75, 75, 75], [0, 0, 1, 0]]
+    },
+    "953": {
+        "code": "L2405B3",
+        "name": "[Rainy Season] Protect the Marine Transportation Route in the Rainy Season!",
+        "desc": "Sortie a CL/AV as flagship, 3 DD and up to 2 additional ships to [W1-2], [W1-3], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "rewards": "two Teru Teru Bouzus and either 5 Buckets OR 5 Development Materials OR a Submarine Supply Material",
+        "resources": [[150, 150, 150, 150], [0, 0, 0, 0]]
+    },
+    "954": {
+        "code": "L2405B4",
+        "name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
+        "desc": "Sortie 2 CA(V), one of them as flagship and up to 4 additional ships to [W7-3-P] and [W7-4]. S-Rank each boss node twice.",
+        "rewards": "three Teru Teru Bouzus and either 8 Development Materials OR two Screws OR a Mamiya",
+        "resources": [[750, 750, 750, 0], [0, 0, 0, 0]]
+    },
+    "955": {
+        "code": "L2405B5",
+        "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
+        "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
+        "rewards": "4 Teru Teru Bouzus",
+        "resources": [[1100, 1100, 1100, 0], [0, 0, 0, 0]]
     },
     "1010": {
         "code": "L2405B1",
