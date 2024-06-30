@@ -2072,6 +2072,27 @@
         "rewards": "¶First choice: Either 8 Buckets OR 8000 Ammos OR a Reinforcement Expansion ¶Second choice: Either a 12cm Single High-angle Gun Mount Model E Kai ★8 OR 8 Screws OR an Action Report",
         "resources": [[800, 0, 800, 800], [0, 0, 0, 0]]
     },
+    "1014": {
+        "code": "B201",
+        "name": "Guard The Nearby Waters And Nansei Islands With Patrol Unit!",
+        "desc": "Assemble a fleet containing 3 DE and up to 3 XX OR or 4 DD/DE and up to 2 XX, then A+ rank the boss nodes of 1-1, 1-2, 1-5, and 2-1.",
+        "rewards": "¶First choice: Either 6 Development Materials OR two Irako OR a Furniture Fairy ¶Second choice: Either a New Model Armament Material OR 5 Buckets OR a Medal",
+        "resources": [[170, 170, 170, 0], [0, 0, 0, 0]]
+    },
+    "1015": {
+        "code": "B202",
+        "name": "Air Defense Surface Ships, Sortie!",
+        "desc": "Assemble a fleet containing any 3 of: \"Akizuki-class, Tenryuu-class Kai Ni, Maya Kai+, or Isuzu Kai Ni\"; and up to 3 XX, then S rank the boss nodes of 1-3, 1-4, 2-2, 2-3, and 5-1.",
+        "rewards": "¶First choice: Either 8 Development Materials OR 4 12.7cm Twin High-angle Gun Mounts OR two Screws ¶Second choice: Either 4 10cm Twin High-angle Gun Mounts OR a Medal OR a Reinforcement Expansion",
+        "resources": [[250, 0, 250, 250], [0, 0, 0, 0]]
+    },
+    "1016": {
+        "code": "B203",
+        "name": "Air Defense Destroyer \"Hatsuzuki Kai Ni\", Let's Go!",
+        "desc": "Assemble a fleet containing Hatsuzuki Kai Ni as flagship and up to 5 XX, then S rank the boss nodes of 2-4, 3-5, 7-4, 5-4, and 5-5.",
+        "rewards": "a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai and either two Type 94 Anti-Aircraft Fire Directors OR two Medals OR an Action Report",
+        "resources": [[610, 610, 610, 610], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -2883,6 +2904,14 @@
         "memo": "※This quest resets on the first quest reset of April. ※It's Spring! Harusame, Exercises!",
         "rewards": "¶First choice: Either a New Model Armament Material OR two Buckets OR 7 Development Materials ¶Second choice: Either two Screws OR two 25mm Triple Autocannon Mounts OR two Combat Rations",
         "resources": [[200, 270, 0, 0], [0, 0, 0, 0]]
+    },
+    "372": {
+        "code": "Cy13",
+        "name": "Annual Akizuki-class Exercises - June",
+        "desc": "Assemble a fleet containing an Akizuki-class as flagship, 2 BBV, 2 DD, and up to 1 XX, then score 4 A+ ranks in PVP within the same day.",
+        "memo": "※This quest resets on the first quest reset of June. ※Carry Out A Surface Ship \"Fleet Air Defense Exercise\"!",
+        "rewards": "¶First choice: Either a New Model Armament Material OR two 25mm Twin Autocannon Mounts ¶Second choice: Either two Mamiyas OR 10 Development Materials OR a Medal",
+        "resources": [[310, 150, 150, 0], [0, 0, 0, 0]]
     },
     "313": {
         "code": "Cs1",
@@ -3950,6 +3979,13 @@
         "rewards": "a Type 3 Depth Charge Projector (Concentrated Deployment)",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1139": {
+        "code": "F124",
+        "name": "[Strengthening Fleet Communications Capabilities] Communications Personnel Training",
+        "desc": "Set Ooyodo as Secretary, equipped with a Type 13 Air Radar in her 1st slot, then, scrap 2 Type 21 Air Radar, 2 Type 13 Air Radar, and 3 Combat Ration, and prepare 20 Development Materials.",
+        "rewards": "a Communication Equipment & Personnel",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4217,9 +4253,17 @@
     "1123": {
         "code": "Fy10",
         "name": "Annual Reconnaissance Seaplane - January",
-        "desc": "Have two New Model Aviation Armament Materials, two Skilled Crew Members and 35 Development Materials. Set Tone Kai Ni or Yura Kai Ni as secretary with a ★max Type 0 Reconnaissance Seaplane in her first slot. Scrap two Type 97 Torpedo Bomber (931 Air Group).",
+        "desc": "Have two New Model Aviation Armament Materials, two Skilled Crew Members, 35 Development Materials and 950 bauxite. Set Tone Kai Ni or Yura Kai Ni as secretary with a ★max Type 0 Reconnaissance Seaplane in her first slot. Scrap two Type 97 Torpedo Bomber (931 Air Group).",
         "memo": "※This quest resets on the first quest reset of January. ※Consumes the items and resources. ※Increasement of Improved 3-seat Reconnaissance Seaplane ",
         "rewards": "a Type 0 Reconnaissance Seaplane Model 11B",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1138": {
+        "code": "Fy11",
+        "name": "Annual Type 94 AAFD - June",
+        "desc": "Set an Akizuki-class as Secretary, then, scrap 4 Type 91 Anti-Aircraft Fire Director, and prepare 16 Development Materials, 4 Instant Construction Materials, 480 steel, 1300 bauxite.",
+        "memo": "※This quest resets on the first quest reset of June. ※[Mass Production Of Anti-Aircraft Equipment] Additional Deployment Of Type 94 AAFD  ※Consumes the resources. ",
+        "rewards": "a Type 94 Anti-Aircraft Fire Director and either three Buckets OR two Screws",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
     "701": {
@@ -4356,64 +4400,5 @@
         "desc": "Scrap 2 pieces of equipment to show your love!",
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
-    },
-    "1009": {
-        "code": "L2404B4",
-        "name": "[Commemorative Quest: Expansion Operation] Fleet To The Southern Front",
-        "desc": "Sortie any two of Fubuki, Jintsuu, Yura, Northampton, or Helena, 1 Akizuki-class and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4], and [W5-5]. S-Rank the boss node of each.",
-        "rewards": "a Furniture: \"11th Anniversary\" Hanging Scroll and either 4 Medals OR a GFCS Mk.37 ★3 OR two Action Reports",
-        "resources": [[1700, 1700, 1700, 1700], [0, 0, 0, 0]]
-    },
-    "1126": {
-        "code": "L2404F2",
-        "name": "[Fleet 11th Anniversary Quest] Special Arsenal",
-        "desc": "Have 2 Type 0 Reconnaissance Seaplanes(★3+), 36 Development Materials and 3600 Bauxite. Scrap 11 Seaplane Recons, 11 Fighters and 2 Seaplane Bombers.",
-        "memo": "※Consumes the item and resources. ",
-        "rewards": "either two Type 2 Seaplane Fighter Kais OR two Type 0 Reconnaissance Seaplane Model 11BS OR a Prototype Keiun (Carrier-based Reconnaissance Model) ★2",
-        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
-    },
-    "367": {
-        "code": "L2405C1",
-        "name": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using a CL/CT (not CLT) as flagship and 5 DD.",
-        "rewards": "a Development Material and a Development Material and a Teru Teru Bouzu",
-        "resources": [[75, 75, 75, 75], [0, 0, 1, 0]]
-    },
-    "953": {
-        "code": "L2405B3",
-        "name": "[Rainy Season] Protect the Marine Transportation Route in the Rainy Season!",
-        "desc": "Sortie a CL/AV as flagship, 3 DD and up to 2 additional ships to [W1-2], [W1-3], [W2-2] and [W2-3]. S-Rank each boss node.",
-        "rewards": "two Teru Teru Bouzus and either 5 Buckets OR 5 Development Materials OR a Submarine Supply Material",
-        "resources": [[150, 150, 150, 150], [0, 0, 0, 0]]
-    },
-    "954": {
-        "code": "L2405B4",
-        "name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
-        "desc": "Sortie 2 CA(V), one of them as flagship and up to 4 additional ships to [W7-3-P] and [W7-4]. S-Rank each boss node twice.",
-        "rewards": "three Teru Teru Bouzus and either 8 Development Materials OR two Screws OR a Mamiya",
-        "resources": [[750, 750, 750, 0], [0, 0, 0, 0]]
-    },
-    "955": {
-        "code": "L2405B5",
-        "name": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
-        "desc": "Sortie 2 (F)BB(V), an Agano-class CL/Ooyodo and up to 3 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
-        "rewards": "4 Teru Teru Bouzus",
-        "resources": [[1100, 1100, 1100, 0], [0, 0, 0, 0]]
-    },
-    "1010": {
-        "code": "L2405B1",
-        "name": "Time-Limited Weekly Anti-submarine Operation",
-        "desc": "Sortie 3 DD/DE and up to 3 additional ship to [W1-5] and [W1-6]. S-Rank [W1-5] 3 times. Reach [W1-6-N] once.",
-        "memo": "※[Limited Time Quest] Anti-submarine Sweep Operation",
-        "rewards": "¶First choice: Either three Buckets OR 850 Fuels ¶Second choice: Either 6 Development Materials OR two Screws",
-        "resources": [[350, 0, 0, 400], [0, 0, 0, 0]]
-    },
-    "1011": {
-        "code": "L2405B2",
-        "name": "Time-Limited Weekly Coastal Defense",
-        "desc": "Sortie a DE as flagship, 2 DE and up to 3 additional ship to [W1-1], [W1-2], [W1-3], [W1-5] and [W2-1]. A-Rank+ each boss node.",
-        "memo": "※[Limited Time Quest] Powerful Coastal Defense Ship, Urgent Coastal Defense!",
-        "rewards": "¶First choice: Either a Mamiya OR two Irako OR 7 Development Materials ¶Second choice: Either 8 Buckets OR two New Model Armament Materials OR a Medal",
-        "resources": [[250, 150, 0, 300], [0, 0, 0, 0]]
     }
 }
