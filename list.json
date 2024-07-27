@@ -28,19 +28,19 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/expedition.json"
 }, {
 	"name": "items-en.json",
-	"version": 2024072701,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-en.json"
 }, {
 	"name": "items-ko.json",
-	"version": 2024072701,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-ko.json"
 }, {
 	"name": "items-scn.json",
-	"version": 2024072701,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-scn.json"
 }, {
 	"name": "items-tcn.json",
-	"version": 2024072701,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/items-tcn.json"
 }, {
 	"name": "quest_track.json",
@@ -116,18 +116,18 @@
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/ships_filter_data.json"
 }, {
 	"name": "useitems-ko.json",
-	"version": 2023072501,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/useitems-ko.json"
 }, {
 	"name": "useitems-en.json",
-	"version": 2023072501,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/useitems-en.json"
 }, {
 	"name": "useitems-scn.json",
-	"version": 2023072501,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/useitems-scn.json"
 }, {
 	"name": "useitems-tcn.json",
-	"version": 2023072501,
+	"version": 2024072702,
 	"url": "https://raw.githubusercontent.com/antest1/kcanotify-gamedata/master/files/useitems-tcn.json"
 }]
