@@ -381,6 +381,7 @@
     "Gloire": "Gloire",
     "Mogador": "Mogador",
     "Valiant": "Valiant",
+    "Phoenix": "Phoenix",
     "防空棲姫": "Air Defense Princess",
     "空母棲鬼": "Aircraft Carrier Demon",
     "空母棲姫": "Aircraft Carrier Princess",
@@ -512,6 +513,8 @@
     "深海伊号水姫": "Abyssal I-go Water Princess",
     "飛行場夏姫": "Airfield Summer Princess",
     "軽巡仏棲姫": "French Light Cruiser Princess",
+    "太平洋飛行場姫": "Pacific Airfield Princess",
+    "深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon",
     "suffixes": {
         "航改": " Kou Kai",
         "航改二": " Kou Kai Ni",
