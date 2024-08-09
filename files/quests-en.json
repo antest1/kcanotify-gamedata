@@ -4002,6 +4002,22 @@
         "rewards": "a 38cm Quadruple Gun Mount Kai Deux and a Loire 130M",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1141": {
+        "code": "F126",
+        "name": "Development Of The Latest Modified Three-seater Reconnaissance Seaplane",
+        "desc": "Set Yamato Kai Ni/Juu, Yura Kai Ni, or Yahagi Kai Ni/B as Secretary, equipped with a ★max Type 0 Reconnaissance Seaplane Model 11B in her 1st slot, then, scrap 15 Type 0 Reconnaissance Seaplane, and prepare 2 New Model Aerial Armament Materials, 1 Night Skilled Crew Member and 60 Development Materials.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "a Type 0 Reconnaissance Seaplane Model 11A Kai 2",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1142": {
+        "code": "F127",
+        "name": "Deploying The Elite \"Tenzan\" Equipped Attacker Squadron",
+        "desc": "Set Shoukaku Kai Ni/A as Secretary, equipped with a Tenzan Model 12 (Murata Squadron) in her 1st slot, then, scrap 4 Tenzan, and prepare 1 Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai) and 2 New Model Aerial Armament Material, 1 Night Skilled Crew Member 48 Development Materials.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "a Tenzan Model 12A Kai 2 (Murata Squadron/Radar Equipment)",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
