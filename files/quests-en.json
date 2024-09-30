@@ -2093,6 +2093,20 @@
         "rewards": "a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai and either two Type 94 Anti-Aircraft Fire Directors OR two Medals OR an Action Report",
         "resources": [[610, 610, 610, 610], [0, 0, 0, 0]]
     },
+    "1017": {
+        "code": "B204",
+        "name": "\"DesDiv2 (Late Formation)\", Sortie!",
+        "desc": "Assemble a fleet containing any 3 of: \"Hayashimo, Akishimo, Asashimo, or Kiyoshimo\" with one as flagship; and up to 3 XX, then S rank the boss nodes of 1-2, 1-5, and 2-3, twice each.",
+        "rewards": "¶First choice: Either 2000 Fuels OR a Furniture Fairy OR 10 Development Materials ¶Second choice: Either 4 Mamiyas OR an Action Report",
+        "resources": [[0, 200, 200, 0], [0, 0, 0, 0]]
+    },
+    "1019": {
+        "code": "B205",
+        "name": "Fierce Battle! \"BatDiv3\" Elite Second Platoon!\t",
+        "desc": "Assemble a fleet containing Hiei Kai Ni C, Kirishima Kai Ni C, any 2 of: \"the Shiratsuyu-class OR the Yuugumo-class\"; and up to 2 XX, then S rank the boss nodes of 4-5, 5-5, and 6-5, twice each.",
+        "rewards": "¶First choice: Either two 35.6cm Twin Gun Mount Kai Nis OR a 35.6cm Twin Gun Mount Kai 3 C ¶Second choice: Either an Action Report OR 6 New Model Gun Mount Improvement Materials OR 10 Screws",
+        "resources": [[1300, 1300, 1300, 0], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -2512,6 +2526,13 @@
         "rewards": "¶First choice: Either 880 Fuels OR 6 Buckets OR a Furniture Fairy ¶Second choice: Either 16 Development Materials OR three 12cm Single High-angle Gun Mount Model ES OR three Screws",
         "resources": [[320, 320, 320, 0], [0, 0, 0, 0]]
     },
+    "1018": {
+        "code": "By15",
+        "name": "\"BatDiv3\" Second Platoon, Heading To Iron Bottom Sound!",
+        "desc": "Assemble a fleet containing Hiei, Kirishima, 2 DD and up to 2 XX, then A+ rank the boss nodes of 5-1, 5-3, 5-4, and 5-5.",
+        "rewards": "¶First choice: Either 5 35.6cm Twin Gun Mounts OR two New Model Armament Materials OR 5 Screws ¶Second choice: Either two Medals OR 5500 Ammos OR an Action Report",
+        "resources": [[300, 500, 500, 300], [0, 0, 0, 0]]
+    },
     "301": {
         "code": "C1",
         "name": "The First Exercise!",
@@ -2739,6 +2760,13 @@
         "rewards": "¶First choice: Either two Skilled Lookoutss OR two Type 2 Depth Charges OR 8 Buckets ¶Second choice: Either a Furniture Fairy OR 4 Screws OR a Reinforcement Expansion",
         "resources": [[1935, 518, 2023, 614], [0, 0, 0, 0]]
     },
+    "376": {
+        "code": "C77",
+        "name": "\"BatDiv3\" Elite Second Platoon, Special Exercise!",
+        "desc": "Assemble a fleet containing Hiei Kai Ni+, Kirishima Kai Ni+, 1 CL, 2 DD, and up to 1 XX, then score 5 S ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either a 35.6cm Twin Gun Mount Kai OR two New Model Gun Mount Improvement Materials OR 30 Development Materials ¶Second choice: Either two 35.6cm Twin Gun Mount Kais OR a 35.6cm Twin Gun Mount Kai ★6 OR a Remodel Blueprint",
+        "resources": [[600, 600, 600, 600], [0, 0, 0, 0]]
+    },
     "303": {
         "code": "Cd1",
         "name": "Daily Exercises 1",
@@ -2920,6 +2948,13 @@
         "memo": "※This quest resets on the first quest reset of July.",
         "rewards": "¶First choice: Either a New Model Armament Material OR a New Model Gun Mount Improvement Material OR 8 Development Materials ¶Second choice: Either three 13.8cm Twin Gun Mounts OR two 15.2cm Triple Main Gun Mounts OR a 38cm Quadruple Gun Mount",
         "resources": [[600, 600, 300, 300], [0, 0, 0, 0]]
+    },
+    "375": {
+        "code": "Cy15",
+        "name": "\"BatDiv3\" Second Platoon, Begin Exercises!",
+        "desc": "Assemble a fleet containing Hiei, Kirishima, 1 CL, 2 DD, and up to 1 XX, then score 4 S ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either 4 35.6cm Twin Gun Mounts OR a New Model Gun Mount Improvement Material OR 10 Development Materials ¶Second choice: Either a Medal OR 5 Screws",
+        "resources": [[400, 400, 400, 400], [0, 0, 0, 0]]
     },
     "313": {
         "code": "Cs1",
@@ -4018,6 +4053,13 @@
         "rewards": "a Tenzan Model 12A Kai 2 (Murata Squadron/Radar Equipment)",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1143": {
+        "code": "F128",
+        "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
+        "desc": "Set Kirishima Kai Ni C as Secretary, equipped with a ★+8 35.6cm Twin Gun Mount Kai 2 in her 1st slot, then, scrap 8 35.6cm Twin Gun Mount, and prepare 1 35.6cm Twin Gun Mount Kai, 2 New Model Gun Mount Improvement Material, 2 New Model Armament Material, and 7800 steel.",
+        "rewards": "a 35.6cm Twin Gun Mount Kai 3 C and either 3200 Fuels OR 1600 Bauxites OR 10 Development Materials",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4432,5 +4474,19 @@
         "desc": "Scrap 2 pieces of equipment to show your love!",
         "rewards": "a Development Material",
         "resources": [[88, 88, 0, 0], [0, 0, 1, 0]]
+    },
+    "374": {
+        "code": "L2409C1",
+        "name": "[Time-limited] \"DesDiv32\" Special Exercises!",
+        "desc": "Assemble a fleet containing any 3 of: \"Tamanami, Suzunami, Fujinami, Hayanami, or Hamanami\"; and up to 3 XX, then score 3 S ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either an Irako OR three 25mm Single Autocannon Mounts OR 4 Buckets ¶Second choice: Either 8 Development Materials OR three Screws OR a Mamiya",
+        "resources": [[320, 320, 0, 320], [0, 0, 0, 0]]
+    },
+    "1020": {
+        "code": "L2409B1",
+        "name": "[Time-limited] \"BatDiv3\" Emergency Deployment!",
+        "desc": "Assemble a fleet containing any 2 Kongou-class and up to 4 XX, then S rank the boss nodes of 1-4, 2-1, 2-2, and 4-2.",
+        "rewards": "a Furniture: Admiral And 3rd Squadron Table and either three 35.6cm Twin Gun Mounts OR two Irako OR three Screws",
+        "resources": [[500, 300, 300, 300], [0, 0, 0, 0]]
     }
 }
