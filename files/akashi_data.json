@@ -1252,7 +1252,7 @@
     "180": {
         "improvement": [{
                 "upgrade": [186, 0],
-                "req": [[[true, false, false, false, true, true, true], [152]]],
+                "req": [[[true, false, false, false, true, true, true], [85, 152, 212, 694]]],
                 "require_item": [[4, 2], [3, 2]],
                 "resource": [[430, 420, 0, 540], [6, 8, 4, 4, 20, 2], [8, 9, 5, 6, 372, 2], [10, 16, 7, 11, 169, 1]]
             }
@@ -2124,7 +2124,7 @@
         "improvement": [{
                 "upgrade": false,
                 "req": [[[false, false, true, true, true, false, false], [694]]],
-                "resource": [[40, 390, 560, 80], [9, 12, 7, 7, 7, 3], [15, 24, 8, 10, 328, 1], [0, 0, 0, 0, 0, 0]]
+                "resource": [[40, 390, 410, 80], [9, 12, 7, 7, 7, 3], [15, 24, 8, 10, 328, 1], [0, 0, 0, 0, 0, 0]]
             }
         ]
     },
