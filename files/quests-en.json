@@ -2107,6 +2107,13 @@
         "rewards": "¶First choice: Either two 35.6cm Twin Gun Mount Kai Nis OR a 35.6cm Twin Gun Mount Kai 3 C ¶Second choice: Either an Action Report OR 6 New Model Gun Mount Improvement Materials OR 10 Screws",
         "resources": [[1300, 1300, 1300, 0], [0, 0, 0, 0]]
     },
+    "1021": {
+        "code": "B206",
+        "name": "\"Hayashimo Kai Ni\"... Does Not Just Watch Anymore!",
+        "desc": "Assemble a fleet containing Hayashimo Kai Ni as flagship any 1 of: \"Akishimo or Kiyoshimo\" and up to 4 XX, then then S rank the boss nodes of [W2-5], [W7-2-M], [W7-4], and [W5-4].",
+        "rewards": "¶First choice: Either 30 Development Materials OR a Type 13 Air Radar Kai ★3 OR a New Model Gun Mount Improvement Material ¶Second choice: Either an Action Report OR a 12.7cm Twin Gun Mount Model D Kai 2 ★3 OR a Torpedo Squadron Skilled Lookouts",
+        "resources": [[1944, 1026, 0, 0], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -2955,6 +2962,13 @@
         "desc": "Assemble a fleet containing Hiei, Kirishima, 1 CL, 2 DD, and up to 1 XX, then score 4 S ranks in PVP within the same day.",
         "rewards": "¶First choice: Either 4 35.6cm Twin Gun Mounts OR a New Model Gun Mount Improvement Material OR 10 Development Materials ¶Second choice: Either a Medal OR 5 Screws",
         "resources": [[400, 400, 400, 400], [0, 0, 0, 0]]
+    },
+    "377": {
+        "code": "Cy16",
+        "name": "\"DesDiv2 (Late Formation)\", Improved Training!",
+        "desc": "Assemble a fleet containing any 1 of: \"Hayashimo, Akishimo, or Kiyoshimo\" as flagship, any 2 of: \"Hayashimo, Akishimo, Kiyoshimo, or Asashimo\", and up to 3 XX, then score 4 S ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either a Mamiya OR a Skilled Lookouts OR three Screws ¶Second choice: Either an Irako OR 6 Development Materials OR a New Model Armament Material",
+        "resources": [[200, 200, 200, 200], [0, 0, 0, 0]]
     },
     "313": {
         "code": "Cs1",
@@ -4485,8 +4499,57 @@
     "1020": {
         "code": "L2409B1",
         "name": "[Time-limited] \"BatDiv3\" Emergency Deployment!",
-        "desc": "Assemble a fleet containing any 2 Kongou-class and up to 4 XX, then S rank the boss nodes of 1-4, 2-1, 2-2, and 4-2.",
+        "desc": "Assemble a fleet containing any 2 Kongou-class and up to 4 XX, then S rank the boss nodes of [W1-4], [W2-1], [W2-2], and [W4-2].",
         "rewards": "a Furniture: Admiral And 3rd Squadron Table and either three 35.6cm Twin Gun Mounts OR two Irako OR three Screws",
         "resources": [[500, 300, 300, 300], [0, 0, 0, 0]]
+    },
+    "359": {
+        "code": "L2410C1",
+        "name": "Halloween Fleet Special Assault Exercise!",
+        "desc": "Assemble a fleet containing any 4 of: \"Zuihou Kai Ni/B, Oboro, Yuudachi, Asashio, Nowaki, Hamanami, Hayanami, Johnston, Ukuru, Inagi, I-47, I-201, or Kumano Maru\"; and up to 2 XX, then score 5 A+ ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either a Mamiya OR 6 Flamethrowers OR 4 Screws ¶Second choice: Either a Pumpkin OR 4200 Fuels OR 2600 Bauxites",
+        "resources": [[460, 460, 0, 0], [0, 0, 0, 0]]
+    },
+    "984": {
+        "code": "L2410B1",
+        "name": "[Limited Time Quest] In the Fall of the 12th Year, the Pumpkin Festival Begins!",
+        "desc": "Assemble a fleet containing any 2 of: \"Zuihou Kai Ni/B, Oboro, Yuudachi, Asashio, Kiyoshimo, Ukuru, or Inagi\" with one as flagship, and up to 4 XX, then S rank the boss nodes of [W1-3], [W1-4], and [W1-5].",
+        "rewards": "a Pumpkin and either two Irako OR 5 Buckets OR 7 Development Materials",
+        "resources": [[330, 330, 0, 0], [0, 0, 0, 0]]
+    },
+    "985": {
+        "code": "L2410B2",
+        "name": "[Limited Time Quest] Operation Reigo, Head West!",
+        "desc": "Assemble a fleet containing any 3 of: \"Ashigara, Ooyodo, Kasumi, Asashimo, or Kiyoshimo\"; and up to 3 XX, then S rank the boss nodes of [W4-1], [W4-2], and [W4-3].",
+        "rewards": "two Pumpkins and either two Mamiyas OR a Reinforcement Expansion OR a Medal",
+        "resources": [[550, 550, 0, 0], [0, 0, 0, 0]]
+    },
+    "986": {
+        "code": "L2410B3",
+        "name": "[Limited Time Quest] Pumpkin Festival Fleet, Heads to the Nansei Islands!",
+        "desc": "Assemble a fleet containing any 3 of: \"Roma, Oboro, Makinami, Jingei, or the Maestrale-class\"; and up to 3 XX, then S rank the boss nodes of [W2-2], [W2-3], and [W2-4].",
+        "rewards": "¶First choice: Either two Zuiun Model 12 OR a Raiden OR 5 Screws ¶Second choice: Either an Action Report OR two Medals OR two Pumpkins",
+        "resources": [[0, 0, 770, 770], [0, 0, 0, 0]]
+    },
+    "987": {
+        "code": "L2410B4",
+        "name": "[Limited Weekly Quest] Autumn Pumpkin Festival, More Please!",
+        "desc": "Assemble a fleet containing \"Jingei, I-47, and I-201\", or \"Kaiboukan No.4, Kaiboukan No.22, and Kaiboukan No.30\", or \"Abukuma, Brooklyn and Johnston\", and up to 3 XX, then A+ rank the boss nodes of [W1-5], [W2-1], [W3-1], and [W6-1].",
+        "rewards": "either a Pumpkin OR a Mamiya OR a Medal",
+        "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
+    },
+    "988": {
+        "code": "L2410B5",
+        "name": "[Limited Time Quest] Pumpkin Festival 2024, Expansion Strategy!",
+        "desc": "Assemble a fleet containing any 3 of: \"Zuihou, Abukuma, Oboro, Yuudachi, Asashio, Nowaki, Makinami, Hamanami, Hayanami, Ukuru, or Inagi\"; and up to 3 XX, then S rank the boss nodes of [W1-5], [W2-4], [W7-5-T], and [W5-5].",
+        "rewards": "¶First choice: Either 8 Screws OR an Armed Daihatsu ★4 OR a Prototype Toukai ¶Second choice: Either an Action Report OR three Pumpkins OR a Remodel Blueprint",
+        "resources": [[2024, 1031, 0, 0], [0, 0, 0, 0]]
+    },
+    "1119": {
+        "code": "L2410F1",
+        "name": "[Limited Time] Do You Want to Eat, Halloween Pumpkins?",
+        "desc": "Scrap 6 \"Small Caliber Main Guns\", 6 \"Medium Caliber Main Guns\", and 6 \"Seaplane Recons\", and prepare 5 20.3cm Twin Gun Mount, 5 Type 99 Dive Bombers, and 1,031 furniture coins.",
+        "rewards": "¶First choice: Either a Medal OR a Pumpkin OR 10 Development Materials ¶Second choice: Either 2400 Bauxites OR two Irako OR a Pumpkin",
+        "resources": [[0, 0, 880, 880], [0, 0, 0, 0]]
     }
 }
