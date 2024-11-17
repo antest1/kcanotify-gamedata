@@ -4503,6 +4503,13 @@
         "rewards": "a Furniture: Admiral And 3rd Squadron Table and either three 35.6cm Twin Gun Mounts OR two Irako OR three Screws",
         "resources": [[500, 300, 300, 300], [0, 0, 0, 0]]
     },
+    "915": {
+        "code": "L2212B1",
+        "name": "Time-Limited Mission: Fly! Seaplanes of the World!",
+        "desc": "Sortie an AV as flagship, 2 DD/DE and up to 3 additional ships to [W1-4], [W2-3] and [W2-4]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either two SOC Seagulls OR two Ro.43 Reconnaissance Seaplanes OR two Laté 298BS ¶Second choice: Either two S9 Ospreys OR two Swordfish (Seaplane Model) OR a Medal",
+        "resources": [[200, 200, 200, 200], [0, 0, 0, 0]]
+    },
     "369": {
         "code": "L2411C1",
         "name": "[Naval Base Saury Festival] Salt-grilled saury exercise!",

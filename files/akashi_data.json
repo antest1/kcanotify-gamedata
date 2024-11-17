@@ -1232,6 +1232,14 @@
         ],
         "default_equipped_on": [363, 591, 592, 370, 694, 471, 472, 473, 474, 475, 476, 478]
     },
+    "175": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [699]], [[false, true, true, true, false, false, false], [235, 147]]],
+                "resource": [[110, 150, 0, 360], [7, 8, 5, 6, 21, 3], [9, 13, 6, 8, 22, 2], [0, 0, 0, 0, 0, 0]]
+            }
+        ]
+    },
     "176": {
         "improvement": [{
                 "upgrade": [185, 0],
