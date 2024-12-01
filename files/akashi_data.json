@@ -2809,4 +2809,12 @@
             }
         ],
         "default_equipped_on": [735]
+    },
+    "549": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [948]]],
+                "resource": [[80, 60, 10, 190], [7, 8, 4, 5, 16, 4], [8, 10, 5, 7, 70, 2], [0, 0, 0, 0, 0, 0]]
+            }
+        ]
 }}
