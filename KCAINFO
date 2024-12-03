@@ -1,9 +1,9 @@
 {
     "version": "2.10r11",
     "data_version": "6.0.0.0",
-    "kcadata_version": 2024120101,
+    "kcadata_version": 2024120401,
     "kcadata_langpacks": {
-        "ko": 2024111701,
+        "ko": 2024120401,
         "jp": 2024111701,
         "en": 2024111701,
         "scn": 2024111701,
