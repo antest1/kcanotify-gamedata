@@ -1896,7 +1896,7 @@
     "286": {
         "improvement": [{
                 "upgrade": false,
-                "req": [[[false, true, true, true, false, false, false], [145]], [[false, true, true, false, false, false, false], [961]], [[false, false, false, false, true, true, true], [543]], [[true, false, false, false, false, true, true], [566]], [[false, true, true, true, true, false, false], [670]], [[false, false, false, true, true, true, true], [955, 960]]],
+                "req": [[[false, true, true, true, false, false, false], [145]], [[false, true, true, false, false, false, false], [961]], [[false, false, false, false, true, true, true], [543]], [[true, false, false, false, false, true, true], [566]], [[false, true, true, true, true, false, false], [670]], [[false, false, false, true, true, true, true], [955]]],
                 "resource": [[160, 240, 120, 80], [7, 8, 3, 4, 14, 3], [8, 12, 5, 7, 15, 3], [0, 0, 0, 0, 0, 0]]
             }
         ]
@@ -2732,7 +2732,8 @@
                 "req": [[[false, true, true, false, false, false, false], [578]], [[false, false, false, false, true, true, true], [955, 960]], [[false, true, true, true, false, false, false], [981]]],
                 "resource": [[20, 0, 90, 150], [12, 14, 7, 8, 88, 2], [16, 22, 8, 12, 450, 1], [0, 0, 0, 0, 0, 0]]
             }
-        ]
+        ],
+        "convert_exception": true
     },
     "518": {
         "improvement": [{
