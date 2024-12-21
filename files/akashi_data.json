@@ -2552,10 +2552,6 @@
                 "upgrade": false,
                 "req": [[[false, true, true, true, true, false, false], [716]], [[true, false, false, true, true, false, false], [955]], [[false, true, true, true, true, false, false], [960]], [[true, false, false, false, false, true, true], [578]], [[false, true, true, true, false, false, false], [981]]],
                 "resource": [[10, 0, 30, 60], [6, 8, 3, 4, 106, 1], [8, 13, 5, 8, 106, 2], [0, 0, 0, 0, 0, 0]]
-            }, {
-                "upgrade": false,
-                "req": [],
-                "resource": [[10, 0, 30, 60], [6, 8, 3, 4, 106, 1], [8, 13, 5, 8, 106, 2], [0, 0, 0, 0, 0, 0]]
             }
         ]
     },
