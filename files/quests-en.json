@@ -4585,5 +4585,41 @@
         "memo": "※Consumes the equipment, items and resources.",
         "rewards": "a Prototype Myoujou (Additional Prototype) ★2, ¶First choice: Either 2025 Bauxites OR a Prototype Myoujou (Additional Prototype) OR 8 Screws ¶Second choice: Either a Prototype Keiun (Carrier-based Reconnaissance Model) OR a Prototype Myoujou (Additional Prototype) ★4 OR a Remodel Blueprint",
         "resources": [[0, 0, 0, 1000], [0, 0, 0, 0]]
+    },
+    "801": {
+        "code": "L2501B1",
+        "name": "Happy New Year! In 2025, the Fleet Sets Sail!",
+        "desc": "Assemble a fleet containing 1 CL(T)/CT as flagship, 2 DD, and up to 3 XX, then A+ rank the boss nodes of 1-1, 1-2, 1-3, and 1-4.",
+        "rewards": "¶First choice: Either 10 Development Materials OR a Mamiya OR a Furniture Fairy ¶Second choice: Either three Submarine Supply Materials OR 6 Screws OR three Irako",
+        "resources": [[2025, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "802": {
+        "code": "L2501B2",
+        "name": "Happy New Year! In Reiwa 7th, the Aircraft Carrier Task Force Sets Out!",
+        "desc": "Assemble a fleet containing 1 CV(B/L) as flagship, 1 DD, and up to 4 XX, then S rank the boss nodes of 1-5, 2-1, 2-2, and 2-3.",
+        "rewards": "¶First choice: Either two New Model Aerial Armament Materials OR three Emergency Repair Materials OR 5 Screws ¶Second choice: Either two Suisei ★3 OR three Skilled Crew Members OR 7 12cm 30-tube Rocket Launchers",
+        "resources": [[0, 0, 0, 2025], [0, 0, 0, 0]]
+    },
+    "803": {
+        "code": "L2501B3",
+        "name": "Happy New Year 2025! Elite Heavy Cruiser Squadron, Heading North! To the West!",
+        "desc": "Assemble a fleet containing 2 CA and up to 4 XX, then S rank the boss nodes of 3-1, 3-3, 4-1, and 4-2.",
+        "rewards": "¶First choice: Either two New Model Armament Materials OR two New Model Gun Mount Improvement Materials OR a Medal ¶Second choice: Either two 20.3cm (No.3) Twin Gun Mounts OR a Remodel Blueprint OR an Action Report",
+        "resources": [[2025, 2025, 0, 0], [0, 0, 0, 0]]
+    },
+    "804": {
+        "code": "L2501B4",
+        "name": "New Year [Expanded Operation] Elite Japanese and American Aircraft Carriers Launch Joint New Year Operation!",
+        "desc": "Assemble a fleet containing any 2 of: \"Intrepid, Hornet, Ranger, Akagi, Kaga, Shoukaku, or Zuikaku\"; and up to 4 XX, then S rank the boss nodes of 2-5, 7-2 (Part 2), 4-5, 5-2, and 5-5.",
+        "rewards": "a Furniture: Happy New Year! Heian Hanging Scroll and either two Skilled Deck Personnels OR a Prototype Flight Deck Catapult OR two Night Battle Operation Aviation Personnel ★2",
+        "resources": [[0, 0, 2025, 2025], [0, 0, 0, 0]]
+    },
+    "378": {
+        "code": "L2501C1",
+        "name": "New Year Time-limited! 6th Fleet Special Exercises",
+        "desc": "Assemble a fleet containing 1 AS as flagship, 1 SS(V), 1 AS/SS(V), and up to 3 XX, then score 4 A+ ranks in PVP within the same day.",
+        "memo": "※Weekly",
+        "rewards": "¶First choice: Either 4 Buckets OR a Submarine Radar & Waterproof Periscope OR a Submarine Supply Material ¶Second choice: Either 8 Development Materials OR three Screws OR a Submarine Supply Material",
+        "resources": [[500, 200, 200, 0], [0, 0, 0, 0]]
     }
 }
