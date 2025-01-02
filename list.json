@@ -56,15 +56,15 @@
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/quests-jp.json"
 }, {
 	"name": "quests-ko.json",
-	"version": 2025010101,
+	"version": 2025010201,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/quests-ko.json"
 }, {
 	"name": "quests-scn.json",
-	"version": 2025010101,
+	"version": 2025010201,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/quests-scn.json"
 }, {
 	"name": "quests-tcn.json",
-	"version": 2025010101,
+	"version": 2025010201,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/quests-tcn.json"
 }, {
 	"name": "ships-en.json",
