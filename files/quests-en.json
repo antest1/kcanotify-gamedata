@@ -4566,60 +4566,60 @@
         "name": "[Rainy Season Limited Quest] Defend the Nansei Islands in the Rain!",
         "desc": "Sortie a CL(T)/CT/CA(V) as flagship, an AV, a DD, a DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. A-Rank+ each boss node.",
         "memo": "※Weekly",
-        "rewards": "4 Teru Teru Bouzus and either 440 Ranking Points OR 20 Development Materials OR two Medals",
-        "resources": [[1200, 1200, 12000, 0], [0, 0, 0, 0]]
+        "rewards": "two Teru Teru Bouzus and either 5 Buckets OR 6 Development Materials OR a Type 3 Fighter Hien",
+        "resources": [[150, 150, 150, 150], [0, 0, 0, 0]]
     },
     "954": {
         "code": "L2505B3",
         "name": "[Rainy Season Limited Quest] Maritime Escorts Strengthening in the Rainy Season 2025",
         "desc": "Sortie a DD as flagship, 2 DE and up to 3 additional ships to [W1-2], [W1-3], [W1-4], [W1-5] and [W1-6]. S-Rank each boss node. Reach [W1-6-N] twice.",
         "memo": "※Weekly",
-        "rewards": "¶First choice: Either 24 Buckets OR a Remodel Blueprint OR 4 Mamiyas ¶Second choice: Either 4 Latest Overseas Warship Technologys OR 88 Development Materials OR a Prototype Flight Deck Catapult",
-        "resources": [[600, 600, 0, 600], [0, 0, 0, 0]]
+        "rewards": "three Teru Teru Bouzus and either a Medal OR a Mamiya OR 10 Development Materials",
+        "resources": [[750, 750, 750, 0], [0, 0, 0, 0]]
     },
     "955": {
         "code": "L2505B4",
         "name": "[Monthly Rainy Season Limited Quest] Western Sea Area Joint Operation 2025",
         "desc": "Sortie a CV(L/B), 2 CA(V) or 2 Akizuki-class, and up to 3 additional ships to [W4-1], [W4-2], [W4-3], [W4-4] and [W4-5]. S-Rank each boss node.",
         "memo": "※Monthly",
-        "rewards": "¶First choice: Either 4 New Model Aerial Armament Materials OR a Prototype Flight Deck Catapult OR a New Technology Aircraft Blueprint ¶Second choice: Either 4 New Model Armament Materials OR 6 Latest Overseas Warship Technologys OR two Remodel Blueprints",
-        "resources": [[750, 750, 750, 750], [0, 0, 0, 0]]
+        "rewards": "4 Teru Teru Bouzus and either 440 Ranking Points OR 20 Development Materials OR two Medals",
+        "resources": [[1200, 1200, 1200, 0], [0, 0, 0, 0]]
     },
     "1031": {
         "code": "L2505B5",
         "name": "[Early Summer Limited Quest] Northern Waters, Active Combat Patrol Operations",
         "desc": "Sortie any 3 of Minneapolis, Tuscaloosa, Heywood L.E., Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki, one as flagship, and up to 3 additional ships to [W3-1], [W3-2] and [W3-5]. S-Rank each boss node twice.",
-        "rewards": "a Development Material and a Teru Teru Bouzu",
-        "resources": [[75, 75, 75, 75], [0, 0, 1, 0]]
+        "rewards": "¶First choice: Either 24 Buckets OR a Remodel Blueprint OR 4 Mamiyas ¶Second choice: Either 4 Latest Overseas Warship Technologys OR 88 Development Materials OR a Prototype Flight Deck Catapult",
+        "resources": [[600, 600, 0, 600], [0, 0, 0, 0]]
     },
     "1032": {
         "code": "L2505B6",
         "name": "[Early Summer Limited Quest] Active Operation of Elite Mobile Forces",
         "desc": "Sortie 2 Lv.90+ CV(L/B), 2 Lv.90+ DD and up to 2 additional ships to [W1-4], [W2-5], [W3-5] and [W5-2]. S-Rank each boss node twice.",
-        "rewards": "¶First choice: Either a Furniture Fairy OR a New Model Aerial Armament Material OR a Medal ¶Second choice: Either a +3 Equipment Slots OR a Reinforcement Expansion OR a Medal",
-        "resources": [[0, 0, 500, 0], [0, 0, 0, 0]]
+        "rewards": "¶First choice: Either 4 New Model Aerial Armament Materials OR a Prototype Flight Deck Catapult OR a New Technology Aircraft Blueprint ¶Second choice: Either 4 New Model Armament Materials OR 6 Latest Overseas Warship Technologys OR two Remodel Blueprints",
+        "resources": [[750, 750, 750, 750], [0, 0, 0, 0]]
     },
     "367": {
         "code": "L2505C1",
         "name": "[Rainy Season Limited Quest] Maritime Escort Force, Exercises in the Rain!",
         "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using 2 DE and up to 4 additional ships, or 4 DD and up to 2 additional ships.",
         "memo": "※Daily",
-        "rewards": "three Teru Teru Bouzus and either a Medal OR a Mamiya OR 10 Development Materials",
-        "resources": [[750, 750, 750, 0], [0, 0, 0, 0]]
+        "rewards": "a Development Material and a Teru Teru Bouzu",
+        "resources": [[75, 75, 75, 75], [0, 0, 1, 0]]
     },
     "1149": {
         "code": "L2505F1",
         "name": "[Limited Time Quest] Elimination of Unnecessary Equipment After the Event",
         "desc": "Prepare 48 Instant Construction Material. Scrap 4 Large Caliber Main Guns, 8 Medium Caliber Main Guns, and 8 Torpedoes.",
         "memo": "※Weekly",
-        "rewards": "two Teru Teru Bouzus and either 5 Buckets OR 6 Development Materials OR a Type 3 Fighter Hien",
-        "resources": [[150, 150, 150, 150], [0, 0, 0, 0]]
+        "rewards": "¶First choice: Either 1600 Ammos OR 1600 Fuels OR a New Model Armament Material ¶Second choice: Either 1500 Steels OR 1200 Bauxites OR two Screws",
+        "resources": [[0, 400, 500, 0], [0, 0, 0, 0]]
     },
     "1150": {
         "code": "L2505F2",
         "name": "[Early Summer Limited Quest] Naval Arsenal Reorganization Operation Begins!",
         "desc": "Have 30 Furniture Boxes (Small), 12 Type 99 Dive Bombers and 12 Type 97 Torpedo Bombers. Scrap 26 Medium Caliber Main Guns, 20 Large Caliber Main Guns and 10 Secondary Guns.",
-        "rewards": "¶First choice: Either 1600 Ammos OR 1600 Fuels OR a New Model Armament Material ¶Second choice: Either 1500 Steels OR 1200 Bauxites OR two Screws",
-        "resources": [[0, 400, 500, 0], [0, 0, 0, 0]]
+        "rewards": "¶First choice: Either a Furniture Fairy OR a New Model Aerial Armament Material OR a Medal ¶Second choice: Either a +3 Equipment Slots OR a Reinforcement Expansion OR a Medal",
+        "resources": [[0, 0, 500, 0], [0, 0, 0, 0]]
     }
 }
