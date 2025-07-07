@@ -4554,6 +4554,13 @@
         "rewards": "a Furniture: Admiral And 3rd Squadron Table and either three 35.6cm Twin Gun Mounts OR two Irako OR three Screws",
         "resources": [[500, 300, 300, 300], [0, 0, 0, 0]]
     },
+    "374": {
+        "code": "L2409C1",
+        "name": "[Time-limited] \"DesDiv32\" Special Exercises!",
+        "desc": "Assemble a fleet containing any 3 of: \"Tamanami, Suzunami, Fujinami, Hayanami, or Hamanami\"; and up to 3 XX, then score 3 S ranks in PVP within the same day.",
+        "rewards": "¶First choice: Either an Irako OR three 25mm Single Autocannon Mounts OR 4 Buckets ¶Second choice: Either 8 Development Materials OR three Screws OR a Mamiya",
+        "resources": [[320, 320, 0, 320], [0, 0, 0, 0]]
+    },
     "1022": {
         "code": "L2412B5",
         "name": "Monthly [Time-limited] DesDiv 32 Patrol Combat",
