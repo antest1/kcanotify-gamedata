@@ -1,12 +1,12 @@
 {
     "version": "3.0r12",
     "data_version": "6.1.6.0",
-    "kcadata_version": 2025090201,
+    "kcadata_version": 2025100701,
     "kcadata_langpacks": {
         "ko": 2025092802,
         "jp": 2025092801,
         "en": 2025092801,
-        "scn": 2025092801,
-        "tcn": 2025092801
+        "scn": 2025100701,
+        "tcn": 2025100701
     }
 }
