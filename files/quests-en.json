@@ -2149,6 +2149,13 @@
         "rewards": "¶First choice: Either +2 Equipment Slots OR 2000 Fuels OR a New Model Rocket Development Material ¶Second choice: Either two Medals OR 9 Screws OR 3600 Bauxites",
         "resources": [[400, 400, 400, 0], [0, 0, 0, 0]]
     },
+    "1010": {
+        "code": "B212",
+        "name": "Air Defense Destroyer Akizuki Kai Ni, Reporting In!",
+        "desc": "Sortie Akizuki Kai Ni as flagship and up to 5 additional ships to [W1-4], [W2-4], [W5-4], [W7-1] and [W7-2-M]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either two Type 94 Anti-Aircraft Fire Directors OR a Type 13 Air Radar Kai ★8 OR an Action Report ¶Second choice: Either a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai OR a Prototype 61cm Sextuple (Oxygen) Torpedo Mount",
+        "resources": [[610, 610, 610, 610], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -4628,48 +4635,32 @@
         "rewards": "¶First choice: Either 4 Development Materials OR two 25mm Single Autocannon Mounts OR an Equipment Slots ¶Second choice: Either 4 Buckets OR two Screws OR +2 Equipment Slots",
         "resources": [[100, 200, 100, 200], [0, 0, 0, 0]]
     },
-    "866": {
-        "code": "L2511B1",
-        "name": "[Saury] Let's Do Our Best at the Naval Base Saury Festival!",
-        "desc": "Have 10 Saury in your inventory.",
-        "rewards": "¶First choice: Either a DE Hiburi OR a Reinforcement Expansion OR three Combat Rations ¶Second choice: Either a DE Daitou OR a Reinforcement Expansion OR two Mamiyas",
-        "resources": [[880, 0, 880, 0], [0, 0, 0, 0]]
+    "962": {
+        "code": "L2512B1",
+        "name": "[Christmas] Merry Xmas Destroyer Squadron, Weigh Anchor!",
+        "desc": "Sortie any 4 of Hagikaze, Oyashio, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Sagiri and Johnston, and up to 2 additional ships to [W1-1] and [W1-3]. S-Rank each boss node three times.",
+        "rewards": "¶First choice: Either a Present Box OR a New Model Armament Material ¶Second choice: Either 12 Development Materials OR 4 Screws OR a Furniture Fairy",
+        "resources": [[0, 0, 1224, 0], [0, 0, 0, 0]]
     },
-    "867": {
-        "code": "L2511B2",
-        "name": "[Saury] It's so Delicious! Commander, This is the Best!",
-        "desc": "Have 20 Saury in your inventory.",
-        "rewards": "¶First choice: Either 8 Screws OR an AR Akashi OR an Action Report ¶Second choice: Either two Type 22 Surface Radar Kai 4 OR 4 New Model Gun Mount Improvement Materials OR a Remodel Blueprint",
-        "resources": [[1400, 1400, 0, 0], [0, 0, 0, 0]]
+    "963": {
+        "code": "L2512B2",
+        "name": "[Christmas] Holy Night Special Fleet, to the Nansei Islands!",
+        "desc": "Sortie any 2 of Asahi, Akashi, Souya, Kamoi, Taigei (not Ryuuhou), Hayasui, Jingei, Chougei, Heian Maru, Mizuho, Kumano Maru and Yamashio Maru, one as flagship, and up to 4 additional ships to [W1-2] and [W2-1]. S-Rank each boss node three times.",
+        "rewards": "¶First choice: Either two Daihatsu Landing Craft OR a New Model Armament Material OR 6 Buckets ¶Second choice: Either a Reinforcement Expansion OR 18 Development Materials OR a Medal",
+        "resources": [[1224, 0, 0, 0], [0, 0, 0, 0]]
     },
-    "868": {
-        "code": "L2511B3",
-        "name": "[Saury] We're Giving it Our All at the Akizuki-class Saury Festival!",
-        "desc": "Have 50 Saury in your inventory.",
-        "rewards": "¶First choice: Either 4 Latest Overseas Warship Technologys OR two Remodel Blueprints OR a Prototype Flight Deck Catapult ¶Second choice: Either a Furniture: Type 24 Big Catch Banner OR a Furniture: Type 25 Big Catch Banner",
-        "resources": [[0, 0, 2500, 2500], [0, 0, 0, 0]]
+    "964": {
+        "code": "L2512B3",
+        "name": "[Christmas] Xmas Battleship Squadron, Advance with Dignity!",
+        "desc": "Sortie any 2 of Warspite, Valiant, Nevada, Littorio and Jean Bart, one as flagship, and up to 4 additional ships to [W2-3], [W2-4] and [W5-1]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either three New Model Gun Mount Improvement Materials OR two 14inch/45 Triple Gun Mount ★2 OR a 15.2cm Triple Gun Mount ★5 ¶Second choice: Either a 38.1cm Mk.I/N Twin Gun Mount Kai ★2 OR 8 Screws OR a 38cm Quadruple Gun Mount Kai",
+        "resources": [[1224, 1224, 0, 0], [0, 0, 0, 0]]
     },
-    "369": {
-        "code": "L2511C1",
-        "name": "[Saury] Salt-grilled Saury Exercise!",
-        "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 4 of Oboro, Akebono, Sazanami, Ushio, Akizuki, Hatsuzuki, Ootomari, Kishinami, Okinami, Isokaze, Shouhou, Michishio, Shigure Kai Ni+, Mogador and Ranger, and up to 2 additional ships.",
-        "rewards": "¶First choice: Either two Irako OR a Medal OR a Combat Ration ★3 ¶Second choice: Either 12 Flamethrowers OR 12 Buckets OR two Mamiyas",
-        "resources": [[650, 0, 650, 650], [0, 0, 0, 0]]
-    },
-    "1110": {
-        "code": "L2511F1",
-        "name": "[Saury] Saury as Combat Rations!",
-        "desc": "Have 8 Saury, 18 Flamethrowers and 18 Development Materials. Set Nankai or married Naganami as secretary with a \\u26056+ Combat Ration in her first slot. Scrap 4 8cm High-angle Guns.",
-        "memo": "※Consumes the items and resources.",
-        "rewards": "a Combat Ration (Special Onigiri) ★3 and either three New Model Armament Materials OR 28 Development Materials OR 7 Screws",
-        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
-    },
-    "1144": {
-        "code": "L2511F2",
-        "name": "[Saury] Finale!",
-        "desc": "Have 20 Saury, a Type 94 Anti-Aircraft Fire Director, 2 New Model Artillery Armament Materials, 48 Development Materials and 36 Flamethrowers. Set an Akizuki-class as secretary with a \\u26057+ 10cm Twin High-angle Gun Mount Kai in her first slot. Scrap 5 Type 91 Anti-Aircraft Fire Directors.",
-        "memo": "※Consumes the items and resources.",
-        "rewards": "a 10cm Twin High-angle Gun Mount Kai + Anti-Aircraft Fire Director Kai ★2 and either 8800 Ammos OR a Night Skilled Crew Member OR 10 Mamiyas",
-        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    "965": {
+        "code": "L2512B4",
+        "name": "[Christmas] Xmas Cruiser-class, Wreak Havoc This Winter Too!",
+        "desc": "Sortie any 3 of Kinugasa, Suzuya, Kumano, Ooyodo, Kuma, Kashima, Yahagi Kai Ni+, Sakawa, Sheffield and Atlanta, and up to 3 additional ships to [W2-2], [W5-3] and [W5-5]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either two Latest Overseas Warship Technologys OR 24 Buckets OR 30 Development Materials ¶Second choice: Either two Action Reports OR a Type 22 Surface Radar Kai 4 (Late Adjustment Model) ★4 OR 4 Medals",
+        "resources": [[0, 0, 2025, 2025], [0, 0, 0, 0]]
     }
 }
