@@ -4635,32 +4635,39 @@
         "rewards": "¶First choice: Either 4 Development Materials OR two 25mm Single Autocannon Mounts OR an Equipment Slots ¶Second choice: Either 4 Buckets OR two Screws OR +2 Equipment Slots",
         "resources": [[100, 200, 100, 200], [0, 0, 0, 0]]
     },
-    "962": {
-        "code": "L2512B1",
-        "name": "[Christmas] Merry Xmas Destroyer Squadron, Weigh Anchor!",
-        "desc": "Sortie any 4 of Hagikaze, Oyashio, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Sagiri and Johnston, and up to 2 additional ships to [W1-1] and [W1-3]. S-Rank each boss node three times.",
-        "rewards": "¶First choice: Either a Present Box OR a New Model Armament Material ¶Second choice: Either 12 Development Materials OR 4 Screws OR a Furniture Fairy",
-        "resources": [[0, 0, 1224, 0], [0, 0, 0, 0]]
+    "1024": {
+        "code": "L2512B5",
+        "name": "[End-Of-Year] Sortie! Coastal Defense Battleship, Maritime Combat Patrol!",
+        "desc": "Sortie Thonburi as flagship and up to 5 additional ships, OR 2 Norge-class, one as flagship, and up to 4 additional ships to to [W1-3], [W1-4], [W2-1] and [W3-1]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either two Repair Teams OR three Screws OR a New Model Armament Material ¶Second choice: Either a 20.3cm Twin Gun Mount ★8 OR a Skilled Lookouts ★6 OR two Medals",
+        "resources": [[750, 500, 500, 500], [0, 0, 0, 0]]
     },
-    "963": {
-        "code": "L2512B2",
-        "name": "[Christmas] Holy Night Special Fleet, to the Nansei Islands!",
-        "desc": "Sortie any 2 of Asahi, Akashi, Souya, Kamoi, Taigei (not Ryuuhou), Hayasui, Jingei, Chougei, Heian Maru, Mizuho, Kumano Maru and Yamashio Maru, one as flagship, and up to 4 additional ships to [W1-2] and [W2-1]. S-Rank each boss node three times.",
-        "rewards": "¶First choice: Either two Daihatsu Landing Craft OR a New Model Armament Material OR 6 Buckets ¶Second choice: Either a Reinforcement Expansion OR 18 Development Materials OR a Medal",
-        "resources": [[1224, 0, 0, 0], [0, 0, 0, 0]]
+    "361": {
+        "code": "L2512C1",
+        "name": "[End-Of-Year] Maritime Escort Force, Special Exercises!",
+        "desc": "Set the flagship with 2 Emergency Repair Personnel in her first and second slot, then secure 4 S-Rank victories in Exercises within the same day using a CVL, 4 DD and up to 1 additional ship, OR 2 DE and up to 4 additional ships in Fleet 1.",
+        "rewards": "two Repair Godnesses, ¶First choice: Either 4 Combat Rations OR 4 Screws OR 4 Type 94 Depth Charge Projectors ¶Second choice: Either a Type 2 Depth Charge ★4 OR 6 Type 3 Depth Charge Projectors OR 3300 Fuels",
+        "resources": [[700, 300, 300, 300], [0, 0, 0, 0]]
     },
-    "964": {
-        "code": "L2512B3",
-        "name": "[Christmas] Xmas Battleship Squadron, Advance with Dignity!",
-        "desc": "Sortie any 2 of Warspite, Valiant, Nevada, Littorio and Jean Bart, one as flagship, and up to 4 additional ships to [W2-3], [W2-4] and [W5-1]. S-Rank each boss node twice.",
-        "rewards": "¶First choice: Either three New Model Gun Mount Improvement Materials OR two 14inch/45 Triple Gun Mount ★2 OR a 15.2cm Triple Gun Mount ★5 ¶Second choice: Either a 38.1cm Mk.I/N Twin Gun Mount Kai ★2 OR 8 Screws OR a 38cm Quadruple Gun Mount Kai",
-        "resources": [[1224, 1224, 0, 0], [0, 0, 0, 0]]
+    "1121": {
+        "code": "L2512F1",
+        "name": "[End-Of-Year] Naval District General Cleaning! Happy New Year!",
+        "desc": "Have 8 Type 96 Fighters, 5 Type 94 Depth Charge Projectors and 2025 Steel. Scrap 11 Small Caliber Main Guns, 11 Medium Caliber Main Guns and 11 Reconnaissance Seaplanes.",
+        "rewards": "¶First choice: Either two Repair Teams OR a Medal OR 2026 Fuels ¶Second choice: Either two Mamiyas OR two Medals OR 7 Screws",
+        "resources": [[1000, 0, 1000, 0], [0, 0, 0, 0]]
     },
-    "965": {
-        "code": "L2512B4",
-        "name": "[Christmas] Xmas Cruiser-class, Wreak Havoc This Winter Too!",
-        "desc": "Sortie any 3 of Kinugasa, Suzuya, Kumano, Ooyodo, Kuma, Kashima, Yahagi Kai Ni+, Sakawa, Sheffield and Atlanta, and up to 3 additional ships to [W2-2], [W5-3] and [W5-5]. S-Rank each boss node twice.",
-        "rewards": "¶First choice: Either two Latest Overseas Warship Technologys OR 24 Buckets OR 30 Development Materials ¶Second choice: Either two Action Reports OR a Type 22 Surface Radar Kai 4 (Late Adjustment Model) ★4 OR 4 Medals",
-        "resources": [[0, 0, 2025, 2025], [0, 0, 0, 0]]
+    "1146": {
+        "code": "L2512F2",
+        "name": "[End-Of-Year] Extended Cleaning & Special Resource Export I",
+        "desc": "Have 5 Smoke Generator (Smoke Screen), 25 Furniture Boxes (Small) and 2025 Ammo. Scrap 8 Dive Bombers, 8 Torpedo Bombers and 16 Torpedoes.",
+        "rewards": "¶First choice: Either 3200 Steels OR 3600 Fuels OR 26 Development Materials ¶Second choice: Either 30 Buckets OR three Skilled Crew Members OR two Medals",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1147": {
+        "code": "L2512F3",
+        "name": "[End-Of-Year] Extended Cleaning & Special Resource Export II",
+        "desc": "Have 8 Type 13 Air Radars, 4 Type 21 Air Radars and 2025 Steel. Scrap 8 Large Caliber Main Guns, 16 Medium Caliber Main Guns and 20 Reconnaissance Seaplanes.",
+        "rewards": "¶First choice: Either 5000 Ammos OR 2026 Bauxites OR 5000 Fuels ¶Second choice: Either 42 Development Materials OR a Type 42 Air Radar ★4 OR three New Model Gun Mount Improvement Materials",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     }
 }
