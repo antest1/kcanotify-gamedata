@@ -4669,5 +4669,40 @@
         "desc": "Have 8 Type 13 Air Radars, 4 Type 21 Air Radars and 2025 Steel. Scrap 8 Large Caliber Main Guns, 16 Medium Caliber Main Guns and 20 Reconnaissance Seaplanes.",
         "rewards": "¶First choice: Either 5000 Ammos OR 2026 Bauxites OR 5000 Fuels ¶Second choice: Either 42 Development Materials OR a Type 42 Air Radar ★4 OR three New Model Gun Mount Improvement Materials",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "801": {
+        "code": "L2601B1",
+        "name": "[New Year] Happy New Year! In 2026, Weigh Anchor!",
+        "desc": "Sortie a CL(T)/CT as flagship, either 3 DD and up to 2 additional ships OR 2 DE and up to 3 additional ships to [W1-1], [W1-2], [W1-3] and [W1-5]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either 10 Development Materials OR a Mamiya OR a Furniture Fairy ¶Second choice: Either a Medal OR 5 Screws OR three Irako",
+        "resources": [[2026, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "802": {
+        "code": "L2601B2",
+        "name": "[New Year] Happy New Year! In Reiwa 8th Year, Elite Cruiser Squadron, Commence Sortie!",
+        "desc": "Sortie 3 CL(T)/CT/CA(V), one as flagship, a DD and up to 2 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either two New Model Armament Materials OR two New Model Gun Mount Improvement Materials OR two Medals ¶Second choice: Either three 20.3cm (No.2) Twin Gun Mount ★8 OR three 6inch Mk.XXIII Triple Gun Mount ★8 OR two Action Reports",
+        "resources": [[0, 0, 0, 2026], [0, 0, 0, 0]]
+    },
+    "803": {
+        "code": "L2601B3",
+        "name": "[New Year] Happy New Year 2026! Carrier Task Force, to the West! To the North and South!",
+        "desc": "Sortie a CV(L/B) as flagship, 2 DD and up to 3 additional ships to [W4-1], [W4-2], [W5-2] and [W3-1]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either two New Model Aerial Armament Materials OR 4 Emergency Repair Materials OR two Medals ¶Second choice: Either two Tenzan Model 12A Kai ★4 OR 4 Skilled Crew Members OR two 12cm 30-tube Rocket Launcher ★6",
+        "resources": [[2026, 2026, 0, 0], [0, 0, 0, 0]]
+    },
+    "804": {
+        "code": "L2601B4",
+        "name": "[New Year] Elite Japanese, British and American Aircraft Carriers, Joint New Year Operation!",
+        "desc": "Sortie any 2 of Ark Royal, Victorious, Intrepid, Hornet, Souryuu, Hiryuu, Shoukaku and Zuikaku, and up to 4 additional ships to [W2-5], [W5-5], [W6-2], [W7-2-M] and [W4-5]. S-Rank each boss node.",
+        "rewards": "a Furniture: Happy New Year! Hiryuu's Scroll and either two Skilled Deck Personnels OR a Prototype Flight Deck Catapult OR a Skilled Carrier-based Aircraft Maintenance Personnel",
+        "resources": [[0, 2026, 2026, 2026], [0, 0, 0, 0]]
+    },
+    "378": {
+        "code": "L2601C1",
+        "name": "Weekly [New Year] 6th Fleet, Special Exercises!",
+        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using an AS as flagship, an SS(V), an AS/SS(V) and up to 3 additional ships.",
+        "rewards": "¶First choice: Either 5 Buckets OR a Submarine Radar & Waterproof Periscope OR a Submarine Supply Material ¶Second choice: Either 12 Development Materials OR a Medal OR two Submarine Supply Materials",
+        "resources": [[550, 220, 220, 0], [0, 0, 0, 0]]
     }
 }
