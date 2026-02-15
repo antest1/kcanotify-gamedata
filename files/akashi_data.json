@@ -1876,7 +1876,8 @@
                 "req": [[[false, true, true, true, true, false, false], [509]]],
                 "resource": [[130, 180, 0, 370], [8, 10, 5, 6, 55, 2], [13, 18, 7, 10, 22, 2], [0, 0, 0, 0, 0, 0]]
             }
-        ]
+        ],
+        "default_equipped_on": [1031]
     },
     "274": {
         "improvement": [{
