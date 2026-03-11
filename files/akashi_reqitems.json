@@ -118,4 +118,14 @@
         "scn": "战斗粮食",
         "tcn": "戰鬥糧食"
     }
+}, {
+    "id": 12,
+    "useitem_id": 95,
+    "name": {
+        "jp": "潜水艦補給物資",
+        "en": "Submarine Supply Material",
+        "ko": "잠수함보급물자",
+        "scn": "潜水舰补给物资",
+        "tcn": "潛水艦補給物資"
+    }
 }]

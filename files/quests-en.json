@@ -4691,25 +4691,56 @@
         "rewards": "¶First choice: Either 4 Development Materials OR two 25mm Single Autocannon Mounts OR an Equipment Slots ¶Second choice: Either 4 Buckets OR two Screws OR +2 Equipment Slots",
         "resources": [[100, 200, 100, 200], [0, 0, 0, 0]]
     },
-    "234": {
-        "code": "L2602B1",
-        "name": "Weekly [Valentine] Valentine's Day 2026, Special Operation",
-        "desc": "Sortie any 3 of Ooi, Kuma, Kashima, Kamoi, Ootomari, Kamikaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami, one as Fleet 1 flagship, and up to 3 additional ships to [W1-3], [W1-4] and [W2-1]. S-Rank each boss node.",
-        "rewards": "¶First choice: Either 4 Development Materials OR two Buckets OR two 25mm Single Autocannon Mounts ¶Second choice: Either an Irako OR +2 Equipment Slots",
-        "resources": [[214, 0, 214, 0], [0, 0, 0, 0]]
+    "906": {
+        "code": "L2603B1",
+        "name": "[Hinamatsuri] Safeguarding the Naval Base's Coastal Waters During Spring 2026",
+        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
+        "rewards": "a Hishimochi and either two 25mm Single Autocannon Mounts OR 5 Development Materials OR a Screw",
+        "resources": [[300, 300, 300, 0], [0, 0, 0, 0]]
     },
-    "238": {
-        "code": "L2602B2",
-        "name": "[Valentine] Valentine's Day 2026, Special Extra Operation",
-        "desc": "Sortie any 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni, one as Fleet 1 flagship, and up to 3 additional ships to [W2-2], [W3-1] and [W7-5-T]. A-Rank+ each boss node twice.",
-        "rewards": "¶First choice: Either two Mamiyas OR two Reinforcement Expansions ¶Second choice: Either two Medals OR +12 Equipment Slots OR an Action Report",
-        "resources": [[214, 0, 0, 2026], [0, 0, 0, 0]]
+    "907": {
+        "code": "L2603B2",
+        "name": "[Hinamatsuri] Nansei Region Spring Combat Patrols 2026",
+        "desc": "Sortie 4 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. S-Rank each boss node twice.",
+        "rewards": "two Hishimochis and either 5 Buckets OR a Mamiya OR two Ka Type Observation Autogyros",
+        "resources": [[0, 500, 500, 0], [0, 0, 0, 0]]
     },
-    "349": {
-        "code": "L2602C1",
-        "name": "Weekly [Valentine] Valentine's Day 2026, Special Exercises",
-        "desc": "Secure 5 S-Rank victories in Exercises within the same day using any 3 of Thonburi, Helena, Mogador, Gotland, Perth, Comdt. Teste, Akebono, Oboro and Nosaki, one as Fleet 1 flagship, and up to 3 additional ships.",
-        "rewards": "¶First choice: Either a New Model Aerial Armament Material OR two Tenzans OR 8 Development Materials ¶Second choice: Either 6 Buckets OR a Mamiya OR three Screws",
-        "resources": [[214, 214, 214, 214], [0, 0, 0, 0]]
+    "908": {
+        "code": "L2603B3",
+        "name": "[Hinamatsuri] Spring Hinamatsuri Decisive Battle! 2026",
+        "desc": "Sortie any 2 of Minneapolis, Samuel B. Roberts, Yuugumo and Ushio, one as flagship, and up to 4 additional ships to [W2-4], [W2-5] and [W7-2-M]. S-Rank each boss node twice.",
+        "rewards": "4 Hishimochis and either 15 Development Materials OR two New Model Aerial Armament Materials OR two Medals",
+        "resources": [[1000, 1000, 0, 1000], [0, 0, 0, 0]]
+    },
+    "340": {
+        "code": "L2603C1",
+        "name": "Weekly [Hinamatsuri] Peach Festival Fleet Exercises 2026",
+        "desc": "Secure 3 S-Rank victories in Exercises using 3 DE and up to 3 additional ships OR 4 DD and up to 2 additional ships.",
+        "rewards": "a Hishimochi and either three Development Materials OR three Buckets",
+        "resources": [[303, 303, 0, 0], [0, 0, 0, 0]]
+    },
+    "707": {
+        "code": "L2603G1",
+        "name": "Weekly [Hinamatsuri] Peach Festival Destroyer Modernization",
+        "desc": "Have 303 Steel and 303 Bauxite. Modernize a DD using 3 CL twice.",
+        "memo": "※Consumes the resources.",
+        "rewards": "a Hishimochi and two Development Materials",
+        "resources": [[100, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "708": {
+        "code": "L2603G2",
+        "name": "Weekly [Hinamatsuri] Peach Festival Escort Modernization",
+        "desc": "Have 3030 Steel and 3030 Bauxite. Modernize a DE using 5 DD twice.",
+        "memo": "※Consumes the resources.",
+        "rewards": "two Hishimochis and two Buckets",
+        "resources": [[100, 100, 0, 0], [0, 0, 0, 0]]
+    },
+    "709": {
+        "code": "L2603G3",
+        "name": "[Hinamatsuri] Hishimochi Special Modernization 2026",
+        "desc": "Have 6 Hishimochi. Modernize a Fubuki-class DD using 3 Sendai-class CL three times.",
+        "memo": "※Consumes the resources.",
+        "rewards": "¶First choice: Either three Medals OR 13 Screws OR two New Model Armament Materials ¶Second choice: Either 2200 Fuels OR 2000 Steels OR two New Model Gun Mount Improvement Materials",
+        "resources": [[800, 0, 0, 0], [0, 0, 0, 0]]
     }
 }
