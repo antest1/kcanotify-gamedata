@@ -2170,6 +2170,13 @@
         "rewards": "¶First choice: Either 6 Prototype Reppuu Late Models OR 6 Ryuusei Kais OR +12 Equipment Slots ¶Second choice: Either 5 New Model Aerial Armament Materials OR 5 Medals OR two New Technology Aircraft Blueprints",
         "resources": [[1942, 0, 1946, 2026], [0, 0, 0, 0]]
     },
+    "1044": {
+        "code": "B215",
+        "name": "DesDiv 32 Tamanami Kai Ni, Sortieing!",
+        "desc": "Sortie Tamanami Kai Ni as flagship, Fujinami and up to 4 additional ships to [W2-3], [W2-5], [W4-5], [W5-5] and [W6-3]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either three New Model Armament Materials OR 88 Development Materials OR a Prototype Flight Deck Catapult ¶Second choice: Either a Torpedo Squadron Skilled Lookouts OR a 12.7cm Twin Gun Mount Model D Kai 3 OR a Type 3 Depth Charge Projector Kai",
+        "resources": [[1944, 2026, 0, 0], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -4227,6 +4234,14 @@
         "rewards": "a Shinden Kai 3 (Prototype Jet Shinden)",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     },
+    "1164": {
+        "code": "F142",
+        "name": "Newly Remodeled Torpedo Squadron Ship, Remodel Preparations!",
+        "desc": "Have a New Model Armament Materials and 4 15.2cm Twin Gun Mounts. Set Tamanami as secretary with Fujinami and Kitakami in your fleet. Scrap 8 Type 3 Depth Charge Projectors, 4 Type 3 Active Sonars and 8 12.7cm Twin High-angle Gun Mounts.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either +8 Equipment Slots OR a Type 2 Depth Charge ★4 OR 40 Development Materials ¶Second choice: Either two 61cm Quintuple (Oxygen) Torpedo Mount ★4 OR a 12.7cm Twin High-angle Gun Mount Kai 2 ★4 OR three New Model Armament Materials",
+        "resources": [[0, 200, 1200, 200], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4691,56 +4706,61 @@
         "rewards": "¶First choice: Either 4 Development Materials OR two 25mm Single Autocannon Mounts OR an Equipment Slots ¶Second choice: Either 4 Buckets OR two Screws OR +2 Equipment Slots",
         "resources": [[100, 200, 100, 200], [0, 0, 0, 0]]
     },
-    "906": {
-        "code": "L2603B1",
-        "name": "[Hinamatsuri] Safeguarding the Naval Base's Coastal Waters During Spring 2026",
-        "desc": "Sortie 3 DD/DE and up to 3 additional ships to [W1-2], [W1-3], [W1-5] and [W1-6-N]. A-Rank+ all relevant boss nodes.",
-        "rewards": "a Hishimochi and either two 25mm Single Autocannon Mounts OR 5 Development Materials OR a Screw",
-        "resources": [[300, 300, 300, 0], [0, 0, 0, 0]]
+    "1028": {
+        "code": "L2603B4",
+        "name": "[White Day] Light Aircraft Carrier, Sortie! 2026",
+        "desc": "Sortie Langley as flagship and up to 5 additional ships OR 2 CVL and up to 4 additional ships to [W1-3], [W2-1], [W2-2] and [W3-1]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either an AO Kamoi OR  a DE Hiburi OR  a DE Daitou OR  a DE Noumi OR  a DE Kurahashi ¶Second choice: Either three Underway Replenishments OR two Skilled Crew Members OR a Repair Godness",
+        "resources": [[314, 314, 314, 314], [0, 0, 0, 0]]
     },
-    "907": {
-        "code": "L2603B2",
-        "name": "[Hinamatsuri] Nansei Region Spring Combat Patrols 2026",
-        "desc": "Sortie 4 DD/DE and up to 2 additional ships to [W2-1], [W2-2] and [W2-3]. S-Rank each boss node twice.",
-        "rewards": "two Hishimochis and either 5 Buckets OR a Mamiya OR two Ka Type Observation Autogyros",
-        "resources": [[0, 500, 500, 0], [0, 0, 0, 0]]
+    "1043": {
+        "code": "L2603B5",
+        "name": "[Time-limited] The Spring Flagship is... Me!",
+        "desc": "Sortie any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco, one as flagship, and up to 4 additional ships to [W1-3], [W1-5], [W1-4] and [W2-3]. A-Rank+ each boss node twice.",
+        "rewards": "¶First choice: Either +4 Equipment Slots OR a Medal OR a New Model Armament Material ¶Second choice: Either a Reinforcement Expansion OR a Remodel Blueprint OR two Latest Overseas Warship Technologys",
+        "resources": [[700, 0, 700, 0], [0, 0, 0, 0]]
     },
-    "908": {
-        "code": "L2603B3",
-        "name": "[Hinamatsuri] Spring Hinamatsuri Decisive Battle! 2026",
-        "desc": "Sortie any 2 of Minneapolis, Samuel B. Roberts, Yuugumo and Ushio, one as flagship, and up to 4 additional ships to [W2-4], [W2-5] and [W7-2-M]. S-Rank each boss node twice.",
-        "rewards": "4 Hishimochis and either 15 Development Materials OR two New Model Aerial Armament Materials OR two Medals",
-        "resources": [[1000, 1000, 0, 1000], [0, 0, 0, 0]]
+    "450": {
+        "code": "L2603D1",
+        "name": "[Time-limited] Torpedo Squadron Expedition Operation!",
+        "desc": "Complete Expeditions 05, 12, 09, A1 and 14.",
+        "rewards": "¶First choice: Either 8 Development Materials OR 6 Buckets OR two Irako ¶Second choice: Either a New Model Gun Mount Improvement Material OR a New Model Aerial Armament Material OR a New Model Armament Material",
+        "resources": [[600, 300, 200, 200], [0, 0, 0, 0]]
     },
-    "340": {
-        "code": "L2603C1",
-        "name": "Weekly [Hinamatsuri] Peach Festival Fleet Exercises 2026",
-        "desc": "Secure 3 S-Rank victories in Exercises using 3 DE and up to 3 additional ships OR 4 DD and up to 2 additional ships.",
-        "rewards": "a Hishimochi and either three Development Materials OR three Buckets",
-        "resources": [[303, 303, 0, 0], [0, 0, 0, 0]]
+    "720": {
+        "code": "L2603G4",
+        "name": "[Time-limited] Yuugumo-class Modernization Mission!",
+        "desc": "Have 24 Development Materials. Modernize a Yuugumo-class DD using 3 CA(V) three times.",
+        "rewards": "¶First choice: Either +10 Equipment Slots OR three Medals OR three New Model Gun Mount Improvement Materials ¶Second choice: Either 2000 Steels OR a New Technology Aircraft Blueprint OR 6 Submarine Supply Materials",
+        "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
     },
-    "707": {
-        "code": "L2603G1",
-        "name": "Weekly [Hinamatsuri] Peach Festival Destroyer Modernization",
-        "desc": "Have 303 Steel and 303 Bauxite. Modernize a DD using 3 CL twice.",
-        "memo": "※Consumes the resources.",
-        "rewards": "a Hishimochi and two Development Materials",
-        "resources": [[100, 0, 0, 0], [0, 0, 0, 0]]
+    "941": {
+        "code": "L2604B1",
+        "name": "[Spring] Springtime Coastal Patrol Stroll! 2026",
+        "desc": "Sortie an AS/CT/DD as flagship and up to 4(!) DD/DE/SS(V) to [W1-2], [W1-3], [W2-1] and [W2-2]. A-Rank+ each boss node.",
+        "rewards": "¶First choice: Either a Type 3 Active Sonar ★2 OR two Screws OR 5 Development Materials ¶Second choice: Either a Medal OR two Irako OR a Furniture Fairy",
+        "resources": [[330, 330, 330, 330], [0, 0, 0, 0]]
     },
-    "708": {
-        "code": "L2603G2",
-        "name": "Weekly [Hinamatsuri] Peach Festival Escort Modernization",
-        "desc": "Have 3030 Steel and 3030 Bauxite. Modernize a DE using 5 DD twice.",
-        "memo": "※Consumes the resources.",
-        "rewards": "two Hishimochis and two Buckets",
-        "resources": [[100, 100, 0, 0], [0, 0, 0, 0]]
+    "942": {
+        "code": "L2604B2",
+        "name": "[Spring] Continued Springtime Coastal Patrol Stroll!",
+        "desc": "Sortie any 2 of Fubuki, Yuugumo, Uzuki, Murasame, Amatsukaze, Jingei, Chougei and Heian Maru as flagship and second ship, and up to 4 additional ships to [W2-3], [W2-5] and [W3-5]. A-Rank+ each boss node twice.",
+        "rewards": "¶First choice: Either 5 Buckets OR two New Model Rocket Development Materials OR 10 Development Materials ¶Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR three Special Aviation Rations",
+        "resources": [[480, 480, 480, 480], [0, 0, 0, 0]]
     },
-    "709": {
-        "code": "L2603G3",
-        "name": "[Hinamatsuri] Hishimochi Special Modernization 2026",
-        "desc": "Have 6 Hishimochi. Modernize a Fubuki-class DD using 3 Sendai-class CL three times.",
-        "memo": "※Consumes the resources.",
-        "rewards": "¶First choice: Either three Medals OR 13 Screws OR two New Model Armament Materials ¶Second choice: Either 2200 Fuels OR 2000 Steels OR two New Model Gun Mount Improvement Materials",
-        "resources": [[800, 0, 0, 0], [0, 0, 0, 0]]
+    "1011": {
+        "code": "L2604B3",
+        "name": "[First Striking Force] Sortie to the Southwest Islands Defense Battle!",
+        "desc": "Sortie Yamato as flagship, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo to [W1-4], [W2-1], [W2-2] and [W2-5]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either 36 Development Materials OR three Medals OR an Action Report ¶Second choice: Either 6 New Model Armament Materials OR a 15m Duplex Rangefinder Kai + Type 21 Air Radar Kai 2 + Skilled Fire Direction Center ★2 OR two Prototype Flight Deck Catapults",
+        "resources": [[600, 600, 600, 600], [0, 0, 0, 0]]
+    },
+    "1165": {
+        "code": "L2604F1",
+        "name": "[First Striking Force] Prepare for Sortie!",
+        "desc": "Have 300 Development Materials and 500 Fuel. Set Yamato as secretary and Yahagi as second ship with any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in your fleet. Scrap 4 15.2cm Single Gun Mounts.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either 320 Development Materials OR 4 New Model Armament Materials OR a Prototype Flight Deck Catapult ¶Second choice: Either two Repair Godnesses OR two Reinforcement Expansions OR a Remodel Blueprint",
+        "resources": [[0, 380, 0, 380], [0, 0, 0, 0]]
     }
 }
