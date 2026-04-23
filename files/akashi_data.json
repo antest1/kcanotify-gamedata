@@ -2024,7 +2024,8 @@
                 "req": [[[true, false, false, false, true, true, true], [959]], [[false, false, true, true, true, false, false], [666]], [[true, false, false, false, false, true, true], [195]], [[false, false, false, false, true, true, true], [419]], [[true, false, false, false, false, true, true], [986]]],
                 "resource": [[120, 180, 90, 60], [5, 6, 3, 4, 13, 3], [6, 9, 5, 7, 125, 1], [0, 0, 0, 0, 0, 0]]
             }
-        ]
+        ],
+        "default_equipped_on": [1035]
     },
     "286": {
         "improvement": [{
@@ -2190,7 +2191,7 @@
                 "resource": [[30, 90, 190, 180], [12, 14, 7, 7, 382, 2], [15, 22, 8, 11, 284, 1], [28, 39, 13, 18, 307, 1]]
             }
         ],
-        "default_equipped_on": [737, 689, 692, 726, 920]
+        "default_equipped_on": [737, 1040, 689, 692, 726, 920]
     },
     "314": {
         "improvement": [{
