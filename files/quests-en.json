@@ -2603,6 +2603,14 @@
         "rewards": "¶First choice: Either 5 35.6cm Twin Gun Mounts OR two New Model Armament Materials OR 5 Screws ¶Second choice: Either two Medals OR 5500 Ammos OR an Action Report",
         "resources": [[300, 500, 500, 300], [0, 0, 0, 0]]
     },
+    "1045": {
+        "code": "By16",
+        "name": "Annual Fubuki Sortie - April",
+        "desc": "Sortie Fubuki Kai San+ as flagship, a Fubuki-class DD as second ship and up to 4 additional ships to [W7-5-T], [W5-1], [W5-3], [W5-4] and [W5-5]. S-Rank each boss node.",
+        "memo": "※This quest resets on the first quest reset of April. ※Fubuki Kai San, Sortieing! Please Watch Me!",
+        "rewards": "¶First choice: Either 5 Arsenal Resources OR three Latest Overseas Warship Technologys OR 88 Development Materials ¶Second choice: Either a 12.7cm Single High-angle Gun Mount Kai 2 ★6 OR a Prototype Type 23 Radar Kai 3 OR 5 Medals",
+        "resources": [[1945, 1946, 0, 0], [0, 0, 0, 0]]
+    },
     "301": {
         "code": "C1",
         "name": "The First Exercise!",
@@ -4306,6 +4314,14 @@
         "rewards": "a Development Material and a Bucket",
         "resources": [[0, 100, 0, 0], [1, 0, 1, 0]]
     },
+    "1166": {
+        "code": "Fd9",
+        "name": "Daily Upgrade 2",
+        "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal. Failures count toward this.",
+        "memo": "※Continued Intensive Improvement of Equipment",
+        "rewards": "a Screw",
+        "resources": [[0, 40, 0, 0], [0, 0, 0, 1]]
+    },
     "613": {
         "code": "Fw1",
         "name": "Weekly Dismantlement",
@@ -4337,6 +4353,14 @@
         "memo": "※Consolidation of Faculties to Support Ongoing War Efforts ※Consumes the resources.",
         "rewards": "5 Buckets",
         "resources": [[0, 500, 0, 150], [5, 0, 0, 0]]
+    },
+    "1167": {
+        "code": "Fw5",
+        "name": "Weekly Upgrade",
+        "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal three times within the same day. Failures count toward this.",
+        "memo": "※Concentrated Improvement of Equipment",
+        "rewards": "either two Screws OR 6 Development Materials",
+        "resources": [[0, 0, 30, 0], [0, 0, 0, 0]]
     },
     "626": {
         "code": "Fm1",
@@ -4706,13 +4730,6 @@
         "rewards": "¶First choice: Either 4 Development Materials OR two 25mm Single Autocannon Mounts OR an Equipment Slots ¶Second choice: Either 4 Buckets OR two Screws OR +2 Equipment Slots",
         "resources": [[100, 200, 100, 200], [0, 0, 0, 0]]
     },
-    "1028": {
-        "code": "L2603B4",
-        "name": "[White Day] Light Aircraft Carrier, Sortie! 2026",
-        "desc": "Sortie Langley as flagship and up to 5 additional ships OR 2 CVL and up to 4 additional ships to [W1-3], [W2-1], [W2-2] and [W3-1]. A-Rank+ each boss node.",
-        "rewards": "¶First choice: Either an AO Kamoi OR  a DE Hiburi OR  a DE Daitou OR  a DE Noumi OR  a DE Kurahashi ¶Second choice: Either three Underway Replenishments OR two Skilled Crew Members OR a Repair Godness",
-        "resources": [[314, 314, 314, 314], [0, 0, 0, 0]]
-    },
     "1043": {
         "code": "L2603B5",
         "name": "[Time-limited] The Spring Flagship is... Me!",
@@ -4734,26 +4751,68 @@
         "rewards": "¶First choice: Either +10 Equipment Slots OR three Medals OR three New Model Gun Mount Improvement Materials ¶Second choice: Either 2000 Steels OR a New Technology Aircraft Blueprint OR 6 Submarine Supply Materials",
         "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
     },
-    "941": {
-        "code": "L2604B1",
-        "name": "[Spring] Springtime Coastal Patrol Stroll! 2026",
-        "desc": "Sortie an AS/CT/DD as flagship and up to 4(!) DD/DE/SS(V) to [W1-2], [W1-3], [W2-1] and [W2-2]. A-Rank+ each boss node.",
-        "rewards": "¶First choice: Either a Type 3 Active Sonar ★2 OR two Screws OR 5 Development Materials ¶Second choice: Either a Medal OR two Irako OR a Furniture Fairy",
-        "resources": [[330, 330, 330, 330], [0, 0, 0, 0]]
-    },
-    "942": {
-        "code": "L2604B2",
-        "name": "[Spring] Continued Springtime Coastal Patrol Stroll!",
-        "desc": "Sortie any 2 of Fubuki, Yuugumo, Uzuki, Murasame, Amatsukaze, Jingei, Chougei and Heian Maru as flagship and second ship, and up to 4 additional ships to [W2-3], [W2-5] and [W3-5]. A-Rank+ each boss node twice.",
-        "rewards": "¶First choice: Either 5 Buckets OR two New Model Rocket Development Materials OR 10 Development Materials ¶Second choice: Either +3 Equipment Slots OR a Reinforcement Expansion OR three Special Aviation Rations",
-        "resources": [[480, 480, 480, 480], [0, 0, 0, 0]]
-    },
     "1011": {
         "code": "L2604B3",
         "name": "[First Striking Force] Sortie to the Southwest Islands Defense Battle!",
         "desc": "Sortie Yamato as flagship, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo to [W1-4], [W2-1], [W2-2] and [W2-5]. S-Rank each boss node twice.",
         "rewards": "¶First choice: Either 36 Development Materials OR three Medals OR an Action Report ¶Second choice: Either 6 New Model Armament Materials OR a 15m Duplex Rangefinder Kai + Type 21 Air Radar Kai 2 + Skilled Fire Direction Center ★2 OR two Prototype Flight Deck Catapults",
         "resources": [[600, 600, 600, 600], [0, 0, 0, 0]]
+    },
+    "971": {
+        "code": "L2604B4",
+        "name": "[Anniversary] 13th Anniversary Fleet, Sortie!",
+        "desc": "Sortie 2 AS/CL, one as flagship, 2 DD/SS(V) and up to 2 additional ships to [W1-2], [W1-3], [W1-4] and [W1-5]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either 13 Development Materials OR a Medal ¶Second choice: Either two Mamiyas OR 5 Screws OR 13 Buckets",
+        "resources": [[2026, 423, 0, 0], [0, 0, 0, 0]]
+    },
+    "972": {
+        "code": "L2604B5",
+        "name": "[Anniversary] CarDiv 1 Will Not Waver!",
+        "desc": "Sortie either Akagi and Kaga OR Shoukaku and Zuikaku as flagship and second ship, and up to 4 additional ships to [W2-3], [W2-4], [W5-2] and [W5-4]. S-Rank each boss node.",
+        "rewards": "¶First choice: Either a Remodel Blueprint OR 13 Screws OR an Action Report ¶Second choice: Either 6 Arsenal Resources OR a Prototype Flight Deck Catapult OR a Latest Overseas Warship Technology",
+        "resources": [[2026, 423, 2026, 423], [0, 0, 0, 0]]
+    },
+    "1009": {
+        "code": "L2604B6",
+        "name": "[Anniversary] Fleet, Head South!",
+        "desc": "Sortie any 2 of Fubuki, Yamato, Shoukaku, Sugi, Jingei, Kinugasa Kai Ni, Mogador, Gotland, Thonburi, Johnston and Fletcher Kai Mod.2+ as flagship and second ship, and up to 4 additional ships to [W5-1], [W5-2], [W5-3], [W5-4] and [W5-5]. A-Rank+ each boss node.",
+        "rewards": "a Furniture: \"13th Anniversary\" Hanging Scroll and either 10 Arsenal Resources OR two Action Reports OR 500 Flamethrowers",
+        "resources": [[1300, 1300, 1300, 1300], [0, 0, 0, 0]]
+    },
+    "979": {
+        "code": "L2604B7",
+        "name": "Monthly [Anniversary] Enforcement Transport Operation",
+        "desc": "Sortie 3 DE as flagship, second ship and third ship, and up to 3 additional ships to [W1-3], [W1-4] and [W1-6]. S-Rank each boss node twice. Reach [W1-6-N] twice.",
+        "rewards": "¶First choice: Either two Medals OR 4000 Fuels OR two Arsenal Resources ¶Second choice: Either 13 Development Materials OR 8800 Steels OR two Mamiyas",
+        "resources": [[600, 600, 600, 600], [0, 0, 0, 0]]
+    },
+    "363": {
+        "code": "L2604C1",
+        "name": "Weekly [Anniversary] Commemorative Fleet Exercises!",
+        "desc": "Secure 5 A-Rank+ victories in Exercises within the same day using any 2 of Thonburi, Nankai, Ootomari, Mizuho, Sugi, Oboro, Akebono, Sazanami, Ushio and Fubuki as flagship and second ship, and up to 4 additional ships.",
+        "rewards": "¶First choice: Either 423 Ammos OR an Arsenal Resource OR a Medal ¶Second choice: Either 5 Screws OR two 14cm Twin Gun Mounts OR 13 Development Materials",
+        "resources": [[423, 0, 423, 423], [0, 0, 0, 0]]
+    },
+    "448": {
+        "code": "L2604D1",
+        "name": "[Anniversary] Preparation for the 13th Anniversary Fleet Review",
+        "desc": "Complete Expeditions 03, A1 and A3 once, and Expedition 07 twice.",
+        "rewards": "¶First choice: Either 2026 Steels OR 2026 Ammos OR 13 Development Materials ¶Second choice: Either two Arsenal Resources OR a Type 3 Depth Charge Projector (Concentrated Deployment) OR two Medals",
+        "resources": [[2026, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "449": {
+        "code": "L2604D2",
+        "name": "[Anniversary] 13th Anniversary Fleet Review",
+        "desc": "Complete Expedition 08.",
+        "rewards": "¶First choice: Either 2026 Fuels OR 2026 Bauxites OR 13 Development Materials ¶Second choice: Either 100 Flamethrowers OR a 12.7cm Single High-angle Gun Mount Kai 2 OR three Medals",
+        "resources": [[0, 0, 2026, 0], [0, 0, 0, 0]]
+    },
+    "451": {
+        "code": "L2604D3",
+        "name": "Weekly [Anniversary] Emergency Resource Export & Import",
+        "desc": "Have 3000 Ammo and 2026 Bauxite. Complete Expeditions 05, 09 and 11 twice.",
+        "rewards": "¶First choice: Either 7000 Fuels OR 5000 Bauxites OR 40 Flamethrowers ¶Second choice: Either two Medals OR 40 Development Materials OR 60 Flamethrowers",
+        "resources": [[1300, 0, 1300, 0], [0, 0, 0, 0]]
     },
     "1165": {
         "code": "L2604F1",
@@ -4762,5 +4821,21 @@
         "memo": "※Consumes the items and resources.",
         "rewards": "¶First choice: Either 320 Development Materials OR 4 New Model Armament Materials OR a Prototype Flight Deck Catapult ¶Second choice: Either two Repair Godnesses OR two Reinforcement Expansions OR a Remodel Blueprint",
         "resources": [[0, 380, 0, 380], [0, 0, 0, 0]]
+    },
+    "1126": {
+        "code": "L2604F2",
+        "name": "Monthly [Anniversary] Large-Scale Arsenal Mission",
+        "desc": "Have 4 14cm Twin Gun Mounts, 980 Bauxite and 2800 Ammo. Scrap 13 Medium Caliber Main Guns, 13 Recon Seaplanes and 8 35.6cm Twin Gun Mounts.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either 6 Medals OR 300 Flamethrowers OR 180 Development Materials ¶Second choice: Either 6 New Model Gun Mount Improvement Materials OR 300 Flamethrowers OR 6 Arsenal Resources",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1136": {
+        "code": "L2604F3",
+        "name": "[Anniversary] Naval Air Technical Arsenal Research and Development",
+        "desc": "Have 50 Development Materials, 2 Arsenal Resources and a Skilled Crew Member. Set Houshou Kai Ni+ or Hiryuu Kai San as secretary with a >> Type 0 Fighter Model 21 (Skilled) in her first slot. Scrap 6 Shiden Model 11 and 2 Swordfishes.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either 20 Arsenal Resources OR two Ne Type Engines OR 400 Development Materials ¶Second choice: Either two Prototype Flight Deck Catapults OR 8 Latest Overseas Warship Technologys OR a Do 217 K-2 + Fritz-X",
+        "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
     }
 }
