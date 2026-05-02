@@ -2550,7 +2550,7 @@
         "improvement": [{
                 "upgrade": false,
                 "req": [[[true, false, false, false, true, true, true], [651]]],
-                "require_item2": [7, [[2, 1]], 8, [[13, 1]], 9, [[7, 1]]],
+                "require_item2": [7, [[2, 1]], 8, [[13, 3]], 9, [[7, 1]]],
                 "resource": [[0, 40, 80, 0], [4, 5, 2, 2, 10, 2], [7, 12, 3, 6, 91, 1], [0, 0, 0, 0, 0, 0]]
             }
         ],
