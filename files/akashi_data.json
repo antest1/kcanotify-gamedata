@@ -749,9 +749,10 @@
     },
     "91": {
         "improvement": [{
-                "upgrade": false,
+                "upgrade": [380, 0],
                 "req": [[[true, true, true, true, true, true, true], [477]], [[false, true, true, true, true, true, false], [160]], [[false, false, true, true, false, false, false], [141, 488]]],
-                "resource": [[10, 50, 80, 30], [3, 3, 2, 3, 10, 1], [4, 5, 3, 4, 91, 1], [0, 0, 0, 0, 0, 0]]
+                "require_item": [[2, 2], [14, 8]],
+                "resource": [[10, 50, 80, 30], [3, 3, 2, 3, 10, 1], [4, 5, 3, 4, 91, 1], [12, 20, 7, 9, 553, 1]]
             }
         ],
         "default_equipped_on": [665, 419, 420, 547, 434, 435, 437, 317, 320, 322, 327, 200, 328, 329, 344, 477, 478, 354, 355, 487]
@@ -872,6 +873,11 @@
                 "upgrade": false,
                 "req": [[[false, false, false, false, true, true, true], [320]], [[false, false, false, false, false, false, false], [557]], [[true, false, false, false, false, true, true], [419]], [[true, true, true, true, false, false, false], [20, 228]]],
                 "resource": [[10, 0, 30, 40], [5, 7, 3, 4, 27, 1], [7, 9, 4, 8, 27, 2], [0, 0, 0, 0, 0, 0]]
+            }, {
+                "upgrade": [450, 0],
+                "req": [[[false, true, true, true, true, false, false], [716]], [[true, false, false, false, true, true, true], [997]]],
+                "require_item": [[7, 1]],
+                "resource": [[10, 0, 30, 40], [5, 7, 3, 4, 27, 1], [7, 9, 4, 8, 27, 2], [9, 13, 6, 9, 106, 1]]
             }
         ],
         "default_equipped_on": [408, 537, 538, 670, 418, 419, 548, 426, 557, 558, 320, 321, 578, 326, 200, 330, 716, 975, 981, 736, 997, 742, 1008]
@@ -960,7 +966,7 @@
     "121": {
         "improvement": [{
                 "upgrade": [122, 0],
-                "req": [[[true, true, true, true, true, true, true], [421, 330, 422, 346]], [[true, false, false, false, false, true, true], [423, 357, 968]], [[true, false, false, false, true, true, true], [426]], [[true, true, false, false, false, true, true], [532, 537]]],
+                "req": [[[true, true, true, true, true, true, true], [421, 330, 422, 346]], [[true, false, false, false, false, true, true], [423, 357, 968]], [[true, false, false, false, true, true, true], [426, 1035, 1040]], [[true, true, false, false, false, true, true], [532, 537]]],
                 "resource": [[0, 0, 80, 70], [4, 5, 2, 3, 0, 0], [4, 6, 3, 5, 3, 1], [8, 10, 5, 10, 3, 2]]
             }, {
                 "upgrade": [130, 0],
@@ -1677,9 +1683,10 @@
     },
     "229": {
         "improvement": [{
-                "upgrade": false,
-                "req": [[[true, false, false, true, true, true, true], [488]], [[false, true, true, true, true, false, false], [383]], [[false, false, false, true, true, true, true], [678]]],
-                "resource": [[10, 50, 40, 20], [2, 3, 2, 2, 2, 2], [3, 5, 3, 4, 229, 1], [0, 0, 0, 0, 0, 0]]
+                "upgrade": [379, 0],
+                "req": [[[true, true, false, false, true, true, true], [488]], [[false, true, true, true, true, false, false], [383]], [[false, false, false, true, true, true, true], [678]]],
+                "require_item": [[2, 1], [14, 7]],
+                "resource": [[10, 50, 40, 20], [2, 3, 2, 2, 2, 2], [3, 5, 3, 4, 229, 1], [10, 17, 4, 7, 553, 1]]
             }
         ],
         "default_equipped_on": [641, 642, 643, 644, 289, 702, 703, 706, 708, 216, 220, 224, 992, 226, 993, 736, 994, 742, 997, 488, 252]
@@ -2021,7 +2028,7 @@
     "285": {
         "improvement": [{
                 "upgrade": false,
-                "req": [[[true, false, false, false, true, true, true], [959]], [[false, false, true, true, true, false, false], [666]], [[true, false, false, false, false, true, true], [195]], [[false, false, false, false, true, true, true], [419]], [[true, false, false, false, false, true, true], [986]]],
+                "req": [[[true, false, false, false, true, true, true], [959]], [[false, false, true, true, true, false, false], [666]], [[true, false, false, false, false, true, true], [195]], [[false, false, false, false, true, true, true], [419]], [[true, false, false, false, false, true, true], [986]], [[true, true, false, false, false, false, false], [1035, 1040]]],
                 "resource": [[120, 180, 90, 60], [5, 6, 3, 4, 13, 3], [6, 9, 5, 7, 125, 1], [0, 0, 0, 0, 0, 0]]
             }
         ],
@@ -2030,7 +2037,7 @@
     "286": {
         "improvement": [{
                 "upgrade": false,
-                "req": [[[false, true, true, true, false, false, false], [145]], [[false, true, true, false, false, false, false], [961]], [[false, false, false, false, true, true, true], [543]], [[true, false, false, false, false, true, true], [566]], [[false, true, true, true, true, false, false], [670]], [[false, false, false, true, true, true, true], [955]], [[false, false, false, false, false, false, false], [960]], [[true, false, false, false, false, false, true], [983]]],
+                "req": [[[false, true, true, true, false, false, false], [145]], [[false, true, true, false, false, false, false], [961]], [[false, false, false, false, true, true, true], [543]], [[true, false, false, false, false, true, true], [566]], [[false, true, true, true, true, false, false], [670]], [[false, false, false, true, true, true, true], [955]], [[false, false, false, false, false, false, false], [960]], [[true, false, false, false, false, false, true], [983]], [[true, true, false, false, false, false, false], [1040]]],
                 "resource": [[160, 240, 120, 80], [7, 8, 3, 4, 14, 3], [8, 12, 5, 7, 15, 3], [0, 0, 0, 0, 0, 0]]
             }
         ]
@@ -2042,6 +2049,15 @@
                 "resource": [[20, 200, 40, 60], [4, 5, 3, 3, 45, 1], [5, 7, 3, 5, 45, 2], [0, 0, 0, 0, 0, 0]]
             }
         ]
+    },
+    "288": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [1040]]],
+                "resource": [[20, 200, 40, 60], [9, 18, 4, 4, 45, 3], [11, 33, 8, 13, 287, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [1040]
     },
     "289": {
         "improvement": [{
@@ -2071,7 +2087,7 @@
     "294": {
         "improvement": [{
                 "upgrade": false,
-                "req": [[[true, true, true, true, true, true, true], [426]], [[false, false, false, true, true, true, true], [420]]],
+                "req": [[[true, true, true, true, true, true, true], [426, 1035, 1040]], [[false, false, false, true, true, true, true], [420]]],
                 "resource": [[10, 40, 70, 0], [2, 3, 2, 2, 297, 2], [3, 4, 3, 5, 3, 2], [0, 0, 0, 0, 0, 0]]
             }, {
                 "upgrade": [455, 1],
@@ -2090,7 +2106,7 @@
     "295": {
         "improvement": [{
                 "upgrade": false,
-                "req": [[[true, false, false, false, false, false, true], [426]], [[true, true, false, false, true, true, true], [368]], [[false, false, false, false, false, false, false], [647]], [[true, true, false, false, false, true, true], [666]]],
+                "req": [[[true, false, false, false, false, false, true], [426, 1035, 1040]], [[true, true, false, false, true, true, true], [368]], [[false, false, false, false, false, false, false], [647]], [[true, true, false, false, false, true, true], [666]]],
                 "resource": [[10, 70, 160, 70], [8, 9, 4, 5, 3, 2], [9, 10, 6, 9, 294, 1], [0, 0, 0, 0, 0, 0]]
             }
         ]
@@ -2186,7 +2202,7 @@
     "313": {
         "improvement": [{
                 "upgrade": [308, 0],
-                "req": [[[false, false, false, true, true, true, false], [596, 628, 629, 692]], [[false, true, true, true, true, false, false], [726, 737, 941, 942]]],
+                "req": [[[false, false, false, true, true, true, false], [596, 628, 629, 692]], [[false, true, true, true, true, false, false], [726, 737, 941, 942]], [[true, true, true, true, true, true, true], [1040]]],
                 "require_item": [[7, 1], [8, 1]],
                 "resource": [[30, 90, 190, 180], [12, 14, 7, 7, 382, 2], [15, 22, 8, 11, 284, 1], [28, 39, 13, 18, 307, 1]]
             }
@@ -2451,9 +2467,10 @@
     },
     "379": {
         "improvement": [{
-                "upgrade": false,
-                "req": [[[true, true, true, true, true, true, true], [641, 702]]],
-                "resource": [[10, 30, 50, 10], [4, 5, 3, 4, 382, 1], [6, 9, 4, 5, 91, 1], [0, 0, 0, 0, 0, 0]]
+                "upgrade": [572, 0],
+                "req": [[[true, true, true, true, true, true, true], [641, 702]], [[true, false, false, false, true, true, true], [997, 1035, 1040]]],
+                "require_item": [[2, 2], [14, 10]],
+                "resource": [[10, 30, 50, 10], [4, 5, 3, 4, 382, 1], [6, 9, 4, 5, 91, 1], [12, 24, 7, 14, 553, 1]]
             }
         ],
         "default_equipped_on": [656]
@@ -2528,6 +2545,25 @@
                 "resource": [[640, 600, 0, 780], [7, 9, 3, 4, 16, 2], [10, 18, 5, 6, 17, 2], [0, 0, 0, 0, 0, 0]]
             }
         ]
+    },
+    "397": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [651]]],
+                "require_item2": [7, [[2, 1]], 8, [[13, 1]], 9, [[7, 1]]],
+                "resource": [[0, 40, 80, 0], [4, 5, 2, 2, 10, 2], [7, 12, 3, 6, 91, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [651]
+    },
+    "398": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [651]]],
+                "resource": [[0, 30, 90, 60], [5, 6, 2, 2, 3, 2], [10, 13, 3, 5, 553, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [651]
     },
     "399": {
         "improvement": [{
@@ -3235,4 +3271,34 @@
                 "resource": [[440, 480, 0, 500], [10, 12, 8, 8, 52, 2], [12, 18, 9, 11, 466, 1], [0, 0, 0, 0, 0, 0]]
             }
         ]
+    },
+    "572": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[true, false, false, false, true, true, true], [1035]], [[false, true, true, true, false, false, false], [1040]]],
+                "require_item2": [7, [[2, 1]], 8, [[7, 1]], 9, [[2, 1]]],
+                "resource": [[10, 30, 50, 10], [6, 7, 4, 4, 294, 1], [7, 9, 5, 7, 379, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [1035]
+    },
+    "573": {
+        "improvement": [{
+                "upgrade": [574, 0],
+                "req": [[[false, false, false, false, true, true, true], [1035]], [[false, false, true, true, false, false, false], [1040]]],
+                "require_item": [[14, 13]],
+                "require_item2": [8, [[7, 1]], 9, [[14, 1]]],
+                "resource": [[10, 10, 100, 230], [9, 12, 6, 7, 88, 1], [18, 23, 7, 9, 106, 2], [23, 38, 13, 18, 278, 1]]
+            }
+        ],
+        "default_equipped_on": [1035]
+    },
+    "574": {
+        "improvement": [{
+                "upgrade": false,
+                "req": [[[false, false, false, false, true, true, true], [1040]]],
+                "resource": [[20, 20, 170, 280], [13, 15, 7, 8, 315, 1], [26, 33, 9, 12, 89, 1], [0, 0, 0, 0, 0, 0]]
+            }
+        ],
+        "default_equipped_on": [1040]
 }}

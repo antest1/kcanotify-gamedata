@@ -4837,5 +4837,28 @@
         "memo": "※Consumes the items and resources.",
         "rewards": "¶First choice: Either 20 Arsenal Resources OR two Ne Type Engines OR 400 Development Materials ¶Second choice: Either two Prototype Flight Deck Catapults OR 8 Latest Overseas Warship Technologys OR a Do 217 K-2 + Fritz-X",
         "resources": [[0, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    "1046": {
+        "code": "L2605B1",
+        "name": "[Time-limited] Admiral, Would You Like an Iris Bath?",
+        "desc": "Sortie any one of Yamashio Maru, Kaiboukan No.4 and Kaiboukan No.30 as flagship, 2 DE, a DD and up to 2 additional ships to [W1-2], [W1-3], [W1-5] and [W1-4]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either 5 Development Materials OR 5 Flamethrowers OR an Arsenal Resource ¶Second choice: Either +5 Equipment Slots OR two Medals OR two Latest Overseas Warship Technologys",
+        "resources": [[500, 500, 500, 500], [0, 0, 0, 0]]
+    },
+    "1168": {
+        "code": "L2605F1",
+        "name": "[Time-limited] Iris Festival Arsenal I",
+        "desc": "Have an Arsenal Resource, 55 Development Materials and 550 Ammo. Set any 2 of Yamashio Maru Kai, Kaiboukan No.4 and Kaiboukan No.30 as secretary and second ship. Scrap 3 >> Type 96 Fighters.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either two Re.2001 OR Kais OR a Re.2001 G Kai ★2 OR 110 Development Materials ¶Second choice: Either a New Model Aerial Armament Material OR a New Model Armament Material OR two Arsenal Resources",
+        "resources": [[155, 0, 155, 355], [0, 0, 0, 0]]
+    },
+    "1169": {
+        "code": "L2605F2",
+        "name": "[Time-limited] Iris Festival Arsenal II",
+        "desc": "Have 2 Arsenal Resources, 155 Development Materials, 550 Fuel and 550 Ammo. Set any 2 of Yamashio Maru Kai, Kaiboukan No.4 and Kaiboukan No.30 as secretary and second ship. Scrap 5 >> Type 97 Torpedo Bombers.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either two Swordfish OR a Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai) ★2 OR 210 Development Materials ¶Second choice: Either two Medals OR +5 Equipment Slots OR two New Model Gun Mount Improvement Materials",
+        "resources": [[0, 0, 155, 155], [0, 0, 0, 0]]
     }
 }

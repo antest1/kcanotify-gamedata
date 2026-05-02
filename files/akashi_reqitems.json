@@ -128,4 +128,24 @@
         "scn": "潜水舰补给物资",
         "tcn": "潛水艦補給物資"
     }
+}, {
+    "id": 13,
+    "useitem_id": 2,
+    "name": {
+        "jp": "高速建造材",
+        "en": "Flamethrower",
+        "ko": "고속건조재",
+        "scn": "高速建造材",
+        "tcn": "高速建造材"
+    }
+}, {
+    "id": 14,
+    "useitem_id": 104,
+    "name": {
+        "jp": "工廠資源",
+        "en": "Arsenal Resource",
+        "ko": "공창자원",
+        "scn": "工厂资源",
+        "tcn": "工廠資源"
+    }
 }]
