@@ -120,18 +120,18 @@
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/ships_nationality_data.json"
 }, {
 	"name": "useitems-ko.json",
-	"version": 2026042701,
+	"version": 2026062801,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/useitems-ko.json"
 }, {
 	"name": "useitems-en.json",
-	"version": 2026042701,
+	"version": 2026062801,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/useitems-en.json"
 }, {
 	"name": "useitems-scn.json",
-	"version": 2026042701,
+	"version": 2026062801,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/useitems-scn.json"
 }, {
 	"name": "useitems-tcn.json",
-	"version": 2026042701,
+	"version": 2026062801,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/useitems-tcn.json"
 }]
