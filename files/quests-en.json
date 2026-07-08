@@ -4756,8 +4756,7 @@
     "199": {
         "code": "L2606A1",
         "name": "Monthly [Time-limited] 31st Squadron, Special Operations Formation!",
-        "desc": "Have any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki in your fleet.",
-        "memo": "※In the next update, the last 4 ships will be replaced with 2 different ships.",
+        "desc": "Have any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki, Kiri in your fleet.",
         "rewards": "either three Combat Rations OR a Repair Godness",
         "resources": [[31, 31, 31.0, 31], [0, 0, 0, 0]]
     },
