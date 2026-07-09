@@ -4777,8 +4777,7 @@
     "382": {
         "code": "L2606C1",
         "name": "Monthly [Time-limited] 31st Squadron, Emergency Exercises!",
-        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki, and up to 1 additional ship.",
-        "memo": "※In the next update, the last 4 ships will be replaced with 2 different ships.",
+        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki, Kiri, and up to 1 additional ship.",
         "rewards": "¶First choice: Either three Development Materials OR a Screw OR an Equipment Slots ¶Second choice: Either two 10cm Twin High-angle Gun Mounts OR two Screws OR 2900 Fuels",
         "resources": [[300, 100, 300.0, 100], [0, 0, 0, 0]]
     },
