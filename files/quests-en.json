@@ -2184,6 +2184,13 @@
         "rewards": "¶First choice: Either a Reinforcement Expansion OR +4 Equipment Slots OR 4 Arsenal Resources ¶Second choice: Either 4 New Model Armament Materials OR a 25mm Twin Autocannon Mount (Skilled Machine Gunner Squadron) OR two Action Reports",
         "resources": [[1943, 0, 2026.0, 0], [0, 0, 0, 0]]
     },
+    "1052": {
+        "code": "B217",
+        "name": "Remodeled Multi-Role Tactical Cruiser Kitakami Kai San, Sortieing!",
+        "desc": "Sortie Kitakami Kai San as flagship, any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi and Kashi, and up to 3 additional ships to [W1-3], [W2-4] and [W4-5]. S-Rank each boss node twice.",
+        "rewards": "¶First choice: Either a Reinforcement Expansion OR 4 Daihatsu Landing Craft OR a 61cm Quintuple (Oxygen) Torpedo Mount ★5 ¶Second choice: Either three Medals OR a Toku Daihatsu Landing Craft + Chi-Ha Tank ★2 OR a Type D Kouhyouteki Kai (Kouryuu Kai)",
+        "resources": [[1300, 1300, 1300.0, 0], [0, 0, 0, 0]]
+    },
     "201": {
         "code": "Bd1",
         "name": "Daily Victory",
@@ -2618,6 +2625,22 @@
         "rewards": "¶First choice: Either 5 Arsenal Resources OR three Latest Overseas Warship Technologys OR 88 Development Materials ¶Second choice: Either a 12.7cm Single High-angle Gun Mount Kai 2 ★6 OR a Prototype Type 23 Radar Kai 3 OR 5 Medals",
         "resources": [[1945, 1946, 0.0, 0], [0, 0, 0, 0]]
     },
+    "1050": {
+        "code": "By17",
+        "name": "Annual 9th Squadron Sortie - September",
+        "desc": "Sortie Kitakami Kai Ni+ and Ooi Kai Ni, one as flagship, 2 DD and up to 2 additional ships to [W1-4], [W2-1], [W2-2] and [W2-3]. S-Rank each boss node.",
+        "memo": "※This quest resets on the first quest reset of September. ※9th Squadron, Weigh Anchor! Deploy to the Front Lines!",
+        "rewards": "¶First choice: Either 1200 Ammos OR 1000 Bauxites OR 5 Buckets ¶Second choice: Either 9 Development Materials OR a Medal OR two New Model Armament Materials",
+        "resources": [[300, 300, 300.0, 0], [0, 0, 0, 0]]
+    },
+    "1051": {
+        "code": "By18",
+        "name": "Annual Yamashiro Sortie - August",
+        "desc": "Sortie Yamashiro Kai Ni Ho as flagship, any one of Fusou and Shigure, any 2 of Mogami, Michishio, Asagumo and Yamagumo, and up to 2 additional ships to [W1-5], [W1-6], [W2-3], [W2-5] and [W4-3]. A-Rank+ each boss node. Reach [W1-6-N].",
+        "memo": "※This quest resets on the first quest reset of August. ※Remodeled 1YB3H Flagship, Break Through the Enemy Lines!",
+        "rewards": "¶First choice: Either 2500 Steels OR 12 Buckets OR a Hangar Expansion ¶Second choice: Either two Arsenal Resources OR two New Model Gun Mount Improvement Materials OR two Medals",
+        "resources": [[1000, 1000, 0.0, 1000], [0, 0, 0, 0]]
+    },
     "301": {
         "code": "C1",
         "name": "The First Exercise!",
@@ -3048,13 +3071,6 @@
         "rewards": "¶First choice: Either a Mamiya OR a Skilled Lookouts OR three Screws ¶Second choice: Either an Irako OR 6 Development Materials OR a New Model Armament Material",
         "resources": [[200, 200, 200.0, 200], [0, 0, 0, 0]]
     },
-    "313": {
-        "code": "Cs1",
-        "name": "Mass Exercises for Fall",
-        "desc": "Secure 8 victories in Exercises within the same day.",
-        "rewards": "a Mamiya and a Present Box",
-        "resources": [[1000, 0, 300.0, 0], [0, 0, 0, 0]]
-    },
     "314": {
         "code": "Cs2",
         "name": "Mass Exercises for Winter",
@@ -3070,11 +3086,18 @@
         "resources": [[0, 0, 1000.0, 300], [3, 0, 0, 0]]
     },
     "326": {
-        "code": "Cs4",
+        "code": "Cs7",
         "name": "Mass Exercises for Summer",
         "desc": "Secure 8 victories in Exercises within the same day.",
         "rewards": "¶First choice: Either a Mamiya OR 8 Development Materials ¶Second choice: Either a Present Box OR a Repair Team OR a Daihatsu Landing Craft",
         "resources": [[0, 300, 0.0, 1000], [0, 0, 0, 0]]
+    },
+    "313": {
+        "code": "Cs8",
+        "name": "Mass Exercises for Fall",
+        "desc": "Secure 8 victories in Exercises within the same day.",
+        "rewards": "a Mamiya and an Arsenal Resource",
+        "resources": [[1000, 0, 300.0, 0], [0, 0, 0, 0]]
     },
     "401": {
         "code": "D1",
@@ -4257,6 +4280,14 @@
         "rewards": "¶First choice: Either +8 Equipment Slots OR a Type 2 Depth Charge ★4 OR 40 Development Materials ¶Second choice: Either two 61cm Quintuple (Oxygen) Torpedo Mount ★4 OR a 12.7cm Twin High-angle Gun Mount Kai 2 ★4 OR three New Model Armament Materials",
         "resources": [[0, 200, 1200.0, 200], [0, 0, 0, 0]]
     },
+    "1170": {
+        "code": "F143",
+        "name": "Development of Anti-Air Armament Utilizing Existing Equipment",
+        "desc": "Have 36 Development Materials, 750 Ammo and 8 Screws. Set Kitakami Kai Ni+ as secretary. Scrap 12 12.7cm Twin High-angle Gun Mounts, 8 8cm High-angle Guns and 4 25mm Triple Autocannon Mounts.",
+        "memo": "※Consumes the items and resources.",
+        "rewards": "¶First choice: Either three New Model Armament Materials OR a 12.7cm Single High-angle Gun Mount Kai 2 ★3 OR three New Model Aerial Armament Materials ¶Second choice: Either a 25mm Triple Autocannon Mount (Concentrated Deployment) ★4 OR a 12.7cm Single High-angle Gun Mount Kai 3 OR +5 Equipment Slots",
+        "resources": [[0, 0, 300.0, 100], [0, 0, 0, 0]]
+    },
     "605": {
         "code": "Fd1",
         "name": "Daily Development 1",
@@ -4730,21 +4761,6 @@
         "rewards": "¶First choice: Either 8 Development Materials OR 6 Buckets OR two Irako ¶Second choice: Either a New Model Gun Mount Improvement Material OR a New Model Aerial Armament Material OR a New Model Armament Material",
         "resources": [[600, 300, 200.0, 200], [0, 0, 0, 0]]
     },
-    "1031": {
-        "code": "L2605B5",
-        "name": "[Early Summer] Northern Sea Combat Patrol Operation 2026",
-        "desc": "Sortie any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi, one as flagship, and up to 3 additional ships to [W3-1], [W3-2] and [W3-5]. S-Rank each boss node twice.",
-        "rewards": "¶First choice: Either 24 Buckets OR 32 Development Materials OR 4 Mamiyas ¶Second choice: Either 4 Latest Overseas Warship Technologys OR 4 New Model Armament Materials OR a Remodel Blueprint",
-        "resources": [[700, 700, 0.0, 700], [0, 0, 0, 0]]
-    },
-    "1032": {
-        "code": "L2605B6",
-        "name": "[Early Summer] Surface Task Force Operational Deployment 2026",
-        "desc": "Sortie 2 Lv.88+ (F)BB(V), a Lv.88+ CL, 2 Lv.88+ DD and up to 1 additional ship to [W1-4], [W2-5], [W3-5] and [W4-5]. S-Rank each boss node twice.",
-        "memo": "※The additional ship can be any level.",
-        "rewards": "¶First choice: Either 4 New Model Gun Mount Improvement Materials OR three New Model Armament Materials OR 88 Flamethrowers ¶Second choice: Either 5 Latest Overseas Warship Technologys OR 88 Development Materials OR a Prototype Flight Deck Catapult",
-        "resources": [[880, 880, 880.0, 880], [0, 0, 0, 0]]
-    },
     "1150": {
         "code": "L2605F2",
         "name": "[Early Summer] Naval Arsenal Reorganization and Restructuring 2026",
@@ -4781,11 +4797,18 @@
         "rewards": "¶First choice: Either three Development Materials OR a Screw OR an Equipment Slots ¶Second choice: Either two 10cm Twin High-angle Gun Mounts OR two Screws OR 2900 Fuels",
         "resources": [[300, 100, 300.0, 100], [0, 0, 0, 0]]
     },
-    "383": {
-        "code": "L2606C2",
-        "name": "Weekly [Time-limited] French Fleet, Special Exercises!",
-        "desc": "Secure 3 A-Rank+ victories in Exercises within the same day using 3 French ships and up to 3 additional ships.",
-        "rewards": "¶First choice: Either an Underway Replenishment OR three Development Materials OR 970 Fuels ¶Second choice: Either three Buckets OR a Screw OR an Equipment Slots",
-        "resources": [[230, 230, 230.0, 230], [0, 0, 0, 0]]
+    "384": {
+        "code": "L2609C1",
+        "name": "Weekly [Time-limited] Autumn Festival Exercises with the Admiral!",
+        "desc": "Secure 4 victories in Exercises within the same day using any 4 of Akigumo, Akizuki, Ayanami, Shikinami, Shiratsuyu, Urakaze, Hamakaze, Naganami, Fujinami, Asashimo, Shirakumo, Oboro, Sazanami, Jingei, Chougei, Ooyodo and Jintsuu, and up to 2 additional ships.",
+        "rewards": "¶First choice: Either two Development Materials OR two Flamethrowers ¶Second choice: Either an Arsenal Resource OR an Equipment Slots",
+        "resources": [[220, 220, 220.0, 220], [0, 0, 0, 0]]
+    },
+    "385": {
+        "code": "L2609C2",
+        "name": "Weekly [Time-limited] Autumn Festival Extra Exercises!",
+        "desc": "Secure 4 S-Rank victories in Exercises within the same day using any 3 of Algérie, Vautour, Mogador, Béarn, Hie Maru, Heian Maru, Ootomari, Mutsu, South Dakota and Victorious, and up to 3 additional ships.",
+        "rewards": "¶First choice: Either 12 Development Materials OR three Screws ¶Second choice: Either 22 Flamethrowers OR +3 Equipment Slots OR an Action Report",
+        "resources": [[330, 330, 330.0, 330], [0, 0, 0, 0]]
     }
 }
