@@ -84,7 +84,7 @@
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/ships-tcn.json"
 }, {
 	"name": "ships_init_equip_count.json",
-	"version": 2026101101,
+	"version": 2026101501,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/ships_init_equip_count.json"
 }, {
 	"name": "stype-en.json",
@@ -112,7 +112,7 @@
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/world_list.json"
 }, {
 	"name": "ships_filter_data.json",
-	"version": 2026101101,
+	"version": 2026101501,
 	"url": "https://antest1.github.io/kcanotify-gamedata/files/ships_filter_data.json"
 }, {
 	"name": "ships_nationality_data.json",
