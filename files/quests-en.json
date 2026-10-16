@@ -4775,28 +4775,28 @@
         "rewards": "¶First choice: Either 8 Development Materials OR a Medal OR a Latest Overseas Warship Technology ¶Second choice: Either two Ro.44 Seaplane Fighters OR two Pumpkins OR three Arsenal Resources",
         "resources": [[880, 880, 0, 880], [0, 0, 0, 0]]
     },
-    "1002": {
+    "1038": {
         "code": "L2610B5",
         "name": "[Halloween] Halloween Refills Have Begun!",
         "desc": "Sortie any 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston and Richard P. Leary, one as flagship, and up to 2 additional ships to [W1-1] and [W1-3]. S-Rank each boss node four times.",
         "rewards": "a Pumpkin and either 16 Development Materials OR a Pumpkin OR +2 Equipment Slots",
         "resources": [[300, 300, 0, 0], [0, 0, 0, 0]]
     },
-    "1038": {
+    "1039": {
         "code": "L2610B6",
         "name": "Weekly [Halloween] Halloween Maritime Escort Squadron, Sortie!",
         "desc": "Sortie any 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30, and up to 2 additional ships to [W1-5], [W1-2] and [W1-4]. S-Rank each boss node.",
         "rewards": "a Pumpkin and either 16 Development Materials OR a Pumpkin OR a Medal",
         "resources": [[480, 0, 480, 0], [0, 0, 0, 0]]
     },
-    "1039": {
+    "1040": {
         "code": "L2610B7",
         "name": "Monthly [Halloween] Halloween Wolf Squad, Night Raid!",
         "desc": "Sortie any 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Jingei Kai, Tuscaloosa and Indiana, one as flagship, and up to 3 additional ships to [W2-1] and [W2-2]. S-Rank each boss node twice.",
         "rewards": "¶First choice: Either a Pumpkin OR two Mamiyas ¶Second choice: Either three Medals OR two Pumpkins OR 36 Development Materials",
         "resources": [[480, 0, 0, 480], [0, 0, 0, 0]]
     },
-    "1040": {
+    "1002": {
         "code": "L2610B8",
         "name": "[Halloween] Pumpkin Festival 2026, Northern Operation!",
         "desc": "Sortie any 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Kiyoshimo and Kashi, one as flagship, and up to 3 additional ships to [W3-2], [W3-5] and [W3-4]. S-Rank each boss node.",
